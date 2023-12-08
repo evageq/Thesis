@@ -422,6 +422,12 @@ INPUT C:\Users\goste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\goste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\goste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\goste\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT .\images\topo_filial.png
+INPUT .\images\topo_filial.png
+INPUT .\images\topo_warehouse.png
+INPUT .\images\topo_warehouse.png
+INPUT .\images\topo_tp.png
+INPUT .\images\topo_tp.png
 INPUT e:\thesis5sem\out\thesis.aux
 INPUT e:\thesis5sem\out\thesis.out
 INPUT e:\thesis5sem\out\thesis.out
