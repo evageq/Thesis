@@ -485,146 +485,257 @@ diagrams.net будут использованы для построения
 бесперебойное и надежное соединение в 
 этом случае крайне необходимо, учитывая постоянные 
 переговоры, использующие интернет-соединение, серверный отдел 
-использует полный предлагаемый трафик в 1ГБит/с. 
+использует полный предлагаемый трафик в 1 ГБит/с. 
 
-В Таблице \ref{table:mainDepLoad} представлены расчеты нагрузки на каждый отдел 
+В Таблице \ref{table:mainDepAccessLevel} представлены расчеты портов для уровня доступа 
 главного штаба.
 
 \begin{table}[H]
 \centering
 \small
-\caption{Нагрузка на отделы главного штаба}
-\begin{tabular}{|m{5cm}|m{3cm}|m{3cm}|m{3cm}|}
+\caption{Расчет портов уровня доступа для главного штаба}
+\begin{tabular}{|m{4cm}|m{2.5cm}|m{2.5cm}|m{2.5cm}|m{3cm}|}
 \hline
-\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к каналу передачи данных, Мбит/с} & \textbf{Конечная нагрузка на отдел, Мбит/с} \\
+\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
 \hline
-Руководство предприятия & 1 & 1000 & 1000 \\
+Руководство предприятия & 1 & 1000 & 0 & 1 \\
 \hline
-Коммерческий отдел & 3 & 1000 & 3000 \\
+Коммерческий отдел & 3 & 1000 & 0 & 3 \\
 \hline
-Бухгалтерия & 10 & 100 & 1000 \\
+Бухгалтерия & 10 & 100 & 10 & 0 \\
 \hline
-Отдел кадров & 20 & 100 & 2000 \\
+Отдел кадров & 20 & 100 & 20 & 0 \\
 \hline
-Отдел закупок & 30 & 100 & 3000 \\
+Отдел закупок & 30 & 100 & 30 & 0 \\
 \hline
-Отдел продаж & 55 & 100 & 5500 \\
+Отдел продаж & 55 & 100 & 55 & 0 \\
 \hline
-Административно-хозяйственная служба & 2 & 100 & 200 \\
+Административно-хозяйственная служба & 2 & 100 & 2 & 0 \\
 \hline
-ИТ-департамент & 20 & 100 & 2000 \\
+ИТ-департамент & 20 & 100 & 20 & 0 \\
 \hline
-Профильные отделы & 45 & 100 & 4500 \\
+Профильные отделы & 45 & 100 & 45 & 0 \\
 \hline
-Серверный отдел & 1 & 1000 & 1000 \\
+Серверный отдел & 1 & 1000 & 0 & 1 \\
 \hline
-\multicolumn{3}{|l|}{\text{Итого}} & 23200 \\
-\hline
+Итого & 187 & - & 182 & 5 \\
+\hline 
 \end{tabular}
-\label{table:mainDepLoad}
+\label{table:mainDepAccessLevel}
 \end{table}
 
 Чтобы рассчитать нагрузку на уровне агрегации для 
-главного штаба, воспользуемся Формулой \ref{formula:mainDepLoad}.
+главного штаба, воспользуемся Формулой \ref{formula:mainDepAggregationLoad}.
 
 \begin{equation}
-        p= 22200\;\frac{\text{Мбит}}{\text{с}} \times 0.4 +
-        \;1000\;\frac{\text{Мбит}}{\text{с}} \times 1 = 9880\;\frac{\text{Мбит}}{\text{с}}
-\label{formula:mainDepLoad}
+\begin{aligned}
+p = & \; 182 \; \text{узла} \times 100 \;\frac{\text{Мбит}}{\text{с}} \times 0.4 + 4 \times 1000 \;\frac{\text{Мбит}}{\text{с}} \times 0.4\; + \\
+        & + 1 \times 1000\;\frac{\text{Мбит}}{\text{с}} \times 1 = 9880\;\frac{\text{Мбит}}{\text{с}}
+\end{aligned}
+\label{formula:mainDepAggregationLoad}
 \end{equation}
+               
+Таким образом требуется как минимум один порт типа 10GigabitEthernet.
+Необходимо учесть также резервирование портов на уровне агрегации.
+Далее представлен итоговый расчет портов для каждого уровня сети
+главного штаба (Таблица \ref{table:mainDepCampusNet}). 
+
+\begin{table}[H]
+\centering
+\small
+\caption{Итоговый расчет портов для кампусной сети главного штаба}
+\begin{tabular}{|m{2cm}|m{4cm}|m{3cm}|m{3.5cm}|}
+\hline
+\textbf{Уровень} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} & \textbf{Кол-во портов 10GigabitEthernet} \\
+\hline
+Доступ & 182 & 5 & 0 \\
+\hline
+Агрегация & 0 & 10 + 10 & 0 \\
+\hline
+Ядро & 0 & 0 & 1 + 1 \\
+\hline
+\end{tabular}
+\label{table:mainDepCampusNet}
+\end{table}
 
 
-В Таблице \ref{table:filialLoad} представлены расчеты нагрузки на каждый отдел 
+        
+
+В Таблице \ref{table:filialAccessLevel} представлены расчеты портов для уровня доступа 
 филиала.
 
 \begin{table}[H]
 \centering
 \small
-\caption{Нагрузка на отделы филиала}
-\begin{tabular}{|m{5cm}|m{3cm}|m{3cm}|m{3cm}|}
+\caption{Расчет портов уровня доступа для филиала}
+\begin{tabular}{|m{4cm}|m{2.5cm}|m{2.5cm}|m{2.5cm}|m{3cm}|}
 \hline
-\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к каналу передачи данных, Мбит/с} & \textbf{Конечная нагрузка на отдел, Мбит/с} \\
+\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
 \hline
-Руководство предприятия & 1 & 100 & 100 \\
+Руководство предприятия & 1 & 1000 & 0 & 1 \\
 \hline
-Бухгалтерия & 5 & 100 & 500 \\
+Бухгалтерия & 5 & 100 & 5 & 0 \\
 \hline
-Отдел кадров & 10 & 100 & 1000 \\
+Отдел кадров & 10 & 100 & 10 & 0 \\
 \hline
-Отдел закупок & 10 & 100 & 1000 \\
+Отдел закупок & 10 & 100 & 10 & 0 \\
 \hline
-Отдел продаж & 10 & 100 & 1000 \\
+Отдел продаж & 10 & 100 & 10 & 0 \\
 \hline
-Административно-хозяйственная служба & 2 & 100 & 200 \\
+Административно-хозяйственная служба & 2 & 100 & 2 & 0 \\
 \hline
-ИТ-департамент & 10 & 100 & 1000 \\
+ИТ-департамент & 10 & 100 & 10 & 0 \\
 \hline
-Профильные отделы & 19 & 100 & 1900 \\
+Профильные отделы & 19 & 100 & 19 & 0 \\
 \hline
-\multicolumn{3}{|l|}{\text{Итого}} & 6700 \\
+Итого & 67 & - & 66 & 1 \\
 \hline
 \end{tabular}
-\label{table:filialLoad}
+\label{table:filialAccessLevel}
 \end{table}
 
 Чтобы рассчитать нагрузку на уровне агрегации для 
-филиала, воспользуемся Формулой \ref{formula:filialLoad}.
+филиала, воспользуемся Формулой \ref{formula:filialAggregationLoad}.
 
 \begin{equation}
-        p= 6700\;\frac{\text{Мбит}}{\text{с}} \times 0.4 = 2680\;\frac{\text{Мбит}}{\text{с}}
-\label{formula:filialLoad}
+\begin{aligned}
+p = & \; 67 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0.4 \; + \\
+& + 1 \; \text{узел} \times 1000\;\frac{\text{Мбит}}{\text{с}} \times 0.4 = 3080\;\frac{\text{Мбит}}{\text{с}}
+\end{aligned}
+\label{formula:filialAggregationLoad}
 \end{equation}
 
+Таким образом требуется как минимум четыре порта типа GigabitEthernet.
+Необходимо учесть также резервирование портов на уровне агрегации.
+Далее представлен итоговый расчет портов для каждого уровня сети
+главного штаба (Таблица \ref{table:filialCampusNet}). 
 
-В Таблице \ref{table:tpLoad} представлены расчеты нагрузки на каждый отдел 
+\begin{table}[H]
+\centering
+\small
+\caption{Итоговый расчет портов для кампусной сети филиала}
+\begin{tabular}{|m{2cm}|m{4cm}|m{3cm}|m{3.5cm}|}
+\hline
+\textbf{Уровень} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
+\hline
+Доступ & 66 & 1 \\
+\hline
+Агрегация & 0 & 4 + 4 \\
+\hline
+Ядро & 0 & 4 + 4 \\
+\hline
+\end{tabular}
+\label{table:filialCampusNet}
+\end{table}
+
+В Таблице \ref{table:tpAccessLevel} представлены расчеты портов для уровня доступа 
 точки присутствия.
 
 \begin{table}[H]
 \centering
 \small
-\caption{Нагрузка на отделы точки присутствия}
-\begin{tabular}{|m{5cm}|m{3cm}|m{3cm}|m{3cm}|}
+\caption{Расчет портов уровня доступа для точки присутствия}
+\begin{tabular}{|m{4cm}|m{2.5cm}|m{2.5cm}|m{2.5cm}|m{3cm}|}
 \hline
-\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к каналу передачи данных, Мбит/с} & \textbf{Конечная нагрузка на отдел, Мбит/с} \\
+\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
 \hline
-Руководство точки присутствия & 1 & 1000 & 1000 \\
+Руководство точки присутствия & 1 & 1000 & 0 & 1 \\
 \hline
-Отдел продаж & 2 & 100 & 200 \\
+Отдел продаж & 2 & 100 & 2 & 0 \\
 \hline
-Профильный отдел & 3 & 100 & 300 \\
+Профильный отдел & 3 & 100 & 3 & 0 \\
 \hline
-\multicolumn{3}{|l|}{\text{Итого}} & 1600 \\
+Итого & 6 & - & 5 & 1 \\
 \hline
 \end{tabular}
-\label{table:tpLoad}
+\label{table:tpAccessLevel}
 \end{table}
 
-В Таблице \ref{table:warehouseLoad} представлены расчеты нагрузки на каждый отдел 
-склада.
+Чтобы рассчитать нагрузку на уровне агрегации для 
+точки присутствия, воспользуемся Формулой \ref{formula:tpAggregationLoad}.
+
+\begin{equation}
+p = 6 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0.4 \; + 1 \; \text{узел} \times 1000\;\frac{\text{Мбит}}{\text{с}} \times 0.4 = 1240\;\frac{\text{Мбит}}{\text{с}}
+\label{formula:tpAggregationLoad}
+\end{equation}
+
+
+Таким образом требуется как минимум два порта типа GigabitEthernet.
+Стоит отметить, что в точки присутствия ядро сети избыточно и, 
+следовательно, не будет использоваться.
+В Таблице \ref{table:filialCampusNet} представлен итоговый расчет портов для точки присутствия.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Итоговый расчет портов для кампусной сети филиала}
+\begin{tabular}{|m{2cm}|m{4cm}|m{3cm}|m{3.5cm}|}
+\hline
+\textbf{Уровень} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
+\hline
+Доступ & 6 & 1 \\
+\hline
+Агрегация & 0 & 2 \\
+\hline
+\end{tabular}
+\label{table:filialCampusNet}
+\end{table}
+
+
+В Таблице \ref{table:tpAccessLevel} представлены расчеты портов для уровня доступа 
+точки склада.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Расчет портов уровня доступа для склада}
+\begin{tabular}{|m{3cm}|m{2.5cm}|m{2.5cm}|m{2.5cm}|m{3cm}|}
+\hline
+\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
+\hline
+Руководство склада & 2 & 1000 & 0 & 2 \\
+\hline
+Группа складской логистики & 1 & 100 & 1 & 0 \\
+\hline
+Группа товарного учета & 13 & 100 & 13 & 0 \\
+\hline
+Служба качества & 10 & 100 & 10 & 0 \\
+\hline
+Итого & 26 & - & 24 & 2 \\
+\hline
+\end{tabular}
+\label{table:warehouseAccessLevel}
+\end{table}
+
+Чтобы рассчитать нагрузку на уровне агрегации для 
+склада, воспользуемся Формулой \ref{formula:warehouseAggregationLoad}.
+
+\begin{equation}
+p = 24 \; \text{узла} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0.4 \; + 2 \; \text{узла} \times 1000\;\frac{\text{Мбит}}{\text{с}} \times 0.4 = 1760\;\frac{\text{Мбит}}{\text{с}}
+\label{formula:warehouseAggregationLoad}
+\end{equation}
+
+Таким образом требуется как минимум два порта типа GigabitEthernet.
+Стоит отметить, что на складе ядро сети избыточно и, 
+следовательно, не будет использоваться.
+В Таблице \ref{table:warehouseCampusNet} представлен итоговый расчет портов для склада.
 
 
 \begin{table}[H]
 \centering
 \small
-\caption{Нагрузка на отделы склада}
-\begin{tabular}{|m{4cm}|m{3cm}|m{3cm}|m{3cm}|}
+\caption{Итоговый расчет портов для кампусной сети филиала}
+\begin{tabular}{|m{2cm}|m{4cm}|m{3cm}|m{3.5cm}|}
 \hline
-\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к каналу передачи данных, Мбит/с} & \textbf{Конечная нагрузка на отдел, Мбит/с} \\
+\textbf{Уровень} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
 \hline
-Руководство склада & 2 & 1000 & 2000 \\
+Доступ & 24 & 2 \\
 \hline
-Группа складской логистики & 1 & 100 & 100 \\
-\hline
-Группа товарного учета & 13 & 100 & 1300 \\
-\hline
-Служба качества & 10 & 100 & 1000 \\
-\hline
-\multicolumn{3}{|l|}{\text{Итого}} & 4400 \\
+Агрегация & 0 & 2 \\
 \hline
 \end{tabular}
-\label{table:warehouseLoad}
+\label{table:warehouseCampusNet}
 \end{table}
-
 
 
 
