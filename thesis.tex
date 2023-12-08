@@ -488,7 +488,7 @@ diagrams.net будут использованы для построения
 использует полный предлагаемый трафик в 1ГБит/с. 
 
 В Таблице \ref{table:mainDepLoad} представлены расчеты нагрузки на каждый отдел 
-для главного штаба.
+главного штаба.
 
 \begin{table}[H]
 \centering
@@ -524,9 +524,18 @@ diagrams.net будут использованы для построения
 \label{table:mainDepLoad}
 \end{table}
 
+Чтобы рассчитать нагрузку на уровне агрегации для 
+главного штаба, воспользуемся Формулой \ref{formula:mainDepLoad}.
+
+\begin{equation}
+        p= 22200\;\frac{\text{Мбит}}{\text{с}} \times 0.4 +
+        \;1000\;\frac{\text{Мбит}}{\text{с}} \times 1 = 9880\;\frac{\text{Мбит}}{\text{с}}
+\label{formula:mainDepLoad}
+\end{equation}
+
 
 В Таблице \ref{table:filialLoad} представлены расчеты нагрузки на каждый отдел 
-для штаба.
+филиала.
 
 \begin{table}[H]
 \centering
@@ -558,6 +567,17 @@ diagrams.net будут использованы для построения
 \label{table:filialLoad}
 \end{table}
 
+Чтобы рассчитать нагрузку на уровне агрегации для 
+филиала, воспользуемся Формулой \ref{formula:filialLoad}.
+
+\begin{equation}
+        p= 6700\;\frac{\text{Мбит}}{\text{с}} \times 0.4 = 2680\;\frac{\text{Мбит}}{\text{с}}
+\label{formula:filialLoad}
+\end{equation}
+
+
+В Таблице \ref{table:tpLoad} представлены расчеты нагрузки на каждый отдел 
+точки присутствия.
 
 \begin{table}[H]
 \centering
@@ -578,6 +598,9 @@ diagrams.net будут использованы для построения
 \end{tabular}
 \label{table:tpLoad}
 \end{table}
+
+В Таблице \ref{table:warehouseLoad} представлены расчеты нагрузки на каждый отдел 
+склада.
 
 
 \begin{table}[H]
@@ -602,14 +625,6 @@ diagrams.net будут использованы для построения
 \label{table:warehouseLoad}
 \end{table}
 
-Чтобы рассчитать нагрузку на уровне агрегации для 
-главного штаба, воспользуемся Формулой \ref{formula:mainDepLoad}.
-
-\begin{equation}
-        p= 22200\;\frac{\text{Мбит}}{\text{с}} \times 0.4 +
-        \;1000\;\frac{\text{Мбит}}{\text{с}} \times 1 = 1880\;\frac{\text{Мбит}}{\text{с}}
-\label{formula:mainDepLoad}
-\end{equation}
 
 
 
