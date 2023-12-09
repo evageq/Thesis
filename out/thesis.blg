@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'out/thesis.blg'
-[154] biber-MSWIN64:340> INFO - === 
-[234] Biber.pm:419> INFO - Reading 'out/thesis.bcf'
-[425] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
-[442] Biber.pm:4419> INFO - Processing section 0
-[454] Biber.pm:4610> INFO - Looking for bibtex file 'thesis.bib' for section 0
-[543] bibtex.pm:1713> INFO - LaTeX decoding ...
-[549] bibtex.pm:1519> INFO - Found BibTeX data source 'thesis.bib'
-[591] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[591] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[591] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
-[591] Biber.pm:4245> INFO - No sort tailoring available for locale 'ru-RU'
-[593] bbl.pm:660> INFO - Writing 'out/thesis.bbl' with encoding 'UTF-8'
-[594] bbl.pm:763> INFO - Output to out/thesis.bbl
+[139] biber-MSWIN64:340> INFO - === 
+[184] Biber.pm:419> INFO - Reading 'out/thesis.bcf'
+[318] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[333] Biber.pm:4419> INFO - Processing section 0
+[344] Biber.pm:4610> INFO - Looking for bibtex file 'thesis.bib' for section 0
+[428] bibtex.pm:1713> INFO - LaTeX decoding ...
+[439] bibtex.pm:1519> INFO - Found BibTeX data source 'thesis.bib'
+[476] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[476] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[476] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[476] Biber.pm:4245> INFO - No sort tailoring available for locale 'ru-RU'
+[478] bbl.pm:660> INFO - Writing 'out/thesis.bbl' with encoding 'UTF-8'
+[479] bbl.pm:763> INFO - Output to out/thesis.bbl

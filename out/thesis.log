@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.3)  9 DEC 2023 12:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.3)  10 DEC 2023 01:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2029,18 +2029,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 694--694
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 694--694
+Underfull \hbox (badness 10000) in paragraph at lines 694--695
 []|\TU/TimesNewRoman(0)/b/n/12 Кол-во
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 694--694
-\TU/TimesNewRoman(0)/b/n/12 портов
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 694--695
-[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
+\TU/TimesNewRoman(0)/b/n/12 портов
  []
 
 
@@ -2074,6 +2069,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 710--712
  []
 
 
+Underfull \hbox (badness 1264) in paragraph at lines 718--722
+\TU/TimesNewRoman(0)/m/n/14.4 отметить, что на складе ядро сети избыточно и, следовательно, не будет
+ []
+
+
 Underfull \hbox (badness 1496) in paragraph at lines 718--722
 \TU/TimesNewRoman(0)/m/n/14.4 использоваться. В Таблице [][]1.12[][] представлен итоговый расчет портов для
  []
@@ -2088,25 +2088,350 @@ Underfull \hbox (badness 10000) in paragraph at lines 730--731
 []|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
  []
 
-[13] [14]
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 742--750
+[]\TU/TimesNewRoman(0)/m/n/14.4 В данном шаге требуется создать прототип сети с учетом
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--750
+\TU/TimesNewRoman(0)/m/n/14.4 добавления сервера для развертывания программной инфраструктуры
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 742--750
+\TU/TimesNewRoman(0)/m/n/14.4 пункте работы. Для формирования прототипа используется программное
+ []
+
+[14]
 File: ./images/topo_mainDep.png Graphic file (type bmp)
 <./images/topo_mainDep.png>
 
-Overfull \hbox (25.84462pt too wide) in paragraph at lines 747--748
+Overfull \hbox (22.95364pt too wide) in paragraph at lines 755--756
  [][] 
  []
 
 [15
 
 ]
-File: ./images/topo_filial.png Graphic file (type bmp)
-<./images/topo_filial.png>
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+[]|\TU/TimesNewRoman(0)/b/n/12 Модель
+ []
 
-Overfull \hbox (1.27112pt too wide) in paragraph at lines 756--757
- [][] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+[]|\TU/TimesNewRoman(0)/b/n/12 Модули
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+[]|\TU/TimesNewRoman(0)/b/n/12 Общее количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+\TU/TimesNewRoman(0)/b/n/12 портов(с модулями
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+[]|\TU/TimesNewRoman(0)/b/n/12 Используемые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+\TU/TimesNewRoman(0)/b/n/12 порты(названия,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--771
+[]|\TU/TimesNewRoman(0)/b/n/12 Свободные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--771
+\TU/TimesNewRoman(0)/b/n/12 порты(названия,
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 776--777
+[]|\TU/TimesNewRoman(0)/m/n/12 2 порта: GigabitEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--783
+[]|\TU/TimesNewRoman(0)/m/n/12 13 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--783
+\TU/TimesNewRoman(0)/m/n/12 0/13, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--790
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--790
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--797
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--797
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--804
+[]|\TU/TimesNewRoman(0)/m/n/12 10 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--804
+\TU/TimesNewRoman(0)/m/n/12 0/10, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--811
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--811
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--818
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--818
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--825
+[]|\TU/TimesNewRoman(0)/m/n/12 17 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--825
+\TU/TimesNewRoman(0)/m/n/12 0/17, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--832
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--832
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
  []
 
 [16
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 850--850
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--850
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--857
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--857
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--870
+[]|\TU/TimesNewRoman(0)/m/n/12 24 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--870
+\TU/TimesNewRoman(0)/m/n/12 GigabitEthernet, 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 872--873
+[]|\TU/TimesNewRoman(0)/m/n/12 10 портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--877
+[]|\TU/TimesNewRoman(0)/m/n/12 24 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--877
+\TU/TimesNewRoman(0)/m/n/12 GigabitEthernet, 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--880
+[]|\TU/TimesNewRoman(0)/m/n/12 10 портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--884
+[]|\TU/TimesNewRoman(0)/m/n/12 24 порта
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 885--885
+[]|\TU/TimesNewRoman(0)/m/n/12 3 порта: GigabitEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--887
+[]|\TU/TimesNewRoman(0)/m/n/12 21 порт
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 893--894
+[]|\TU/TimesNewRoman(0)/m/n/12 2 порта
+ []
+
+[17
+
+
+] [18
+
+] [19]
+File: ./images/topo_filial.png Graphic file (type bmp)
+<./images/topo_filial.png>
+ [20
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+[]|\TU/TimesNewRoman(0)/b/n/12 Модель
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+[]|\TU/TimesNewRoman(0)/b/n/12 Модули
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+[]|\TU/TimesNewRoman(0)/b/n/12 Общее количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+\TU/TimesNewRoman(0)/b/n/12 портов(с модулями
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+[]|\TU/TimesNewRoman(0)/b/n/12 Используемые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+\TU/TimesNewRoman(0)/b/n/12 порты(названия,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--995
+[]|\TU/TimesNewRoman(0)/b/n/12 Свободные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--995
+\TU/TimesNewRoman(0)/b/n/12 порты(названия,
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 1000--1000
+[]|\TU/TimesNewRoman(0)/m/n/12 2 порта: GigabitEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1007--1007
+[]|\TU/TimesNewRoman(0)/m/n/12 15 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1007--1007
+\TU/TimesNewRoman(0)/m/n/12 0/15, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1021
+[]|\TU/TimesNewRoman(0)/m/n/12 12 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1021
+\TU/TimesNewRoman(0)/m/n/12 0/12, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+[]|\TU/TimesNewRoman(0)/m/n/12 19 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+\TU/TimesNewRoman(0)/m/n/12 0/19, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
+[]|\TU/TimesNewRoman(0)/m/n/12 NIM-ES2-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
+\TU/TimesNewRoman(0)/m/n/12 4 (4 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+[]|\TU/TimesNewRoman(0)/m/n/12 6 портов
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 1035--1035
+[]|\TU/TimesNewRoman(0)/m/n/12 2 порта: GigabitEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1037
+[]|\TU/TimesNewRoman(0)/m/n/12 4 порта
+ []
+
+[21
 
 
 ]
@@ -2114,14 +2439,14 @@ File: ./images/topo_warehouse.png Graphic file (type bmp)
 <./images/topo_warehouse.png>
 File: ./images/topo_tp.png Graphic file (type bmp)
 <./images/topo_tp.png>
- [17
+ [22
 
 ]
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 131.
 See the caption package documentation for explanation.
 
-[18] (e:\thesis5sem\out\thesis.aux)
+[23] (e:\thesis5sem\out\thesis.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -2131,18 +2456,18 @@ L3 programming layer <2023-11-09>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: D3F0B9FF4C27D218B764E0073178E3BB;1761.
+(rerunfilecheck)             Checksum: D2149DBB3602A5F0D2AF1511DE16FC3A;1761.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35239 strings out of 409717
- 669750 string characters out of 5775939
- 2168625 words of memory out of 5000000
- 56768 multiletter control sequences out of 15000+600000
+ 35242 strings out of 409717
+ 669832 string characters out of 5775939
+ 2168897 words of memory out of 5000000
+ 56771 multiletter control sequences out of 15000+600000
  564725 words of font info for 117 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,17n,114p,1165b,5158s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on e:\thesis5sem\out\thesis.xdv (18 pages, 150092 bytes).
+Output written on e:\thesis5sem\out\thesis.xdv (23 pages, 232824 bytes).
