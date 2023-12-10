@@ -637,15 +637,15 @@ p = & \; 67 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \
 \caption{Расчет портов уровня доступа для точки присутствия}
 \begin{tabular}{|m{4cm}|m{2.5cm}|m{2.5cm}|m{2.5cm}|m{3cm}|}
 \hline
-\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
+\textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} \\
 \hline
-Руководство точки присутствия & 1 & 1000 & 0 & 1 \\
+Руководство точки присутствия & 1 & 100 & 0 \\
 \hline
-Отдел продаж & 2 & 100 & 2 & 0 \\
+Отдел продаж & 2 & 100 & 2 \\
 \hline
-Профильный отдел & 3 & 100 & 3 & 0 \\
+Профильный отдел & 3 & 100 & 3 \\
 \hline
-Итого & 6 & - & 5 & 1 \\
+Итого & 6 & - & 6 \\
 \hline
 \end{tabular}
 \label{table:tpAccessLevel}
@@ -655,12 +655,12 @@ p = & \; 67 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \
 точки присутствия, воспользуемся Формулой \ref{formula:tpAggregationLoad}.
 
 \begin{equation}
-p = 6 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0.4 \; + 1 \; \text{узел} \times 1000\;\frac{\text{Мбит}}{\text{с}} \times 0.4 = 1240\;\frac{\text{Мбит}}{\text{с}}
+p = 6 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0.4 \; = 240 \;\frac{\text{Мбит}}{\text{с}}
 \label{formula:tpAggregationLoad}
 \end{equation}
 
 
-Таким образом требуется как минимум два порта типа GigabitEthernet.
+Таким образом требуется как минимум один порт типа GigabitEthernet.
 Стоит отметить, что в точки присутствия ядро сети избыточно и, 
 следовательно, не будет использоваться.
 В Таблице \ref{table:filialCampusNet} представлен итоговый расчет портов для точки присутствия.
@@ -697,11 +697,11 @@ p = 6 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 
 \hline
 Группа складской логистики & 1 & 100 & 1 \\
 \hline
-Группа товарного учета & 13 & 100 & 13 \\
+Группа товарного учета & 10 & 100 & 10 \\
 \hline
 Служба качества & 10 & 100 & 10 \\
 \hline
-Итого & 26 & - & 24 \\
+Итого & 22 & - & 22 \\
 \hline
 \end{tabular}
 \label{table:warehouseAccessLevel}
@@ -711,11 +711,11 @@ p = 6 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 
 склада, воспользуемся Формулой \ref{formula:warehouseAggregationLoad}.
 
 \begin{equation}
-p = 24 \; \text{узла} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0.4 \; = 760\;\frac{\text{Мбит}}{\text{с}}
+p = 22 \; \text{узла} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0.4 \; = 880\;\frac{\text{Мбит}}{\text{с}}
 \label{formula:warehouseAggregationLoad}
 \end{equation}
 
-Таким образом требуется как минимум один типа GigabitEthernet.
+Таким образом требуется как минимум один порт типа GigabitEthernet.
 Стоит отметить, что на складе ядро сети избыточно и, 
 следовательно, не будет использоваться.
 В Таблице \ref{table:warehouseCampusNet} представлен итоговый расчет портов для склада.
@@ -724,12 +724,12 @@ p = 24 \; \text{узла} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0
 \begin{table}[H]
 \centering
 \small
-\caption{Итоговый расчет портов для кампусной сети филиала}
+\caption{Итоговый расчет портов для кампусной сети склада}
 \begin{tabular}{|m{2cm}|m{4cm}|m{3cm}|m{3.5cm}|}
 \hline
 \textbf{Уровень} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
 \hline
-Доступ & 24 & 1 \\
+Доступ & 22 & 0 \\
 \hline
 Агрегация & 0 & 1 \\
 \hline
@@ -959,6 +959,7 @@ R\_1\_L3\_GOSTEV &
 \centering
 \caption{Продолжение листинга \ref{table:mainDepConnectionPlan}}
 \begin{tabular}{|l|l|l|}
+\hline
 \multirow{4}{*}{SW\_2\_L3\_GOSTEV}  & GigabitEthernet0/1-0/12  & SW\_1-12\_L2\_GOSTEV          \\ \cline{2-3} 
                                     & GigabitEthernet0/13      & SW\_3\_L3\_GOSTEV             \\ \cline{2-3} 
                                     & 10GigabitEthernet0/1     & R1\_L3\_GOSTEV                \\ \cline{2-3} 
@@ -983,7 +984,7 @@ R\_1\_L3\_GOSTEV &
 
 \begin{landscape}
         
-Спецификация устройств промежуточных устройств прототипа филала представлена в Таблице \ref{table:filialDevicesSpecs}.
+Спецификация устройств промежуточных устройств прототипа филиала представлена в Таблице \ref{table:filialDevicesSpecs}.
 
 \begin{table}[H]
 \centering
@@ -1028,6 +1029,20 @@ SW\_5\_L2\_GOSTEV &
 19 портов: FastEthernet0/1-0/19, 2 порта GigabitEthernet0/1-0/2 &
 5 портов FastEthernet \\
 \hline
+3650 24 PS &
+SW\_1\_L3\_GOSTEV &
+- &
+24 порта GigabitEthernet &
+7 портов: GigabitEthernet0/1-0/7 &
+17 портов GigabitEthernet \\
+\hline
+3650 24 PS &
+SW\_2\_L3\_GOSTEV &
+- &
+24 порта GigabitEthernet &
+7 портов: GigabitEthernet0/1-0/7 &
+17 портов GigabitEthernet \\
+\hline
 4321 &
 R\_1\_L3\_GOSTEV &
 NIM-ES2-4 (4 порта GigabitEthernet) &
@@ -1040,6 +1055,44 @@ NIM-ES2-4 (4 порта GigabitEthernet) &
 \end{table}
 \end{landscape}
 
+
+План по подключению конечных пользователей в филиале представлен в Таблице \ref{table:filialConnectionPlan}.
+\begin{table}[H]
+\small
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Название устройства}       & \textbf{Порт}          & \textbf{Описание подключения} \\ \hline
+\multirow{3}{*}{SW\_1\_L2\_GOSTEV} & GigabitEthernet0/1     & PC\_1\_1\_GOSTEV              \\ \cline{2-3} 
+                                   & GigabitEthernet0/2     & SW\_1\_L3\_GOSTEV             \\ \cline{2-3} 
+                                   & FastEthernet0/1        & SW\_2\_L3\_GOSTEV             \\ \hline
+\multirow{4}{*}{SW\_2\_L2\_GOSTEV} & FastEthernet0/1-0/5    & PC\_2\_1-5\_GOSTEV            \\ \cline{2-3} 
+                                   & FastEthernet0/6-0/15   & PC\_3\_1-10\_GOSTEV           \\ \cline{2-3} 
+                                   & GigabitEthernet0/1     & SW\_1\_L3\_GOSTEV             \\ \cline{2-3} 
+                                   & GigabitEthernet0/2     & SW\_2\_L3\_GOSTEV             \\ \hline
+\multirow{4}{*}{SW\_3\_L2\_GOSTEV} & FastEthernet0/1-0/10   & PC\_4\_1-10\_GOSTEV           \\ \cline{2-3} 
+                                   & FastEthernet0/11-0/20  & PC\_5\_1-10\_GOSTEV           \\ \cline{2-3} 
+                                   & GigabitEthernet0/1     & SW\_1\_L3\_GOSTEV             \\ \cline{2-3} 
+                                   & GigabitEthernet0/2     & SW\_2\_L3\_GOSTEV             \\ \hline
+\multirow{4}{*}{SW\_4\_L2\_GOSTEV} & FastEthernet0/1-0/2    & PC\_6\_2\_GOSTEV              \\ \cline{2-3} 
+                                   & FastEthernet0/3-0/12   & PC\_7\_1-10\_GOSTEV           \\ \cline{2-3} 
+                                   & GigabitEthernet0/1     & SW\_1\_L3\_GOSTEV             \\ \cline{2-3} 
+                                   & GigabitEthernet0/2     & SW\_2\_L3\_GOSTEV             \\ \hline
+\multirow{3}{*}{SW\_5\_L2\_GOSTEV} & FastEthernet0/1-0/19   & PC\_8\_1-19\_GOSTEV           \\ \cline{2-3} 
+                                   & GigabitEthernet0/1     & SW\_1\_L3\_GOSTEV             \\ \cline{2-3} 
+                                   & GigabitEthernet0/2     & SW\_2\_L3\_GOSTEV             \\ \hline
+\multirow{3}{*}{SW\_1\_L3\_GOSTEV} & GigabitEthernet0/1-0/5 & SW\_1-5\_L2\_GOSTEV           \\ \cline{2-3} 
+                                   & GigabitEthernet0/6     & SW\_2\_L3\_GOSTEV             \\ \cline{2-3} 
+                                   & GigabitEthernet0/7     & R\_1\_L3\_GOSTEV              \\ \hline
+\multirow{3}{*}{SW\_2\_L3\_GOSTEV} & GigabitEthernet0/1-0/5 & SW\_1-5\_L2\_GOSTEV           \\ \cline{2-3} 
+                                   & GigabitEthernet0/6     & SW\_1\_L3\_GOSTEV             \\ \cline{2-3} 
+                                   & GigabitEthernet0/7     & R\_1\_L3\_GOSTEV              \\ \hline
+R\_1\_L3\_GOSTEV                   & GigabitEthernet0/1-0/2 & SW\_1-2\_L3\_GOSTEV           \\ \hline
+\end{tabular}
+\end{table}
+
+
+
 Топология типового склада представлена на Рисунке \ref{fig:warehouseTopo}.
 \begin{figure}[H]
         \centering
@@ -1048,6 +1101,54 @@ NIM-ES2-4 (4 порта GigabitEthernet) &
         \label{fig:warehouseTopo}
 \end{figure}
 
+
+\begin{table}[H]
+\small
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Название устройства}       & \textbf{Порт}         & \textbf{Описание подключения} \\ \hline
+\multirow{5}{*}{SW\_1\_L2\_GOSTEV} & FastEthernet0/1       & PC\_4\_1\_GOSTEV              \\ \cline{2-3} 
+                                   & FastEthernet0/2       & PC\_1\_1\_GOSTEV              \\ \cline{2-3} 
+                                   & FastEthernet0/3-0/12  & PC\_2\_1-10\_GOSTEV           \\ \cline{2-3} 
+                                   & FastEthernet0/13-0/22 & PC\_3\_1-10\_GOSTEV           \\ \cline{2-3} 
+                                   & GigabitEthernet0/1    & R\_1\_L3\_GOSTEV              \\ \hline
+R\_1\_L3\_GOSTEV                   & GigabitEthernet0/1    & SW\_1\_L2\_GOSTEV             \\ \hline
+\end{tabular}
+\end{table}
+
+
+\begin{landscape}
+\begin{table}[H]
+\centering
+\small
+\caption{Спецификация промежуточных устройств прототипа филиала}
+\begin{tabular}{|m{2.5cm}|m{4cm}|m{3cm}|m{4.2cm}|m{5.3cm}|m{4cm}|}
+\hline
+\textbf{Модель устройств} & \textbf{Имя устройства} & \textbf{Модули расширения} & \textbf{Общее количество портов(с модулями расширения)} & \textbf{Используемые порты(названия, количество)} & \textbf{Свободные порты(названия, количество)} \\
+\hline
+2950T-24 &
+SW\_1\_L2\_GOSTEV &
+- &
+24 порта FastEthernet, 2 порта GigabitEthernet &
+22 порта: FastEthernet0/1-0/22, 1 порт GigabitEthernet &
+2 порта FastEthernet, 1 порт GigabitEthernet \\
+\hline
+1941 &
+R\_1\_L3\_GOSTEV &
+- &
+2 порта GigabitEthernet &
+1 порт GigabitEthernet0/1 &
+1 порт GigabitEthernet \\
+\hline
+\end{tabular}
+\end{table}
+\end{landscape}
+
+
+
+
+
 Топология типовой точки присутствия представлена на Рисунке \ref{fig:tpTopo}.
 \begin{figure}[H]
         \centering
@@ -1055,6 +1156,48 @@ NIM-ES2-4 (4 порта GigabitEthernet) &
         \caption{Прототипируемая топология сети точки присутствия}
         \label{fig:tpTopo}
 \end{figure}
+
+\begin{table}[H]
+\small
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Название устройства}       & \textbf{Порт}         & \textbf{Описание подключения} \\ \hline
+\multirow{4}{*}{SW\_1\_L2\_GOSTEV} & FastEthernet0/1       & PC\_1\_1\_GOSTEV              \\ \cline{2-3} 
+                                   & FastEthernet0/2-0/3   & PC\_2\_1-2\_GOSTEV        \\ \cline{2-3} 
+                                   & FastEthernet0/4-0/0/6 & PC\_3\_1-3\_GOSTEV            \\ \cline{2-3} 
+                                   & GigabitEthernet0/1    & R\_1\_L3\_GOSTEV              \\ \hline
+R\_1\_L3\_GOSTEV                   & GigabitEthernet0/1    & SW\_1\_L2\_GOSTEV             \\ \hline
+\end{tabular}
+\end{table}
+
+
+\begin{landscape}
+\begin{table}[H]
+\centering
+\small
+\caption{Спецификация промежуточных устройств прототипа филиала}
+\begin{tabular}{|m{2.5cm}|m{4cm}|m{3cm}|m{4.2cm}|m{5.3cm}|m{4cm}|}
+\hline
+\textbf{Модель устройств} & \textbf{Имя устройства} & \textbf{Модули расширения} & \textbf{Общее количество портов(с модулями расширения)} & \textbf{Используемые порты(названия, количество)} & \textbf{Свободные порты(названия, количество)} \\
+\hline
+2950T-24 &
+SW\_1\_L2\_GOSTEV &
+- &
+24 порта FastEthernet, 2 порта GigabitEthernet &
+6 портов: FastEthernet0/1-0/6, 1 порт GigabitEthernet &
+18 портов FastEthernet, 1 порт GigabitEthernet \\
+\hline
+1941 &
+R\_1\_L3\_GOSTEV &
+- &
+2 порта GigabitEthernet &
+1 порт GigabitEthernet0/1 &
+1 порт GigabitEthernet \\
+\hline
+\end{tabular}
+\end{table}
+\end{landscape}
 
 
 

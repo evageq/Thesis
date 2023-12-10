@@ -3,4 +3,4 @@
 \contentsline {subsection}{\numberline {1.1}Определение структуры предприятия}{6}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Расчёт пропускной способности каналов передачи данных}{9}{subsection.1.2}%
 \contentsline {subsection}{\numberline {1.3}Прототипирование сети}{14}{subsection.1.3}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗУЕМЫХ ИСТОЧНИКОВ}{23}{figure.caption.25}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗУЕМЫХ ИСТОЧНИКОВ}{27}{table.caption.30}%
