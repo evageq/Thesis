@@ -367,6 +367,7 @@ diagrams.net будут использованы для построения
 \centering
 \small
 \caption{Численность персонала в главном штабе}
+\label{table:mainDepPopul}
 \begin{tabular}{|m{5cm}|m{3cm}|m{3cm}|}
 \hline
 \textbf{Название отдела} & \textbf{Количество людей} & \textbf{Количество АРМ} \\
@@ -392,7 +393,6 @@ diagrams.net будут использованы для построения
 Серверный отдел & 1 & 1 \\
 \hline
 \end{tabular}
-\label{table:mainDepPopul}
 \end{table}
 
 
@@ -400,6 +400,7 @@ diagrams.net будут использованы для построения
 \centering
 \small
 \caption{Численность персонала в филиале}
+\label{table:filialPopul}
 \begin{tabular}{|m{5cm}|m{3cm}|m{3cm}|}
 \hline
 \textbf{Название отдела} & \textbf{Количество людей} & \textbf{Количество АРМ} \\
@@ -421,7 +422,6 @@ diagrams.net будут использованы для построения
 Профильные отделы & 19 & 19 \\
 \hline
 \end{tabular}
-\label{table:filialPopul}
 \end{table}
 
 
@@ -429,6 +429,7 @@ diagrams.net будут использованы для построения
 \centering
 \small
 \caption{Численность персонала в точке присутствия}
+\label{table:tpPopul}
 \begin{tabular}{|m{5cm}|m{3cm}|m{3cm}|}
 \hline
 \textbf{Название отдела} & \textbf{Количество людей} & \textbf{Количество АРМ} \\
@@ -440,7 +441,6 @@ diagrams.net будут использованы для построения
 Профильный отдел & 3 & 3 \\
 \hline
 \end{tabular}
-\label{table:tpPopul}
 \end{table}
 
 
@@ -448,6 +448,7 @@ diagrams.net будут использованы для построения
 \centering
 \small
 \caption{Численность персонала на складе}
+\label{table:warehousePopul}
 \begin{tabular}{|m{4cm}|m{3cm}|m{3cm}|}
 \hline
 \textbf{Название отдела} & \textbf{Количество людей} & \textbf{Количество АРМ} \\
@@ -461,7 +462,6 @@ diagrams.net будут использованы для построения
 Служба качества & 10 & 10 \\
 \hline
 \end{tabular}
-\label{table:warehousePopul}
 \end{table}
 
 
@@ -494,6 +494,7 @@ diagrams.net будут использованы для построения
 \centering
 \small
 \caption{Расчет портов уровня доступа для главного штаба}
+\label{table:mainDepAccessLevel}
 \begin{tabular}{|m{4cm}|m{2.5cm}|m{2.5cm}|m{2.5cm}|m{3cm}|}
 \hline
 \textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
@@ -521,7 +522,6 @@ diagrams.net будут использованы для построения
 Итого & 187 & - & 185 & 2 \\
 \hline 
 \end{tabular}
-\label{table:mainDepAccessLevel}
 \end{table}
 
 Чтобы рассчитать нагрузку на уровне агрегации для 
@@ -544,6 +544,7 @@ p = & \; 182 \; \text{узла} \times 100 \;\frac{\text{Мбит}}{\text{с}} \
 \centering
 \small
 \caption{Итоговый расчет портов для кампусной сети главного штаба}
+\label{table:mainDepCampusNet}
 \begin{tabular}{|m{2cm}|m{4cm}|m{3cm}|m{3.5cm}|}
 \hline
 \textbf{Уровень} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} & \textbf{Кол-во портов 10GigabitEthernet} \\
@@ -555,7 +556,6 @@ p = & \; 182 \; \text{узла} \times 100 \;\frac{\text{Мбит}}{\text{с}} \
 Ядро & 0 & 0 & 1 + 1 \\
 \hline
 \end{tabular}
-\label{table:mainDepCampusNet}
 \end{table}
 
 
@@ -568,6 +568,7 @@ p = & \; 182 \; \text{узла} \times 100 \;\frac{\text{Мбит}}{\text{с}} \
 \centering
 \small
 \caption{Расчет портов уровня доступа для филиала}
+\label{table:filialAccessLevel}
 \begin{tabular}{|m{4cm}|m{2.5cm}|m{2.5cm}|m{2.5cm}|m{3cm}|}
 \hline
 \textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
@@ -591,7 +592,6 @@ p = & \; 182 \; \text{узла} \times 100 \;\frac{\text{Мбит}}{\text{с}} \
 Итого & 67 & - & 66 & 1 \\
 \hline
 \end{tabular}
-\label{table:filialAccessLevel}
 \end{table}
 
 Чтобы рассчитать нагрузку на уровне агрегации для 
@@ -614,6 +614,7 @@ p = & \; 67 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \
 \centering
 \small
 \caption{Итоговый расчет портов для кампусной сети филиала}
+\label{table:filialCampusNet}
 \begin{tabular}{|m{2cm}|m{4cm}|m{3cm}|m{3.5cm}|}
 \hline
 \textbf{Уровень} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
@@ -625,7 +626,6 @@ p = & \; 67 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \
 Ядро & 0 & 4 + 4 \\
 \hline
 \end{tabular}
-\label{table:filialCampusNet}
 \end{table}
 
 В Таблице \ref{table:tpAccessLevel} представлены расчеты портов для уровня доступа 
@@ -635,6 +635,7 @@ p = & \; 67 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \
 \centering
 \small
 \caption{Расчет портов уровня доступа для точки присутствия}
+\label{table:tpAccessLevel}
 \begin{tabular}{|m{4cm}|m{2.5cm}|m{2.5cm}|m{2.5cm}|m{3cm}|}
 \hline
 \textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} \\
@@ -648,7 +649,6 @@ p = & \; 67 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \
 Итого & 6 & - & 6 \\
 \hline
 \end{tabular}
-\label{table:tpAccessLevel}
 \end{table}
 
 Чтобы рассчитать нагрузку на уровне агрегации для 
@@ -669,6 +669,7 @@ p = 6 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 
 \centering
 \small
 \caption{Итоговый расчет портов для кампусной сети филиала}
+\label{table:filialCampusNet}
 \begin{tabular}{|m{2cm}|m{4cm}|m{3cm}|m{3.5cm}|}
 \hline
 \textbf{Уровень} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
@@ -678,7 +679,6 @@ p = 6 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 
 Агрегация & 0 & 2 \\
 \hline
 \end{tabular}
-\label{table:filialCampusNet}
 \end{table}
 
 
@@ -689,6 +689,7 @@ p = 6 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 
 \centering
 \small
 \caption{Расчет портов уровня доступа для склада}
+\label{table:warehouseAccessLevel}
 \begin{tabular}{|m{3cm}|m{2.5cm}|m{2.5cm}|m{2.5cm}|}
 \hline
 \textbf{Название отдела} & \textbf{Количество АРМ} & \textbf{Требования к скорости, Мбит/с} & \textbf{Кол-во портов FastEthernet} \\
@@ -704,7 +705,6 @@ p = 6 \; \text{узлов} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 
 Итого & 22 & - & 22 \\
 \hline
 \end{tabular}
-\label{table:warehouseAccessLevel}
 \end{table}
 
 Чтобы рассчитать нагрузку на уровне агрегации для 
@@ -725,6 +725,7 @@ p = 22 \; \text{узла} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0
 \centering
 \small
 \caption{Итоговый расчет портов для кампусной сети склада}
+\label{table:warehouseCampusNet}
 \begin{tabular}{|m{2cm}|m{4cm}|m{3cm}|m{3.5cm}|}
 \hline
 \textbf{Уровень} & \textbf{Кол-во портов FastEthernet} & \textbf{Кол-во портов GigabitEthernet} \\
@@ -734,7 +735,6 @@ p = 22 \; \text{узла} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0
 Агрегация & 0 & 1 \\
 \hline
 \end{tabular}
-\label{table:warehouseCampusNet}
 \end{table}
 
 \newpage
@@ -759,12 +759,13 @@ p = 22 \; \text{узла} \times 100\;\frac{\text{Мбит}}{\text{с}} \times 0
 \end{landscape}
 
 \begin{landscape}
-Спецификация устройств промежуточных устройств прототипа главного штаба представлена в Таблице \ref{table:mainDepDevicesSpecs}.
+Спецификация устройств промежуточных устройств прототипа сети главного штаба представлена в Таблице \ref{table:mainDepDevicesSpecs}.
 
 \begin{table}[H]
 \centering
 \small
 \caption{Спецификация промежуточных устройств прототипа главного штаба}
+\label{table:mainDepDevicesSpecs}
 \begin{tabular}{|m{2.5cm}|m{4cm}|m{2.5cm}|m{4.2cm}|m{5.3cm}|m{4cm}|}
 \hline
 \textbf{Модель устройств} & \textbf{Имя устройства} & \textbf{Модули расширения} & \textbf{Общее количество портов(с модулями расширения)} & \textbf{Используемые порты(названия, количество)} & \textbf{Свободные порты(названия, количество)} \\
@@ -832,7 +833,6 @@ SW\_9\_L2\_GOSTEV &
 20 портов: FastEthernet0/1-0/20, 2 порта GigabitEthernet0/1-0/2 &
 4 порта FastEthernet \\
 \end{tabular}
-\label{table:mainDepDevicesSpecs}
 \end{table}
 \end{landscape}
 
@@ -840,7 +840,7 @@ SW\_9\_L2\_GOSTEV &
 \begin{table}[H]
 \centering
 \small
-\caption{Продолжение Таблицы \ref{table:mainDepDevicesSpecs}}
+\caption*{Продолжение Таблицы \ref{table:mainDepDevicesSpecs}}
 \begin{tabular}{|m{2.5cm}|m{4cm}|m{2.5cm}|m{4.2cm}|m{5.3cm}|m{4cm}|}
 \hline
 2960 &
@@ -896,14 +896,13 @@ R\_1\_L3\_GOSTEV &
 \end{table}
 \end{landscape}
 
-В Таблице \ref{table:mainDepConnectionPlan} указан план по подключению конечных устройств в главном штабе.f
+В Таблице \ref{table:mainDepConnectionPlan} указан план по подключению оборудования по портам в главном штабе.
 
-% Please add the following required packages to your document preamble:
-% \usepackage{multirow}
 \begin{table}[H]
 \small
 \centering
 \caption{План по подключению конечных устройств в главном здании}
+\label{table:mainDepConnectionPlan}
 \begin{tabular}{|l|l|l|}
 \hline
 \textbf{Название устройства}        & \textbf{Порт}            & \textbf{Описание подключения} \\ \hline
@@ -950,14 +949,13 @@ R\_1\_L3\_GOSTEV &
                                     & 10GigabitEthernet0/1     & R1\_L3\_GOSTEV                \\ \cline{2-3} 
                                     & GigabitEthernet0/14      & SW\_2\_L3\_GOSTEV             \\ 
 \end{tabular}
-\label{table:mainDepConnectionPlan}
 \end{table}
 
 \newpage
 \begin{table}[H]
 \small
 \centering
-\caption{Продолжение листинга \ref{table:mainDepConnectionPlan}}
+\caption*{Продолжение листинга \ref{table:mainDepConnectionPlan}}
 \begin{tabular}{|l|l|l|}
 \hline
 \multirow{4}{*}{SW\_2\_L3\_GOSTEV}  & GigabitEthernet0/1-0/12  & SW\_1-12\_L2\_GOSTEV          \\ \cline{2-3} 
@@ -966,7 +964,8 @@ R\_1\_L3\_GOSTEV &
                                     & GigabitEthernet0/14      & SW\_1\_L3\_GOSTEV             \\ \hline
 \multirow{3}{*}{SW\_3\_L3\_GOSTEV}  & GigabitEthernet0/1       & S\_1\_GOSTEV                  \\ \cline{2-3} 
                                     & GigabitEthernet0/2       & SW\_1\_L3\_GOSTEV             \\ \cline{2-3} 
-                                    & GigabitEthernet0/3       & SW\_2\_L3\_GOSTEV             \\ \hline
+                                    & GigabitEthernet0/3       & SW\_2\_L3\_GOSTEV             \\ \cline{2-3}
+                                    & GigabitEthernet0/4       & R\_1\_L3\_GOSTEV              \\ \hline
 \multirow{2}{*}{R\_1\_L3\_GOSTEV}   & 10GigabitEthernet0/1-0/2 & SW\_1-2\_L3\_GOSTEV           \\ \cline{2-3} 
                                     & GigabitEthernet0/1       & SW\_3\_L3\_GOSTEV             \\ \hline
 \end{tabular}
@@ -984,12 +983,13 @@ R\_1\_L3\_GOSTEV &
 
 \begin{landscape}
         
-Спецификация устройств промежуточных устройств прототипа филиала представлена в Таблице \ref{table:filialDevicesSpecs}.
+Спецификация устройств промежуточных устройств прототипа сети филиала представлена в Таблице \ref{table:filialDevicesSpecs}.
 
 \begin{table}[H]
 \centering
 \small
 \caption{Спецификация промежуточных устройств прототипа филиала}
+\label{table:filialDevicesSpecs}
 \begin{tabular}{|m{2.5cm}|m{4cm}|m{3cm}|m{4.2cm}|m{5.3cm}|m{4cm}|}
 \hline
 \textbf{Модель устройств} & \textbf{Имя устройства} & \textbf{Модули расширения} & \textbf{Общее количество портов(с модулями расширения)} & \textbf{Используемые порты(названия, количество)} & \textbf{Свободные порты(названия, количество)} \\
@@ -1051,15 +1051,16 @@ NIM-ES2-4 (4 порта GigabitEthernet) &
 4 порта GigabitEthernet \\
 \hline
 \end{tabular}
-\label{table:filialDevicesSpecs}
 \end{table}
 \end{landscape}
 
 
-План по подключению конечных пользователей в филиале представлен в Таблице \ref{table:filialConnectionPlan}.
+План по подключению оборудования по портам в филиале представлен в Таблице \ref{table:filialConnectionPlan}.
 \begin{table}[H]
 \small
 \centering
+\caption{План по подключению конечных устройств в филиале}
+\label{table:filialConnectionPlan}
 \begin{tabular}{|l|l|l|}
 \hline
 \textbf{Название устройства}       & \textbf{Порт}          & \textbf{Описание подключения} \\ \hline
@@ -1102,27 +1103,15 @@ R\_1\_L3\_GOSTEV                   & GigabitEthernet0/1-0/2 & SW\_1-2\_L3\_GOSTE
 \end{figure}
 
 
-\begin{table}[H]
-\small
-\centering
-\begin{tabular}{|l|l|l|}
-\hline
-\textbf{Название устройства}       & \textbf{Порт}         & \textbf{Описание подключения} \\ \hline
-\multirow{5}{*}{SW\_1\_L2\_GOSTEV} & FastEthernet0/1       & PC\_4\_1\_GOSTEV              \\ \cline{2-3} 
-                                   & FastEthernet0/2       & PC\_1\_1\_GOSTEV              \\ \cline{2-3} 
-                                   & FastEthernet0/3-0/12  & PC\_2\_1-10\_GOSTEV           \\ \cline{2-3} 
-                                   & FastEthernet0/13-0/22 & PC\_3\_1-10\_GOSTEV           \\ \cline{2-3} 
-                                   & GigabitEthernet0/1    & R\_1\_L3\_GOSTEV              \\ \hline
-R\_1\_L3\_GOSTEV                   & GigabitEthernet0/1    & SW\_1\_L2\_GOSTEV             \\ \hline
-\end{tabular}
-\end{table}
+Спецификация промежуточных устройств прототипа сети склада представлена в Таблице \ref{table:warehouseDevicesSpecs}.
 
-
+    
 \begin{landscape}
 \begin{table}[H]
 \centering
 \small
-\caption{Спецификация промежуточных устройств прототипа филиала}
+\caption{Спецификация промежуточных устройств прототипа сети склада}
+\label{table:warehouseDevicesSpecs}
 \begin{tabular}{|m{2.5cm}|m{4cm}|m{3cm}|m{4.2cm}|m{5.3cm}|m{4cm}|}
 \hline
 \textbf{Модель устройств} & \textbf{Имя устройства} & \textbf{Модули расширения} & \textbf{Общее количество портов(с модулями расширения)} & \textbf{Используемые порты(названия, количество)} & \textbf{Свободные порты(названия, количество)} \\
@@ -1145,6 +1134,25 @@ R\_1\_L3\_GOSTEV &
 \end{table}
 \end{landscape}
 
+План по подключению оборудования по портам на складе представлен в Таблице \ref{table:warehouseConnectionPlan}.
+\begin{table}[H]
+\small
+\centering
+\caption{План по подключению оборудования по портам на складе}
+\label{table:warehouseConnectionPlan}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Название устройства}       & \textbf{Порт}         & \textbf{Описание подключения} \\ \hline
+\multirow{5}{*}{SW\_1\_L2\_GOSTEV} & FastEthernet0/1       & PC\_4\_1\_GOSTEV              \\ \cline{2-3} 
+                                   & FastEthernet0/2       & PC\_1\_1\_GOSTEV              \\ \cline{2-3} 
+                                   & FastEthernet0/3-0/12  & PC\_2\_1-10\_GOSTEV           \\ \cline{2-3} 
+                                   & FastEthernet0/13-0/22 & PC\_3\_1-10\_GOSTEV           \\ \cline{2-3} 
+                                   & GigabitEthernet0/1    & R\_1\_L3\_GOSTEV              \\ \hline
+R\_1\_L3\_GOSTEV                   & GigabitEthernet0/1    & SW\_1\_L2\_GOSTEV             \\ \hline
+\end{tabular}
+\end{table}
+
+
 
 
 
@@ -1157,9 +1165,13 @@ R\_1\_L3\_GOSTEV &
         \label{fig:tpTopo}
 \end{figure}
 
+Спецификация промежуточных устройст прототипа сети точки присутствия
+представлена в Таблице \ref{table:tpDevicesSpecs}
 \begin{table}[H]
 \small
 \centering
+\caption{Спецификация промежуточных устройств прототипа сети точки присутствия}
+\label{table:tpDevicesSpecs}
 \begin{tabular}{|l|l|l|}
 \hline
 \textbf{Название устройства}       & \textbf{Порт}         & \textbf{Описание подключения} \\ \hline
@@ -1199,6 +1211,226 @@ R\_1\_L3\_GOSTEV &
 \end{table}
 \end{landscape}
 
+
+
+\subsection{Планирование сети уровня 2}
+
+VLAN позволяет нескольким сетям работать практически как одна локальная сеть. Одним из наиболее полезных элементов VLAN является то, что он устраняет задержку в сети, что экономит сетевые ресурсы и повышает эффективность сети. Кроме того, VLAN созданы для обеспечения сегментации и поддержки в таких вопросах, как безопасность, управление сетью и масштабируемость. Трафик также можно легко контролировать с помощью VLAN.
+
+
+
+В Таблице \ref{table:mainDepVlan} представлен результат планирования VLAN для сети главного здания.
+\begin{table}[H]
+\centering
+\small
+\label{table:mainDepVlan}
+\caption{планирование VLAN для главного здания}
+\begin{tabular}{|l|l|m{6cm}|}
+\hline
+\textbf{Индетификатор VLAN} & \textbf{Имя VLAN} & \textbf{Описание} \\
+\hline
+2 & Leadership & Руководство предприятия \\
+\hline
+3 & Commercial department & Коммерческий отдел \\
+\hline
+4 & Bookkeeping & Бухгалтерия \\
+\hline
+5 & Personnel department & Отдел кадров \\
+\hline 
+6 & Purchasing department & Отдел закупок \\
+\hline 
+7 & Sales department & Отдел продаж \\
+\hline 
+8 & Household services & АХО \\
+\hline 
+9 & IT department & ИТ-департамент \\
+\hline
+10 & Specialized department & Профильный отдел \\
+\hline
+11 & Server & Серверный отдел \\
+\hline
+100 & Management & Управляющий VLAN для устройств \\
+\hline
+110-111 & Interconnected & Взаимосвязанные VLAN между уровнем агрегации и ядром \\
+\hline
+\end{tabular}
+\end{table}
+
+
+Описание конфигурации для последующей настройки VLAN на промеждуточных устройствах
+представленно в Таблице \ref{table:mainDepConnectionPlanVlan}.
+\begin{table}[H]
+\small
+\centering
+\caption{Планирование виртуальных локальных сетей по портам в главном здании}
+\label{table:mainDepConnectionPlanVlan}
+\begin{tabular}{|l|l|l|ll|}
+\hline
+\multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}l@{}}Название \\ устройства\end{tabular}}} & \multirow{2}{*}{\textbf{Порт}} & \multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}l@{}}Описание \\ подключения\end{tabular}}} & \multicolumn{2}{l|}{\textbf{VLAN}} \\ \cline{4-5} 
+ &  &  & \multicolumn{1}{l|}{\textbf{access}} & \textbf{trunk} \\ \hline
+\multirow{3}{*}{SW\_1\_L2\_GOSTEV} & GigabitEthernet0/1 & PC\_1\_1\_GOSTEV & \multicolumn{1}{l|}{2} &  \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & FastEthernet0/1 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{4}{*}{SW\_2\_L2\_GOSTEV} & FastEthernet0/1-0/3 & PC\_2\_1-3\_GOSTEV & \multicolumn{1}{l|}{3} &  \\ \cline{2-5} 
+ & FastEthernet0/4-0/13 & PC\_3\_1-10\_GOSTEV & \multicolumn{1}{l|}{4} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{3}{*}{SW\_3\_L2\_GOSTEV} & FastEthernet0/1-0/20 & PC\_4\_1-20\_GOSTEV & \multicolumn{1}{l|}{5} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{3}{*}{SW\_4\_L2\_GOSTEV} & FastEthernet0/1-0/20 & PC\_5\_1-20\_GOSTEV & \multicolumn{1}{l|}{6} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100.\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{3}{*}{SW\_5\_L2\_GOSTEV} & FastEthernet0/1-0/10 & PC\_5\_21-30\_GOSTEV & \multicolumn{1}{l|}{6} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{3}{*}{SW\_6\_L2\_GOSTEV} & FastEthernet0/1-0/20 & PC\_6\_1-20\_GOSTEV & \multicolumn{1}{l|}{7} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthenet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ 
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}[H]
+\small
+\centering
+\caption*{Продолжение Таблицы \ref{table:mainDepConnectionPlanVlan}}
+\begin{tabular}{|l|l|l|ll|}
+\hline
+\multirow{3}{*}{SW\_7\_L2\_GOSTEV} & FastEthernet0/1-0/20 & PC\_6\_21-40\_GOSTEV & \multicolumn{1}{l|}{7} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{4}{*}{SW\_8\_L2\_GOSTEV} & FastEthernet0/1-0/15 & PC\_6\_41-55\_GOSTEV & \multicolumn{1}{l|}{7} &  \\ \cline{2-5} 
+ & FastEthernet0/16-0/17 & PC\_7\_1-2\_GOSTEV & \multicolumn{1}{l|}{8} &  \\ \cline{2-5} 
+ & GigabitEtherneet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{3}{*}{SW\_9\_L2\_GOSTEV} & FastEthernet0/1-0/20 & PC\_8\_1-20\_GOSTEV & \multicolumn{1}{l|}{9} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{3}{*}{SW\_10\_L2\_GOSTEV} & FastEthernet0/1-0/20 & PC\_9\_1-20\_GOSTEV & \multicolumn{1}{l|}{10} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{3}{*}{SW\_11\_L2\_GOSTEV} & FastEthernet0/1-0/20 & PC\_9\_21-40\_GOSTEV & \multicolumn{1}{l|}{10} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{3}{*}{SW\_12\_L2\_GOSTEV} & FastEthernet0/1-0/5 & PC\_9\_41-45\_GOSTEV & \multicolumn{1}{l|}{10} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ 
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\small
+\centering
+\caption*{Продолжение Таблицы \ref{table:mainDepConnectionPlanVlan}}
+\begin{tabular}{|l|l|l|ll|}
+\hline
+\multirow{4}{*}{SW\_1\_L3\_GOSTEV} & \begin{tabular}[c]{@{}l@{}}GigabitEthernet0/1-\\ 0/12\end{tabular} & SW\_1-12\_L2\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/13 & SW\_3\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & 10GigabitEthernet0/1 & R1\_L3\_GOSTEV & \multicolumn{1}{l|}{} &  \\ \cline{2-5} 
+ & GigabitEthernet0/14 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{4}{*}{SW\_2\_L3\_GOSTEV} & \begin{tabular}[c]{@{}l@{}}GigabitEthernet0/1-\\ 0/12\end{tabular} & SW\_1-12\_L2\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/13 & SW\_3\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & 10GigabitEthernet0/1 & R1\_L3\_GOSTEV & \multicolumn{1}{l|}{} &  \\ \cline{2-5} 
+ & GigabitEthernet0/14 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{4}{*}{SW\_3\_L3\_GOSTEV} & GigabitEthernet0/1 & S\_1\_GOSTEV & \multicolumn{1}{l|}{11} &  \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/3 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-11,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/4 & R\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} &  \\ \hline
+\multirow{2}{*}{R\_1\_L3\_GOSTEV} & \begin{tabular}[c]{@{}l@{}}10GigabitEthernet0/1\\ -0/2\end{tabular} & SW\_1-2\_L3\_GOSTEV & \multicolumn{1}{l|}{} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_3\_L3\_GOSTEV & \multicolumn{1}{l|}{} &  \\ \hline
+\end{tabular}
+\end{table}
+
+В Таблице \ref{} представлен результат планирования VLAN для сети филиала.
+\begin{table}[H]
+\centering
+\small
+\caption{Планирование VLAN для филиала}
+\begin{tabular}{|l|l|m{6cm}|}
+\hline
+\textbf{Индетификатор VLAN} & \textbf{Имя VLAN} & \textbf{Описание} \\
+\hline
+2 & Leadership & Руководство предприятия \\
+\hline
+3 & Bookkeeping & Бухгалтерия \\
+\hline
+4 & Personnel department & Отдел кадров \\
+\hline 
+5 & Purchasing department & Отдел закупок \\
+\hline 
+6 & Sales department & Отдел продаж \\
+\hline 
+7 & Household services & АХО \\
+\hline 
+8 & IT department & ИТ-департамент \\
+\hline
+9 & Specialized department & Профильный отдел \\
+\hline
+100 & Management L2 & Управляющая VLAN для устройств уровня 2 \\
+\hline
+110-111 & Interconnected & Взаимосвязанные VLAN между уровнем агрегации и ядром \\
+\hline
+\end{tabular}
+\end{table}
+
+
+Описание конфигурации для последующей настройки VLAN на промежуточных устройствах
+представленно в Таблице \ref{table:filialConnectionPlanVlan}.
+
+\begin{table}[H]
+\small
+\centering
+\caption{Планирование виртуальных локальных сетей по портам в филиале}
+\label{table:filialConnectionPlanVlan}
+\begin{tabular}{|l|l|l|ll|}
+\hline
+\multirow{2}{*}{\textbf{Название устройства}} & \multirow{2}{*}{\textbf{Порт}} & \multirow{2}{*}{\textbf{Описание подключения}} & \multicolumn{2}{l|}{\textbf{VLAN}} \\ \cline{4-5} 
+ &  &  & \multicolumn{1}{l|}{\textbf{access}} & \textbf{trunk} \\ \hline
+SW\_1\_L2\_GOSTEV & GigabitEthernet0/1 & PC\_1\_1\_GOSTEV & \multicolumn{1}{l|}{2} &  \\ \hline
+ & GigabitEthernet0/2 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \hline
+ & FastEthernet0/1 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{4}{*}{SW\_2\_L2\_GOSTEV} & FastEthernet0/1-0/5 & PC\_2\_1-5\_GOSTEV & \multicolumn{1}{l|}{3} &  \\ \cline{2-5} 
+ & FastEthernet0/6-0/15 & PC\_3\_1-10\_GOSTEV & \multicolumn{1}{l|}{4} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{4}{*}{SW\_3\_L2\_GOSTEV} & FastEthernet0/1-0/10 & PC\_4\_1-10\_GOSTEV & \multicolumn{1}{l|}{5} &  \\ \cline{2-5} 
+ & FastEthernet0/11-0/20 & PC\_5\_1-10\_GOSTEV & \multicolumn{1}{l|}{6} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{4}{*}{SW\_4\_L2\_GOSTEV} & FastEthernet0/1-0/2 & PC\_6\_2\_GOSTEV & \multicolumn{1}{l|}{7} &  \\ \cline{2-5} 
+ & FastEthernet0/3-0/12 & PC\_7\_1-10\_GOSTEV & \multicolumn{1}{l|}{8} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \hline
+\multirow{3}{*}{SW\_5\_L2\_GOSTEV} & FastEthernet0/1-0/19 & PC\_8\_1-19\_GOSTEV & \multicolumn{1}{l|}{9} &  \\ \cline{2-5} 
+ & GigabitEthernet0/1 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/2 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ 
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\small
+\centering
+\caption*{Продолжение Таблицы \ref{table:filialConnectionPlanVlan}}
+\begin{tabular}{|l|l|l|ll|}
+\hline
+\multirow{3}{*}{SW\_1\_L3\_GOSTEV} & GigabitEthernet0/1-0/5 & SW\_1-5\_L2\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/6 & SW\_2\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/7 & R\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} &  \\ \hline
+\multirow{3}{*}{SW\_2\_L3\_GOSTEV} & GigabitEthernet0/1-0/5 & SW\_1-5\_L2\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/6 & SW\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} & \begin{tabular}[c]{@{}l@{}}2-9,\\ 100,\\ 110-111\end{tabular} \\ \cline{2-5} 
+ & GigabitEthernet0/7 & R\_1\_L3\_GOSTEV & \multicolumn{1}{l|}{} &  \\ \hline
+R\_1\_L3\_GOSTEV & GigabitEthernet0/1-0/2 & SW\_1-2\_L3\_GOSTEV & \multicolumn{1}{l|}{} &  \\ \hline
+\end{tabular}
+\end{table}
+
+
+Точки присутствия и склады имеет отностельно маленькое количество людей, 
+поэтому настройка VLAN и STP для данных объектов предприятия может быть опущена.
+
+\subsection{Планирование сети уровня 3}
+В данном разделе необходимо спроектировать распределение IP адрессов
 
 
 \begingroup
