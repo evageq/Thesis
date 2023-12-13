@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.3)  13 DEC 2023 17:38
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.3)  13 DEC 2023 22:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2631,12 +2631,312 @@ Overfull \hbox (0.83014pt too wide) in paragraph at lines 1387--1410
  [][] 
  []
 
-[31] [32]
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 1443--1443
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
+\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому отсносится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
+\TU/TimesNewRoman(0)/m/n/12 коммерческий отдел предприятия, со
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 1447--1448
+\TU/TimesNewRoman(0)/m/n/12 шлюзом, расположенным на коммутаторе
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
+\TU/TimesNewRoman(0)/m/n/12 бухгалтерия предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
+\TU/TimesNewRoman(0)/m/n/12 отдел кадров предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1453--1454
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 1453--1454
+\TU/TimesNewRoman(0)/m/n/12 отдел закупок предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1453--1454
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1456
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1456
+\TU/TimesNewRoman(0)/m/n/12 отдел продаж предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1456
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 1459--1460
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится ИТ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1460
+\TU/TimesNewRoman(0)/m/n/12 департамент предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1460
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 1465--1466
+\TU/TimesNewRoman(0)/m/n/12 уровня 2 со шлюзом, расположенным на
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+[]|\TU/TimesNewRoman(0)/b/n/12 Режим
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1498--1499
+[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется коммутатором уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1500--1501
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1502--1503
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1504--1505
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1506--1507
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1520--1520
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1522--1523
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1522--1523
+\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1522--1523
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1524--1525
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1524--1525
+\TU/TimesNewRoman(0)/m/n/12 бухгалтерия предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1524--1525
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1526--1527
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1526--1527
+\TU/TimesNewRoman(0)/m/n/12 отдел кадров предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1526--1527
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 1528--1529
+\TU/TimesNewRoman(0)/m/n/12 отдел закупок предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1530--1531
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1530--1531
+\TU/TimesNewRoman(0)/m/n/12 отдел продаж предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1530--1531
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 1534--1535
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится ИТ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1534--1535
+\TU/TimesNewRoman(0)/m/n/12 департамент предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1534--1535
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1537
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1537
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 1538--1539
+\TU/TimesNewRoman(0)/m/n/12 уровня 2 со шлюзом, расположенным на
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1557--1557
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1557--1557
+[]|\TU/TimesNewRoman(0)/b/n/12 Режим
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
+[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется коммутатором уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1572--1573
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1574--1575
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1576--1577
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
+ []
+
+[35] [36]
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 131.
 See the caption package documentation for explanation.
 
-[33] (e:\thesis5sem\out\thesis.aux)
+[37] (e:\thesis5sem\out\thesis.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -2649,18 +2949,18 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0092D398926538705605EC358E4E88E0;2282.
+(rerunfilecheck)             Checksum: 7D10A14D5520C9B9DC37673947E2C76D;2284.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35250 strings out of 409717
- 670028 string characters out of 5775939
- 2174096 words of memory out of 5000000
- 56779 multiletter control sequences out of 15000+600000
+ 35254 strings out of 409717
+ 670132 string characters out of 5775939
+ 2174430 words of memory out of 5000000
+ 56783 multiletter control sequences out of 15000+600000
  564725 words of font info for 117 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,17n,114p,1165b,5158s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on e:\thesis5sem\out\thesis.xdv (33 pages, 361996 bytes).
+Output written on e:\thesis5sem\out\thesis.xdv (37 pages, 418608 bytes).

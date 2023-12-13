@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber out/thesis"] 1702465818 "out/thesis.bcf" "out/thesis.bbl" "out/thesis" 1702478293 0
+["biber out/thesis"] 1702465818 "out/thesis.bcf" "out/thesis.bbl" "out/thesis" 1702497417 0
   "./thesis.bib" 1701971992 259 2eddb7b48205076f7aa4566cb6b67d06 ""
-  "out/thesis.bcf" 1702478292 154398 a6a4d61fbe73a289413bf55114d7d0da "xelatex"
+  "out/thesis.bcf" 1702497411 154398 a6a4d61fbe73a289413bf55114d7d0da "xelatex"
   (generated)
   "out/thesis.bbl"
   "out/thesis.blg"
   (rewritten before read)
-["xdvipdfmx"] 1702478292 "out/thesis.xdv" "out/thesis.pdf" "out/thesis" 1702478292 2
-  "out/thesis.xdv" 1702478292 361996 2f4f61f76ab0b74c2ea3de0da0f84455 "xelatex"
+["xdvipdfmx"] 1702497412 "out/thesis.xdv" "out/thesis.pdf" "out/thesis" 1702497417 0
+  "out/thesis.xdv" 1702497411 418608 875720a5d485b270dd26786952e82f17 "xelatex"
   (generated)
   "out/thesis.pdf"
   (rewritten before read)
-["xelatex"] 1702478288 "e:/thesis5sem/thesis.tex" "out/thesis.xdv" "thesis" 1702478293 0
+["xelatex"] 1702497407 "e:/thesis5sem/thesis.tex" "out/thesis.xdv" "thesis" 1702497417 0
   "C:/Users/goste/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1701555509 37532208 ce16e5fbe975a6ece71afb813d73f359 ""
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136761454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -173,7 +173,7 @@
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "e:/thesis5sem/thesis.tex" 1702478283 71949 8e237dea7ee0b8d0dc2b354792ff346d ""
+  "e:/thesis5sem/thesis.tex" 1702497407 81742 73487b1cdaac9ad13cbcbc782af3da02 ""
   "images/ARIS_filialStructure.png" 1701985323 95500 e4fcc1524541c049a3e590ff46399968 ""
   "images/ARIS_mainDepStructure.png" 1702043716 102677 251d5ea20b905fa3906b385e0106093b ""
   "images/ARIS_tpStructure.png" 1701986581 59252 edf52ed482ddfe72b5647ac54992cb4c ""
@@ -182,12 +182,12 @@
   "images/topo_mainDep.png" 1702140161 967329 1fa00281a98a49051b6711f44e8feaec ""
   "images/topo_tp.png" 1702127169 147154 9403eff8ae81cc56a2751fe55f8e782b ""
   "images/topo_warehouse.png" 1702200548 173901 c5bbbc8636cbdffa6234c6c981caf49c ""
-  "out/thesis.aux" 1702478292 13824 9bf9b6e9411c1f5f31d00c4f585ef2da "xelatex"
+  "out/thesis.aux" 1702497411 15330 58c43c54cb1742d1e9e5d36b40a00d6a "xelatex"
   "out/thesis.bbl" 1702465822 1833 988dd545cdcdc698952c9cef41a67cab "biber out/thesis"
-  "out/thesis.out" 1702478292 2282 0092d398926538705605ec358e4e88e0 "xelatex"
-  "out/thesis.run.xml" 1702478292 2614 1f3d9a6408eb80ab03a13c8fe31e73bf "xelatex"
-  "out/thesis.toc" 1702478292 921 dcf121b36ad1c0eadca3de23ebb8a94a "xelatex"
-  "thesis.tex" 1702478283 71949 8e237dea7ee0b8d0dc2b354792ff346d ""
+  "out/thesis.out" 1702497411 2284 7d10a14d5520c9b9dc37673947e2c76d "xelatex"
+  "out/thesis.run.xml" 1702497411 2614 1f3d9a6408eb80ab03a13c8fe31e73bf "xelatex"
+  "out/thesis.toc" 1702497411 923 57f175fdfa5ab40fe71b41ebefe7e64d "xelatex"
+  "thesis.tex" 1702497407 81742 73487b1cdaac9ad13cbcbc782af3da02 ""
   (generated)
   "out/thesis.aux"
   "out/thesis.bcf"
