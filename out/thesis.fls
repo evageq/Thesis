@@ -438,8 +438,6 @@ INPUT .\images\dns_wireshark.png
 INPUT .\images\dns_wireshark.png
 INPUT .\images\web_wireshark.png
 INPUT .\images\web_wireshark.png
-INPUT .\images\web_wireshark_stat.png
-INPUT .\images\web_wireshark_stat.png
 INPUT .\images\freeipa_wireshark.png
 INPUT .\images\freeipa_wireshark.png
 INPUT .\images\freeipa_wireshark_stats.png
