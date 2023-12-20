@@ -1,0 +1,2 @@
+hsrp group for each vlan interface
+rapid stp change root l3 for each vlan

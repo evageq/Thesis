@@ -9,6 +9,9 @@
 \contentsline {subsection}{\numberline {1.7}Планирование политик обеспечения качества обслуживания}{39}{subsection.1.7}%
 \contentsline {subsection}{\numberline {1.8}Планирование службы доменных имен}{40}{subsection.1.8}%
 \contentsline {subsection}{\numberline {1.9}Планирование политик управления пользователями}{41}{subsection.1.9}%
-\contentsline {section}{\numberline {2}Моделирование сети передачи данных}{42}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Моделирование сервисов}{42}{subsection.2.1}%
-\contentsline {section}{список используемых источников}{49}{figure.caption.68}%
+\contentsline {subsection}{\numberline {1.10}Планирование внедрения DHCP-сервера}{43}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}Планирование других сетевых служб}{44}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}Определение и расчет сервисной нагрузки}{44}{subsection.1.12}%
+\contentsline {section}{\numberline {2}Моделирование сети передачи данных}{53}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Моделирование сервисов}{53}{subsection.2.1}%
+\contentsline {section}{список используемых источников}{62}{figure.caption.86}%

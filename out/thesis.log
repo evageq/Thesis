@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.3)  17 DEC 2023 02:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.3)  20 DEC 2023 02:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1412,6 +1412,9 @@ Package babel Info: The following font families will use the default
 LaTeX Warning: Label `table:filialCampusNet' multiply defined.
 
 
+LaTeX Warning: Label `table:web_requests' multiply defined.
+
+
 LaTeX Warning: Label `fig:ntp_client_status' multiply defined.
 
 )
@@ -1607,7 +1610,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  []
 
 
-Overfull \hbox (7.2pt too wide) detected at line 12
+Overfull \hbox (7.2pt too wide) detected at line 15
 \TU/TimesNewRoman(0)/m/n/14.4 2 
  []
 
@@ -3226,78 +3229,556 @@ Underfull \hbox (badness 10000) in paragraph at lines 1851--1854
 []\TU/TimesNewRoman(0)/m/n/14.4 Интегрированное решение для управления информацией о
  []
 
+
+Underfull \hbox (badness 4316) in paragraph at lines 1851--1854
+\TU/TimesNewRoman(0)/m/n/14.4 безопасности, сочетающее в себе сервер каталогов 389, MIT
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 1858--1865
+[]\TU/TimesNewRoman(0)/m/n/14.4 Далее будут кратко описаны основные особенности инсталляции и
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 1858--1865
+\TU/TimesNewRoman(0)/m/n/14.4 работы с программным обеспечением FreeIPA. Платформа В настоящее
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 1858--1865
+\TU/TimesNewRoman(0)/m/n/14.4 время платформа может быть развернута на базе следующих основных
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 1858--1865
+\TU/TimesNewRoman(0)/m/n/14.4 документации упомянуто, что данное программное обеспечение требует
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 1858--1865
+\TU/TimesNewRoman(0)/m/n/14.4 много дополнительных пакетов, поэтому для тестирования рекомендуется
+ []
+
 [41]
+Underfull \hbox (badness 1694) in paragraph at lines 1865--1868
+[]\TU/TimesNewRoman(0)/m/n/14.4 Объем оперативной памяти: минимальный объем оперативной
+ []
 
-LaTeX Warning: Citation '' on page 42 undefined on input line 1871.
+
+Underfull \hbox (badness 1789) in paragraph at lines 1865--1868
+\TU/TimesNewRoman(0)/m/n/14.4 памяти для установки с центром сертификации 1,2 Гб, 2 ГБ
+ []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 1871--1875
+Underfull \hbox (badness 10000) in paragraph at lines 1868--1872
+[]\TU/TimesNewRoman(0)/m/n/14.4 Статическое имя хоста: аутентификация протокола Kerberos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1868--1872
+\TU/TimesNewRoman(0)/m/n/14.4 аутентификация Kerberos может прерваться. Таким образом,
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 1868--1872
+\TU/TimesNewRoman(0)/m/n/14.4 тестирующая машина не должна использовать динамически
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1872--1876
+[]\TU/TimesNewRoman(0)/m/n/14.4 Правила для DNS: правильно настроенный DNS является
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1872--1876
+\TU/TimesNewRoman(0)/m/n/14.4 краеугольным камнем работающей системы FreeIPA. Без
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 1872--1876
+\TU/TimesNewRoman(0)/m/n/14.4 правильно работающей конфигурации DNS Kerberos и SSL
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 1872--1876
+\TU/TimesNewRoman(0)/m/n/14.4 не будут работать должным образом или вообще не будут
+ []
+
+File: ./images/freeipa_server_version.png Graphic file (type bmp)
+<./images/freeipa_server_version.png>
+
+Underfull \hbox (badness 1325) in paragraph at lines 1884--1891
+[]\TU/TimesNewRoman(0)/m/n/14.4 Установка FreeIPA должна содержать стабильные версии пакетов из
+ []
+
+[42]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1898.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `CourierNew' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1905--1910
+\TU/TimesNewRoman(0)/m/n/14.4 диапазонов адресов и подсетей с конкретными автоматизированными
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 1905--1910
+\TU/TimesNewRoman(0)/m/n/14.4 рабочими местами. DHCP развертывается в качестве сервиса на сервере.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1905--1910
+\TU/TimesNewRoman(0)/m/n/14.4 конфигурация, рассылаемая сервером, содержит IP-адрес и шлюз по
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 1905--1910
+\TU/TimesNewRoman(0)/m/n/14.4 умолчанию. Планирование выделения адресов представлено в Таблице
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1918--1918
+[]|\TU/TimesNewRoman(0)/b/n/12 Шлюз по
+ []
+
+
+Overfull \hbox (3.86812pt too wide) in paragraph at lines 1936--1936
+[]|\TU/TimesNewRoman(0)/m/n/12 192.168.10.254| 
+ []
+
+[43]
+Underfull \hbox (badness 1205) in paragraph at lines 1961--1967
+\TU/TimesNewRoman(0)/m/n/14.4 сервере, требуется настройка DHCP-relay. Этот компонент перенаправляет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1961--1967
+\TU/TimesNewRoman(0)/m/n/14.4 запросы DHCP от клиентов через сетевые устройства, такие как
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 1961--1967
+\TU/TimesNewRoman(0)/m/n/14.4 трафик между подсетями ограничен или невозможен из-за разграничений
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 1973--1976
+\TU/TimesNewRoman(0)/m/n/14.4 планирование которых не вынесено в отдельный подраздел, в том числе
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 1977--1980
+[]\TU/TimesNewRoman(0)/m/n/14.4 Служба времени разворачивается как компонент пакета FreeIPA и
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 1977--1980
+\TU/TimesNewRoman(0)/m/n/14.4 находится в домене ntp зоны gostev.test. Служба времени для сервера
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 1986--1994
+\TU/TimesNewRoman(0)/m/n/14.4 смены, а также в расчете на секунду, если это необходимо). Необходимо
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1986--1994
+\TU/TimesNewRoman(0)/m/n/14.4 и бесперебойной работы. Вычисления производятся с использованием
+ []
+
+[44]
+Underfull \hbox (badness 1152) in paragraph at lines 1995--1998
+[]\TU/TimesNewRoman(0)/m/n/14.4 Далее представлен расчет нагрузки для службы времени – NTP. На
+ []
+
+File: ./images/ntp_wireshark_dump.png Graphic file (type bmp)
+<./images/ntp_wireshark_dump.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2021
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2021
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2021
+\TU/TimesNewRoman(0)/b/n/12 обращений
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2021
+\TU/TimesNewRoman(0)/b/n/12 (транзакций) за
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2022
+[]|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2022
+\TU/TimesNewRoman(0)/b/n/12 за рабочий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2023--2023
+[]|\TU/TimesNewRoman(0)/m/n/12 Руководство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2025--2025
+[]|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2039--2039
+[]|\TU/TimesNewRoman(0)/m/n/12 Профильные
+ []
+
+[45]
+Underfull \hbox (badness 3895) in paragraph at lines 2046--2049
+[]\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 94080
+ []
+
+File: ./images/dns_wireshark.png Graphic file (type bmp)
+<./images/dns_wireshark.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2077
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2077
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2077
+\TU/TimesNewRoman(0)/b/n/12 обращений
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2077
+\TU/TimesNewRoman(0)/b/n/12 (транзакций) за
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2078
+[]|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2078
+\TU/TimesNewRoman(0)/b/n/12 за рабочий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2079--2079
+[]|\TU/TimesNewRoman(0)/m/n/12 Руководство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2081--2081
+[]|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2095--2095
+[]|\TU/TimesNewRoman(0)/m/n/12 Профильные
+ []
+
+[46]
+Underfull \hbox (badness 1365) in paragraph at lines 2102--2108
+[]\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 1346400
+ []
+
+File: ./images/web_wireshark.png Graphic file (type bmp)
+<./images/web_wireshark.png>
+File: ./images/web_wireshark_stat.png Graphic file (type bmp)
+<./images/web_wireshark_stat.png>
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 2140--2140
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2140--2140
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2140--2140
+\TU/TimesNewRoman(0)/b/n/12 обращений
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2140--2140
+\TU/TimesNewRoman(0)/b/n/12 (транзакций) за
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2140--2141
+[]|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2140--2141
+\TU/TimesNewRoman(0)/b/n/12 за рабочий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2142--2142
+[]|\TU/TimesNewRoman(0)/m/n/12 Руководство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2144--2144
+[]|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2158--2158
+[]|\TU/TimesNewRoman(0)/m/n/12 Профильные
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 2165--2171
+[]\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 491700
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2173--2178
+[]\TU/TimesNewRoman(0)/m/n/14.4 Далее представлен расчет нагрузки для службы управления
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 2173--2178
+\TU/TimesNewRoman(0)/m/n/14.4 пользователями. На Рисунке [][]1.14[][] представлена транзакция, состоящия из
+ []
+
+[48]
+File: ./images/freeipa_wireshark.png Graphic file (type bmp)
+<./images/freeipa_wireshark.png>
+File: ./images/freeipa_wireshark_stats.png Graphic file (type bmp)
+<./images/freeipa_wireshark_stats.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 2192--2193
+[]\TU/TimesNewRoman(0)/m/n/14.4 Количество обращений к службе управления пользователями
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2201
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2201
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2201
+\TU/TimesNewRoman(0)/b/n/12 обращений
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2201
+\TU/TimesNewRoman(0)/b/n/12 (транзакций) за
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2202
+[]|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2202
+\TU/TimesNewRoman(0)/b/n/12 за рабочий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2203--2203
+[]|\TU/TimesNewRoman(0)/m/n/12 Руководство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2205--2205
+[]|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2219--2219
+[]|\TU/TimesNewRoman(0)/m/n/12 Профильные
+ []
+
+[49]
+Underfull \hbox (badness 3895) in paragraph at lines 2226--2232
+[]\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 66200
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 2233--2238
+\TU/TimesNewRoman(0)/m/n/14.4 Рисунке [][]1.16[][] представлен общий вид транзакции: клиент манипулирует
+ []
+
+File: ./images/iscsi_wireshark.png Graphic file (type bmp)
+<./images/iscsi_wireshark.png>
+File: ./images/iscsi_stats_wireshark.png Graphic file (type bmp)
+<./images/iscsi_stats_wireshark.png>
+[50]
+
+LaTeX Warning: Reference `table:iscsi_requests' on page 51 undefined on input line 2252.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2260--2260
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2260--2260
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2260--2260
+\TU/TimesNewRoman(0)/b/n/12 обращений
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2260--2260
+\TU/TimesNewRoman(0)/b/n/12 (транзакций) за
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2260--2261
+[]|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2260--2261
+\TU/TimesNewRoman(0)/b/n/12 за рабочий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2262--2262
+[]|\TU/TimesNewRoman(0)/m/n/12 Руководство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2264--2264
+[]|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2278--2278
+[]|\TU/TimesNewRoman(0)/m/n/12 Профильные
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 2285--2291
+[]\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 35020
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 2285--2291
+\TU/TimesNewRoman(0)/m/n/14.4 транзакций для файловой службы, что примерно равно 1.5 транзакций в
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 2285--2291
+\TU/TimesNewRoman(0)/m/n/14.4 секунду, что примерно равно 4.5 Мбит/с. Это значит, что на интерфейс
+ []
+
+
+LaTeX Warning: Reference `' on page 51 undefined on input line 2293.
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 2296--2298
+\TU/TimesNewRoman(0)/m/n/14.4 В итоге можно сделать вывод о том, что канала в 1 Гбит/с хватит для
+ []
+
+[51] [52]
+
+LaTeX Warning: Citation '' on page 53 undefined on input line 2310.
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 2310--2314
 \TU/TimesNewRoman(0)/m/n/14.4 Fedora Server 39 [[]](https://fedoraproject.org/server/download),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1871--1875
+Underfull \hbox (badness 10000) in paragraph at lines 2310--2314
 \TU/TimesNewRoman(0)/m/n/14.4 используется Debian 12, имя локального пользователя для клиента –
  []
 
 File: ./images/vm_installation.png Graphic file (type bmp)
 <./images/vm_installation.png>
-[42]
+[53]
 File: ./images/services/dns/dnszones.png Graphic file (type bmp)
 <./images/services/dns/dnszones.png>
 File: ./images/services/dns/dns_records.png Graphic file (type bmp)
 <./images/services/dns/dns_records.png>
 File: ./images/services/dns/client_dns_setup.png Graphic file (type bmp)
 <./images/services/dns/client_dns_setup.png>
- [43]
+ [54]
 File: ./images/services/dns/nslookup.png Graphic file (type bmp)
 <./images/services/dns/nslookup.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1920--1922
+Underfull \hbox (badness 10000) in paragraph at lines 2359--2361
 []\TU/TimesNewRoman(0)/m/n/14.4 Далее представлено развертывание службы динамического
  []
 
 File: ./images/services/dhcp/servercfg.png Graphic file (type bmp)
 <./images/services/dhcp/servercfg.png>
-[44]
+[55]
 File: ./images/services/dhcp/clientcfg.png Graphic file (type bmp)
 <./images/services/dhcp/clientcfg.png>
 File: ./images/services/dhcp/clientproofdhcp.png Graphic file (type bmp)
 <./images/services/dhcp/clientproofdhcp.png>
+ [56]
+File: ./images/services/web/server_cfg.png Graphic file (type bmp)
+<./images/services/web/server_cfg.png>
+File: ./images/services/web/index.png Graphic file (type bmp)
+<./images/services/web/index.png>
+
+Overfull \hbox (210.1606pt too wide) in paragraph at lines 2400--2401
+ [][] 
+ []
+
+[57]
 File: ./images/services/ntp/client_status.png Graphic file (type bmp)
 <./images/services/ntp/client_status.png>
- [45]
 File: ./images/services/ntp/client_time.png Graphic file (type bmp)
 <./images/services/ntp/client_time.png>
+ [58]
 File: ./images/services/iscsi/server_cfg.png Graphic file (type bmp)
 <./images/services/iscsi/server_cfg.png>
 File: ./images/services/iscsi/server_file_content.png Graphic file (type bmp)
 <./images/services/iscsi/server_file_content.png>
- [46]
 File: ./images/services/iscsi/connect.png Graphic file (type bmp)
 <./images/services/iscsi/connect.png>
 File: ./images/services/iscsi/write.png Graphic file (type bmp)
 <./images/services/iscsi/write.png>
+ [59]
 File: ./images/services/iscsi/read.png Graphic file (type bmp)
 <./images/services/iscsi/read.png>
 File: ./images/services/freeipa/ipa_status.png Graphic file (type bmp)
 <./images/services/freeipa/ipa_status.png>
 
-Underfull \hbox (badness 1990) in paragraph at lines 2009--2016
+Underfull \hbox (badness 1990) in paragraph at lines 2465--2472
 []\TU/TimesNewRoman(0)/m/n/14.4 Также необходимо развернуть службу управления пользователями в
  []
 
-[47]
 File: ./images/services/freeipa/users.png Graphic file (type bmp)
 <./images/services/freeipa/users.png>
+[60]
 File: ./images/services/freeipa/client_logging.png Graphic file (type bmp)
 <./images/services/freeipa/client_logging.png>
- [48]
-
-Package caption Warning: Unused \captionsetup[lstlisting] on input line 131.
-See the caption package documentation for explanation.
-
-[49] (e:\thesis5sem\out\thesis.aux)
+ [61] [62] (e:\thesis5sem\out\thesis.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -3310,18 +3791,18 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 59E3E7B5BC81C229EBACCBEA52269431;4441.
+(rerunfilecheck)             Checksum: BA1AC1A7E757E739DE59EEF30D980AC1;5459.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35487 strings out of 409717
- 678577 string characters out of 5775939
- 2178526 words of memory out of 5000000
- 56995 multiletter control sequences out of 15000+600000
- 564725 words of font info for 117 fonts, out of 8000000 for 9000
+ 35650 strings out of 409717
+ 683711 string characters out of 5775939
+ 2192996 words of memory out of 5000000
+ 57147 multiletter control sequences out of 15000+600000
+ 564733 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,17n,114p,1165b,5158s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on e:\thesis5sem\out\thesis.xdv (49 pages, 551880 bytes).
+Output written on e:\thesis5sem\out\thesis.xdv (62 pages, 709116 bytes).
