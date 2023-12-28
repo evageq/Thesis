@@ -1,0 +1,66 @@
+vlan 2
+name Leadership
+exit
+
+vlan 3
+name Commercial
+exit
+
+vlan 4
+name Bookkeeping
+exit
+
+vlan 5
+name Personnel
+exit
+
+vlan 6
+name Purchasing
+exit
+
+vlan 7
+name Sales
+exit
+
+vlan 8
+name Household
+exit
+
+vlan 9
+name IT
+exit
+
+vlan 10
+name Specialized
+exit
+
+vlan 11
+name Server
+exit
+
+vlan 100
+name Management
+exit
+
+vlan 110
+name Interconnected1
+exit
+
+vlan 111
+name Interconnected2
+exit
+
+vlan 112
+name Interconnected3
+exit
+
+
+int giga0/1
+switchport mode trunk
+switchport trunk allowed vlan 2-11,100,110-112
+exit
+
+int giga0/2
+switchport mode trunk
+switchport trunk allowed vlan 2-11,100,110-112
+exit
