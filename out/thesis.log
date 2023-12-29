@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.3)  29 DEC 2023 12:22
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.3)  29 DEC 2023 18:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1570,10 +1570,6 @@ File: title/ivbo-06-21_гостев.pdf Graphic file (type pdf)
 File: title/ivbo-06-21_гостев.pdf Graphic file (type pdf)
 <use title/ivbo-06-21_гостев.pdf, page 2>
  [2] (e:\thesis5sem\out\thesis.toc
-Overfull \hbox (7.2pt too wide) detected at line 2
-\TU/TimesNewRoman(0)/m/n/14.4 1 
- []
-
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `XITSMath-Regular.otf' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1591,7 +1587,7 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(3)/m/n' will be
 (Font)              scaled to size 8.63907pt on input line 2.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
-(C:\Users\goste\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\goste\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (C:\Users\goste\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1602,13 +1598,28 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\goste\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
+Overfull \hbox (7.2pt too wide) detected at line 4
+\TU/TimesNewRoman(0)/m/n/14.4 1 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
 [][] [][][] \TU/TimesNewRoman(0)/m/n/14.4 ПЛАНИРОВАНИЕ И ПРОЕКТИРОВАНИЕ СЕТИ ПЕРЕДАЧИ 
  []
 
 
-Overfull \hbox (7.2pt too wide) detected at line 15
+Overfull \hbox (7.2pt too wide) detected at line 18
 \TU/TimesNewRoman(0)/m/n/14.4 2 
+ []
+
+
+Overfull \hbox (10.39922pt too wide) detected at line 22
+\TU/TimesNewRoman(0)/m/n/14.4 A 
+ []
+
+
+Overfull \hbox (9.60469pt too wide) detected at line 23
+\TU/TimesNewRoman(0)/m/n/14.4 B 
  []
 
 )
@@ -1616,2206 +1627,2327 @@ Overfull \hbox (7.2pt too wide) detected at line 15
 \openout7 = `thesis.toc'.
 
  [1]
-Underfull \hbox (badness 10000) in paragraph at lines 237--257
-\TU/TimesNewRoman(0)/m/n/14.4 всё более значимой. Интеграция ИТ в бизнес-процессы предприятия
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+\TU/TimesNewRoman(0)/m/n/14.4 исследования, ”революция ИТ и интернета способствует выдающимся
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--257
-\TU/TimesNewRoman(0)/m/n/14.4 способствует увеличению общей эффективности и производительности
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--257
-\TU/TimesNewRoman(0)/m/n/14.4 бизнеса. Как показывают исследования, ”революция ИТ и интернета
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 237--257
-\TU/TimesNewRoman(0)/m/n/14.4 способствует выдающимся результатам в экономике бизнес-сектора через
- []
-
-
-Underfull \hbox (badness 1448) in paragraph at lines 237--257
-\TU/TimesNewRoman(0)/m/n/14.4 облегчая доступность ведения бизнеса между компаниями на глобальном
- []
-
-
-Underfull \hbox (badness 6708) in paragraph at lines 237--257
-\TU/TimesNewRoman(0)/m/n/14.4 серверных служб для предприятия, является важной задачей, решение
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 259--264
+Underfull \hbox (badness 10000) in paragraph at lines 243--248
 []\TU/TimesNewRoman(0)/m/n/14.4 Объектом данного исследования является сеть передачи данных,
  []
 
 
-Underfull \hbox (badness 4341) in paragraph at lines 259--264
-\TU/TimesNewRoman(0)/m/n/14.4 предприятия, а предметом - особенности проектирования и реализации
+Underfull \hbox (badness 2512) in paragraph at lines 243--248
+\TU/TimesNewRoman(0)/m/n/14.4 данных, сервисов и сететвых служб для предприятия, осуществляющего
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--264
-\TU/TimesNewRoman(0)/m/n/14.4 осуществляющего розничную торговлю изделиями, применяемыми в
+Underfull \hbox (badness 2134) in paragraph at lines 243--248
+\TU/TimesNewRoman(0)/m/n/14.4 розничную торговлю изделиями, применяемыми в медицинских целях, в
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 268--279
+Underfull \hbox (badness 1577) in paragraph at lines 250--253
+\TU/TimesNewRoman(0)/m/n/14.4 для определения структуры предприятия, что позволяет гибко рассчитать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--253
+\TU/TimesNewRoman(0)/m/n/14.4 требования пользователей. Затем следует процесс проектирования и
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 250--253
+\TU/TimesNewRoman(0)/m/n/14.4 прототипирования сети для каждого объекта предприятия, что важно для
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 250--253
+\TU/TimesNewRoman(0)/m/n/14.4 Далее производится разработка сетевой архитектуры, включая изучение и
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 250--253
+\TU/TimesNewRoman(0)/m/n/14.4 политик фильтрации трафика и обеспечения качества обслуживания сети,
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 250--253
+\TU/TimesNewRoman(0)/m/n/14.4 обеспечения качественного предоставления услуг пользователям. Расчет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--253
+\TU/TimesNewRoman(0)/m/n/14.4 необходимую производительность и масштабируемость. Завершающим
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 250--253
+\TU/TimesNewRoman(0)/m/n/14.4 этапом является итоговое планирование сети и моделирование передачи
+ []
+
+[4]
+Underfull \hbox (badness 1803) in paragraph at lines 255--266
 \TU/TimesNewRoman(0)/m/n/14.4 что обеспечит возможность визуализации предполагаемых результатов до
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 268--279
+Underfull \hbox (badness 3029) in paragraph at lines 255--266
 \TU/TimesNewRoman(0)/m/n/14.4 их реализации. Метод аналогии будет служить инструментом сравнения
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 283--293
-[]\TU/TimesNewRoman(0)/m/n/14.4 Основными источниками информации для данной работы станут
- []
 
-
-Underfull \hbox (badness 1107) in paragraph at lines 283--293
-\TU/TimesNewRoman(0)/m/n/14.4 научные статьи, учебники по теме ”Технологии передачи данных включая
- []
-
-
-Underfull \hbox (badness 2781) in paragraph at lines 283--293
-\TU/TimesNewRoman(0)/m/n/14.4 книгу Олифера ”Сети а также документация и руководства по работе с
- []
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 295--311
+Underfull \hbox (badness 1097) in paragraph at lines 268--284
 \TU/TimesNewRoman(0)/m/n/14.4 средств. Программное обеспечение для моделирования сетей Cisco Packet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--311
+Underfull \hbox (badness 10000) in paragraph at lines 268--284
 \TU/TimesNewRoman(0)/m/n/14.4 Tracer будет использовано для проектирования и тестирования сети.
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 295--311
+Underfull \hbox (badness 2726) in paragraph at lines 268--284
 \TU/TimesNewRoman(0)/m/n/14.4 Это обеспечит точное воссоздание планируемых сетевых структур и их
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 295--311
+Underfull \hbox (badness 1490) in paragraph at lines 268--284
 \TU/TimesNewRoman(0)/m/n/14.4 разделения сети на подсети будет использован калькулятор IP-сетей. Это
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 295--311
+Underfull \hbox (badness 1152) in paragraph at lines 268--284
 \TU/TimesNewRoman(0)/m/n/14.4 инструмент позволит оптимизировать процесс разбиения сети на подсети,
  []
 
 [5]
-Underfull \hbox (badness 3746) in paragraph at lines 317--323
+Underfull \hbox (badness 10000) in paragraph at lines 288--298
+[]\TU/TimesNewRoman(0)/m/n/14.4 Основными источниками информации для данной работы станут
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 288--298
+\TU/TimesNewRoman(0)/m/n/14.4 научные статьи, учебники по теме ”Технологии передачи данных включая
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 300--314
+[]\TU/TimesNewRoman(0)/m/n/14.4 Содержание работы будет включать в себя следующие ключевые
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 300--314
+\TU/TimesNewRoman(0)/m/n/14.4 аспекты. Сначала будет проведен анализ исходных данных, позволяющий
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 300--314
+\TU/TimesNewRoman(0)/m/n/14.4 определить структуру предприятия и требования к параметрам портов
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 300--314
+\TU/TimesNewRoman(0)/m/n/14.4 мест для сети, а также требования пользователей. Затем будет приведено
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--314
+\TU/TimesNewRoman(0)/m/n/14.4 предварительное планирование сети каждого объека предприятия, что
+ []
+
+
+Underfull \hbox (badness 7451) in paragraph at lines 300--314
+\TU/TimesNewRoman(0)/m/n/14.4 обеспечивает возможность выявления потенциальных проблем и узких
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 300--314
+\TU/TimesNewRoman(0)/m/n/14.4 мест, а также способствует более эффективному распределению ресурсов.
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 300--314
+\TU/TimesNewRoman(0)/m/n/14.4 После прототипирования будут рассмотрены способы построения сетей
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 300--314
+\TU/TimesNewRoman(0)/m/n/14.4 уровня, обеспечивающих эффективную передачу данных и надежность
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 300--314
+\TU/TimesNewRoman(0)/m/n/14.4 итоговое планирование сети. Последним необходимо будет смоделировать
+ []
+
+[6]
+Underfull \hbox (badness 4036) in paragraph at lines 319--347
+\TU/TimesNewRoman(0)/m/n/14.4 – виртуальная локальная сеть STP (Spanning Tree Protocol) – протокол
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 319--347
+\TU/TimesNewRoman(0)/m/n/14.4 к каталогам NTP (Network Time Protocol) – протокол сетевого времени
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 319--347
+\TU/TimesNewRoman(0)/m/n/14.4 FreeIPA (Free Identity, Policy and Audit) ПК/PC (Personal Computer) –
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 319--347
+\TU/TimesNewRoman(0)/m/n/14.4 персональный компьютер DHCP (Dynamic Host Configuration Protocol) -
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 319--347
+\TU/TimesNewRoman(0)/m/n/14.4 протокол динамической настройки узла BPDU (Bridge Protocol Data Unit)
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 319--347
+\TU/TimesNewRoman(0)/m/n/14.4 - единица данных протокола управления сетевыми мостами DNS (Domain
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 319--347
+\TU/TimesNewRoman(0)/m/n/14.4 управления передачей HTTP (HyperText Transport Protocol) – протокол
+ []
+
+[7]
+Underfull \hbox (badness 3746) in paragraph at lines 351--357
 []\TU/TimesNewRoman(0)/m/n/14.4 Предприятие, являющееся объектом проектирования сети, обладает
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--323
+Underfull \hbox (badness 10000) in paragraph at lines 351--357
 \TU/TimesNewRoman(0)/m/n/14.4 многоуровневой комплексной структурой, состоящей из разнообразных
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 317--323
+Underfull \hbox (badness 1360) in paragraph at lines 351--357
 \TU/TimesNewRoman(0)/m/n/14.4 способствует выявлению и устранению неэффективных компонентов в её
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 317--323
+Underfull \hbox (badness 1478) in paragraph at lines 351--357
 \TU/TimesNewRoman(0)/m/n/14.4 структуре, а также наглядному представлению структурных особенностей
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 325--329
-[]\TU/TimesNewRoman(0)/m/n/14.4 Методолгия ARIS предоставляет удобные и результативные способы
+Underfull \hbox (badness 6927) in paragraph at lines 359--363
+\TU/TimesNewRoman(0)/m/n/14.4 визуализации и анализа организационной структуры компании [[][]3[][]]. На
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 325--329
-[][]\TU/TimesNewRoman(0)/m/n/14.4 1.1[][]-[][]1.4[][] представлены организационные структуры для каждого объекта
+Underfull \hbox (badness 3396) in paragraph at lines 359--363
+\TU/TimesNewRoman(0)/m/n/14.4 Рисунках [][]1.1[][]-[][]1.4[][] представлены организационные структуры для каждого
  []
 
 File: ./images/ARIS_mainDepStructure.png Graphic file (type bmp)
 <./images/ARIS_mainDepStructure.png>
 File: ./images/ARIS_filialStructure.png Graphic file (type bmp)
 <./images/ARIS_filialStructure.png>
-[6]
+[8]
 File: ./images/ARIS_tpStructure.png Graphic file (type bmp)
 <./images/ARIS_tpStructure.png>
 File: ./images/ARIS_warehouseStructure.png Graphic file (type bmp)
 <./images/ARIS_warehouseStructure.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--365
+Underfull \hbox (badness 10000) in paragraph at lines 392--399
 []\TU/TimesNewRoman(0)/m/n/14.4 Для полноценного анализа структуры предприятия необходимо
  []
 
 
-Underfull \hbox (badness 3646) in paragraph at lines 358--365
+Underfull \hbox (badness 3646) in paragraph at lines 392--399
 \TU/TimesNewRoman(0)/m/n/14.4 число АРМ равно числу работников, за исключением административно-
  []
 
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 12.00128pt on input line 371.
+(Font)              scaled to size 12.00128pt on input line 405.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 371.
+(Font)              scaled to size 8.00085pt on input line 405.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 371.
+(Font)              scaled to size 6.00064pt on input line 405.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 371.
+(Font)              scaled to size 11.99872pt on input line 405.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 371.
+(Font)              scaled to size 7.99915pt on input line 405.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 371.
+(Font)              scaled to size 5.99936pt on input line 405.
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
-[]|\TU/TimesNewRoman(0)/m/n/12 Административно-
- []
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
-[]|\TU/TimesNewRoman(0)/b/n/12 Количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 406--407
-[]|\TU/TimesNewRoman(0)/b/n/12 Количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--418
-[]|\TU/TimesNewRoman(0)/m/n/12 Административно-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 435--435
-[]|\TU/TimesNewRoman(0)/b/n/12 Количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
-[]|\TU/TimesNewRoman(0)/b/n/12 Количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 437--437
-[]|\TU/TimesNewRoman(0)/m/n/12 Руководство точки
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 454--454
-[]|\TU/TimesNewRoman(0)/b/n/12 Количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 454--455
-[]|\TU/TimesNewRoman(0)/b/n/12 Количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--458
-[]|\TU/TimesNewRoman(0)/m/n/12 Группа складской
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 460--460
-[]|\TU/TimesNewRoman(0)/m/n/12 Группа товарного
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 468--468
-| \TU/TimesNewRoman(0)/b/n/16 1.2 Расчёт пропускной способности каналов передачи
- []
-
-[8]
-Underfull \hbox (badness 3323) in paragraph at lines 473--489
-\TU/TimesNewRoman(0)/m/n/14.4 уровне доступа количество портов соответствует количеству терминалов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 473--489
-\TU/TimesNewRoman(0)/m/n/14.4 с проводным подключением. Чтобы рассчитать количество портов на
- []
-
-
-Underfull \hbox (badness 4634) in paragraph at lines 473--489
-\TU/TimesNewRoman(0)/m/n/14.4 уровне агрегации, необходимо учесть коэффициент перехода от уровня
- []
-
-
-Underfull \hbox (badness 1540) in paragraph at lines 473--489
-\TU/TimesNewRoman(0)/m/n/14.4 руководящим должностям выделяется 1 ГБит/с, так как бесперебойное и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
-[]|\TU/TimesNewRoman(0)/b/n/12 Количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
-[]|\TU/TimesNewRoman(0)/b/n/12 Требования
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
-\TU/TimesNewRoman(0)/b/n/12 к скорости,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
-[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
-\TU/TimesNewRoman(0)/b/n/12 портов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
-[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 502--502
-[]|\TU/TimesNewRoman(0)/m/n/12 Руководство
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 514--514
+Underfull \hbox (badness 10000) in paragraph at lines 421--421
 []|\TU/TimesNewRoman(0)/m/n/12 Административно-
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 550--550
-[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 550--550
-[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 550--551
-[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 574--574
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--574
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--452
+[]|\TU/TimesNewRoman(0)/m/n/12 Административно-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--469
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+[]|\TU/TimesNewRoman(0)/m/n/12 Руководство точки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
+[]|\TU/TimesNewRoman(0)/m/n/12 Группа складской
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--494
+[]|\TU/TimesNewRoman(0)/m/n/12 Группа товарного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--502
+| \TU/TimesNewRoman(0)/b/n/16 1.2 Расчёт пропускной способности каналов передачи
+ []
+
+[10]
+Underfull \hbox (badness 3323) in paragraph at lines 507--523
+\TU/TimesNewRoman(0)/m/n/14.4 уровне доступа количество портов соответствует количеству терминалов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--523
+\TU/TimesNewRoman(0)/m/n/14.4 с проводным подключением. Чтобы рассчитать количество портов на
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 507--523
+\TU/TimesNewRoman(0)/m/n/14.4 уровне агрегации, необходимо учесть коэффициент перехода от уровня
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 507--523
+\TU/TimesNewRoman(0)/m/n/14.4 руководящим должностям выделяется 1 ГБит/с, так как бесперебойное и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
 []|\TU/TimesNewRoman(0)/b/n/12 Требования
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--574
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
 \TU/TimesNewRoman(0)/b/n/12 к скорости,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--574
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
 []|\TU/TimesNewRoman(0)/b/n/12 Кол-во
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--574
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
 \TU/TimesNewRoman(0)/b/n/12 портов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--575
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
 []|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--576
+Underfull \hbox (badness 10000) in paragraph at lines 536--536
 []|\TU/TimesNewRoman(0)/m/n/12 Руководство
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--586
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 []|\TU/TimesNewRoman(0)/m/n/12 Административно-
  []
 
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 597--599
-[]\TU/TimesNewRoman(0)/m/n/14.4 Чтобы рассчитать нагрузку на уровне агрегации для филиала,
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 584--584
+[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--584
+[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--585
+[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\TU/TimesNewRoman(0)/b/n/12 Требования
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+\TU/TimesNewRoman(0)/b/n/12 к скорости,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+\TU/TimesNewRoman(0)/b/n/12 портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--609
+[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--610
+[]|\TU/TimesNewRoman(0)/m/n/12 Руководство
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 620--620
+[]|\TU/TimesNewRoman(0)/m/n/12 Административно-
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 631--633
+[]\TU/TimesNewRoman(0)/m/n/14.4 Чтобы рассчитать нагрузку на уровне агрегации для филиала,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 654--654
 []|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 620--621
+Underfull \hbox (badness 10000) in paragraph at lines 654--655
 []|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--641
+Underfull \hbox (badness 10000) in paragraph at lines 675--675
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--641
+Underfull \hbox (badness 10000) in paragraph at lines 675--675
 []|\TU/TimesNewRoman(0)/b/n/12 Требования
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--641
-\TU/TimesNewRoman(0)/b/n/12 к скорости,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
-[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
-\TU/TimesNewRoman(0)/b/n/12 портов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 643--643
-[]|\TU/TimesNewRoman(0)/m/n/12 Руководство точки
- []
-
-[11]
 Underfull \hbox (badness 10000) in paragraph at lines 675--675
-[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
+\TU/TimesNewRoman(0)/b/n/12 к скорости,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 675--676
-[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 695--695
-[]|\TU/TimesNewRoman(0)/b/n/12 Название
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 695--695
-[]|\TU/TimesNewRoman(0)/b/n/12 Количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 695--695
-[]|\TU/TimesNewRoman(0)/b/n/12 Требования
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 695--695
-\TU/TimesNewRoman(0)/b/n/12 к скорости,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 695--696
 []|\TU/TimesNewRoman(0)/b/n/12 Кол-во
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--696
+Underfull \hbox (badness 10000) in paragraph at lines 675--676
 \TU/TimesNewRoman(0)/b/n/12 портов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--697
-[]|\TU/TimesNewRoman(0)/m/n/12 Руководство
+Underfull \hbox (badness 10000) in paragraph at lines 677--677
+[]|\TU/TimesNewRoman(0)/m/n/12 Руководство точки
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 709--709
+[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--699
-[]|\TU/TimesNewRoman(0)/m/n/12 Группа
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--699
-\TU/TimesNewRoman(0)/m/n/12 складской
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+[]|\TU/TimesNewRoman(0)/b/n/12 Название
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 701--701
-[]|\TU/TimesNewRoman(0)/m/n/12 Группа
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 701--701
-\TU/TimesNewRoman(0)/m/n/12 товарного
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+[]|\TU/TimesNewRoman(0)/b/n/12 Требования
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 710--712
-[]\TU/TimesNewRoman(0)/m/n/14.4 Чтобы рассчитать нагрузку на уровне агрегации для склада,
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\TU/TimesNewRoman(0)/b/n/12 к скорости,
  []
 
-[12]
-Underfull \hbox (badness 1496) in paragraph at lines 718--722
-\TU/TimesNewRoman(0)/m/n/14.4 использоваться. В Таблице [][]1.12[][] представлен итоговый расчет портов для
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--730
+[]|\TU/TimesNewRoman(0)/b/n/12 Кол-во
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--730
+\TU/TimesNewRoman(0)/b/n/12 портов
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/12 Руководство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+[]|\TU/TimesNewRoman(0)/m/n/12 Группа
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\TU/TimesNewRoman(0)/m/n/12 складской
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+[]|\TU/TimesNewRoman(0)/m/n/12 Группа
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+\TU/TimesNewRoman(0)/m/n/12 товарного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--746
+[]\TU/TimesNewRoman(0)/m/n/14.4 Чтобы рассчитать нагрузку на уровне агрегации для склада,
+ []
+
+[14]
+Underfull \hbox (badness 1496) in paragraph at lines 752--756
+\TU/TimesNewRoman(0)/m/n/14.4 использоваться. В Таблице [][]1.12[][] представлен итоговый расчет портов для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 765--765
 []|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 731--732
+Underfull \hbox (badness 10000) in paragraph at lines 765--766
 []|\TU/TimesNewRoman(0)/b/n/12 Кол-во портов
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 742--750
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 776--785
 []\TU/TimesNewRoman(0)/m/n/14.4 В данном шаге требуется создать прототип сети с учетом
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 742--750
+Underfull \hbox (badness 10000) in paragraph at lines 776--785
 \TU/TimesNewRoman(0)/m/n/14.4 добавления сервера для развертывания программной инфраструктуры
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 742--750
+Underfull \hbox (badness 3058) in paragraph at lines 776--785
 \TU/TimesNewRoman(0)/m/n/14.4 пункте работы. Для формирования прототипа используется программное
  []
 
-[14]
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--788
+[]\TU/TimesNewRoman(0)/m/n/14.4 Прототип топологи главного здания приведен на Рисунке [][]1.5[][].
+ []
+
+[16]
 File: ./images/topo_mainDep.png Graphic file (type bmp)
 <./images/topo_mainDep.png>
 
-Overfull \hbox (22.95364pt too wide) in paragraph at lines 755--756
+Overfull \hbox (39.21552pt too wide) in paragraph at lines 794--795
  [][] 
- []
-
-[15
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
-[]|\TU/TimesNewRoman(0)/b/n/12 Модель
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
-[]|\TU/TimesNewRoman(0)/b/n/12 Модули
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
-[]|\TU/TimesNewRoman(0)/b/n/12 Общее количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
-\TU/TimesNewRoman(0)/b/n/12 портов(с модулями
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
-[]|\TU/TimesNewRoman(0)/b/n/12 Используемые
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--771
-\TU/TimesNewRoman(0)/b/n/12 порты(названия,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--772
-[]|\TU/TimesNewRoman(0)/b/n/12 Свободные
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--772
-\TU/TimesNewRoman(0)/b/n/12 порты(названия,
- []
-
-
-Underfull \hbox (badness 7221) in paragraph at lines 777--778
-[]|\TU/TimesNewRoman(0)/m/n/12 2 порта: GigabitEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 784--784
-[]|\TU/TimesNewRoman(0)/m/n/12 13 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 784--784
-\TU/TimesNewRoman(0)/m/n/12 0/13, 2 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 791--791
-[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 791--791
-\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 798--798
-[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 798--798
-\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 805--805
-[]|\TU/TimesNewRoman(0)/m/n/12 10 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 805--805
-\TU/TimesNewRoman(0)/m/n/12 0/10, 2 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 812--812
-[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 812--812
-\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 819--819
-[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 819--819
-\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 826--826
-[]|\TU/TimesNewRoman(0)/m/n/12 17 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 826--826
-\TU/TimesNewRoman(0)/m/n/12 0/17, 2 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 833--833
-[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 833--833
-\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
- []
-
-[16
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 850--850
-[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 850--850
-\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 857--857
-[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 857--857
-\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 870--870
-[]|\TU/TimesNewRoman(0)/m/n/12 24 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 870--870
-\TU/TimesNewRoman(0)/m/n/12 GigabitEthernet, 1
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 872--873
-[]|\TU/TimesNewRoman(0)/m/n/12 10 портов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 877--877
-[]|\TU/TimesNewRoman(0)/m/n/12 24 порта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 877--877
-\TU/TimesNewRoman(0)/m/n/12 GigabitEthernet, 1
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 879--880
-[]|\TU/TimesNewRoman(0)/m/n/12 10 портов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-[]|\TU/TimesNewRoman(0)/m/n/12 24 порта
- []
-
-
-Underfull \hbox (badness 7221) in paragraph at lines 885--885
-[]|\TU/TimesNewRoman(0)/m/n/12 3 порта: GigabitEthernet0/1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 886--887
-[]|\TU/TimesNewRoman(0)/m/n/12 21 порт
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 893--894
-[]|\TU/TimesNewRoman(0)/m/n/12 2 порта
  []
 
 [17
 
-
-] [18
-
-] [19]
-File: ./images/topo_filial.png Graphic file (type bmp)
-<./images/topo_filial.png>
- [20
-
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 995--995
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
 []|\TU/TimesNewRoman(0)/b/n/12 Модель
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--995
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
 []|\TU/TimesNewRoman(0)/b/n/12 Модули
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--995
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
 []|\TU/TimesNewRoman(0)/b/n/12 Общее количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--995
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
 \TU/TimesNewRoman(0)/b/n/12 портов(с модулями
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--995
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
 []|\TU/TimesNewRoman(0)/b/n/12 Используемые
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--995
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
 \TU/TimesNewRoman(0)/b/n/12 порты(названия,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--996
+Underfull \hbox (badness 10000) in paragraph at lines 809--810
 []|\TU/TimesNewRoman(0)/b/n/12 Свободные
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--996
+Underfull \hbox (badness 10000) in paragraph at lines 809--810
 \TU/TimesNewRoman(0)/b/n/12 порты(названия,
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 1001--1001
+Underfull \hbox (badness 7221) in paragraph at lines 815--816
 []|\TU/TimesNewRoman(0)/m/n/12 2 порта: GigabitEthernet0/1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1008--1008
-[]|\TU/TimesNewRoman(0)/m/n/12 15 портов: FastEthernet0/1-
+Underfull \hbox (badness 10000) in paragraph at lines 822--822
+[]|\TU/TimesNewRoman(0)/m/n/12 13 портов: FastEthernet0/1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1008--1008
-\TU/TimesNewRoman(0)/m/n/12 0/15, 2 порта
+Underfull \hbox (badness 10000) in paragraph at lines 822--822
+\TU/TimesNewRoman(0)/m/n/12 0/13, 2 порта
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
+Underfull \hbox (badness 10000) in paragraph at lines 829--829
 []|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
+Underfull \hbox (badness 10000) in paragraph at lines 829--829
 \TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1022--1022
-[]|\TU/TimesNewRoman(0)/m/n/12 12 портов: FastEthernet0/1-
+Underfull \hbox (badness 10000) in paragraph at lines 836--836
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1022--1022
-\TU/TimesNewRoman(0)/m/n/12 0/12, 2 порта
+Underfull \hbox (badness 10000) in paragraph at lines 836--836
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
-[]|\TU/TimesNewRoman(0)/m/n/12 19 портов: FastEthernet0/1-
+Underfull \hbox (badness 10000) in paragraph at lines 843--843
+[]|\TU/TimesNewRoman(0)/m/n/12 10 портов: FastEthernet0/1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
-\TU/TimesNewRoman(0)/m/n/12 0/19, 2 порта
+Underfull \hbox (badness 10000) in paragraph at lines 843--843
+\TU/TimesNewRoman(0)/m/n/12 0/10, 2 порта
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
+Underfull \hbox (badness 10000) in paragraph at lines 850--850
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--850
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--857
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--857
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--864
+[]|\TU/TimesNewRoman(0)/m/n/12 17 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--864
+\TU/TimesNewRoman(0)/m/n/12 0/17, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--871
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--871
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+[18
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 888--888
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--888
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 895--895
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 895--895
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--908
 []|\TU/TimesNewRoman(0)/m/n/12 24 порта
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1038
-[]|\TU/TimesNewRoman(0)/m/n/12 17 портов
+Underfull \hbox (badness 10000) in paragraph at lines 908--908
+\TU/TimesNewRoman(0)/m/n/12 GigabitEthernet, 1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1042--1042
+Underfull \hbox (badness 10000) in paragraph at lines 910--911
+[]|\TU/TimesNewRoman(0)/m/n/12 10 портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--915
 []|\TU/TimesNewRoman(0)/m/n/12 24 порта
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1044--1045
-[]|\TU/TimesNewRoman(0)/m/n/12 17 портов
+Underfull \hbox (badness 10000) in paragraph at lines 915--915
+\TU/TimesNewRoman(0)/m/n/12 GigabitEthernet, 1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
-[]|\TU/TimesNewRoman(0)/m/n/12 NIM-ES2-
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+[]|\TU/TimesNewRoman(0)/m/n/12 10 портов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
-\TU/TimesNewRoman(0)/m/n/12 4 (4 порта
+Underfull \hbox (badness 10000) in paragraph at lines 922--922
+[]|\TU/TimesNewRoman(0)/m/n/12 24 порта
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1049--1049
-[]|\TU/TimesNewRoman(0)/m/n/12 6 портов
+Underfull \hbox (badness 7221) in paragraph at lines 923--923
+[]|\TU/TimesNewRoman(0)/m/n/12 3 порта: GigabitEthernet0/1-
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 1050--1050
+Underfull \hbox (badness 10000) in paragraph at lines 924--925
+[]|\TU/TimesNewRoman(0)/m/n/12 21 порт
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 931--932
+[]|\TU/TimesNewRoman(0)/m/n/12 2 порта
+ []
+
+[19
+
+
+] [20
+
+]
+Underfull \hbox (badness 5862) in paragraph at lines 1011--1014
+\TU/TimesNewRoman(0)/m/n/14.4 типового филиала приведена на Рисунке [][]1.6[][]. Спецификация устройств
+ []
+
+[21]
+File: ./images/topo_filial.png Graphic file (type bmp)
+<./images/topo_filial.png>
+ [22
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+[]|\TU/TimesNewRoman(0)/b/n/12 Модель
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+[]|\TU/TimesNewRoman(0)/b/n/12 Модули
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+[]|\TU/TimesNewRoman(0)/b/n/12 Общее количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+\TU/TimesNewRoman(0)/b/n/12 портов(с модулями
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+[]|\TU/TimesNewRoman(0)/b/n/12 Используемые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+\TU/TimesNewRoman(0)/b/n/12 порты(названия,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
+[]|\TU/TimesNewRoman(0)/b/n/12 Свободные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
+\TU/TimesNewRoman(0)/b/n/12 порты(названия,
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 1040--1040
 []|\TU/TimesNewRoman(0)/m/n/12 2 порта: GigabitEthernet0/1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1051--1052
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1047
+[]|\TU/TimesNewRoman(0)/m/n/12 15 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1047
+\TU/TimesNewRoman(0)/m/n/12 0/15, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1054
+[]|\TU/TimesNewRoman(0)/m/n/12 20 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1054
+\TU/TimesNewRoman(0)/m/n/12 0/20, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1061
+[]|\TU/TimesNewRoman(0)/m/n/12 12 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1061
+\TU/TimesNewRoman(0)/m/n/12 0/12, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1068--1068
+[]|\TU/TimesNewRoman(0)/m/n/12 19 портов: FastEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1068--1068
+\TU/TimesNewRoman(0)/m/n/12 0/19, 2 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1074--1074
+[]|\TU/TimesNewRoman(0)/m/n/12 24 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1077
+[]|\TU/TimesNewRoman(0)/m/n/12 17 портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1081
+[]|\TU/TimesNewRoman(0)/m/n/12 24 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1084
+[]|\TU/TimesNewRoman(0)/m/n/12 17 портов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1087
+[]|\TU/TimesNewRoman(0)/m/n/12 NIM-ES2-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1087
+\TU/TimesNewRoman(0)/m/n/12 4 (4 порта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1088
+[]|\TU/TimesNewRoman(0)/m/n/12 6 портов
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 1089--1089
+[]|\TU/TimesNewRoman(0)/m/n/12 2 порта: GigabitEthernet0/1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1091
 []|\TU/TimesNewRoman(0)/m/n/12 4 порта
  []
 
-[21
+[23
 
+
+] [24
 
 ]
 File: ./images/topo_warehouse.png Graphic file (type bmp)
 <./images/topo_warehouse.png>
- [22
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 1106--1107
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1147
 []\TU/TimesNewRoman(0)/m/n/14.4 Спецификация промежуточных устройств прототипа сети склада
  []
 
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 1117--1117
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
 []|\TU/TimesNewRoman(0)/b/n/12 Модель
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1117--1117
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
 []|\TU/TimesNewRoman(0)/b/n/12 Модули
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1117--1117
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
 []|\TU/TimesNewRoman(0)/b/n/12 Общее количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1117--1117
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
 \TU/TimesNewRoman(0)/b/n/12 портов(с модулями
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1117--1117
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
 []|\TU/TimesNewRoman(0)/b/n/12 Используемые
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1117--1117
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
 \TU/TimesNewRoman(0)/b/n/12 порты(названия,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1117--1118
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1158
 []|\TU/TimesNewRoman(0)/b/n/12 Свободные
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1117--1118
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1158
 \TU/TimesNewRoman(0)/b/n/12 порты(названия,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1123--1123
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1163
 []|\TU/TimesNewRoman(0)/m/n/12 22 порта: FastEthernet0/1-
- []
-
-[24
-
-]
-File: ./images/topo_tp.png Graphic file (type bmp)
-<./images/topo_tp.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 1168--1184
-[]\TU/TimesNewRoman(0)/m/n/14.4 Спецификация промежуточных устройст прототипа сети точки
- []
-
-[25
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
-[]|\TU/TimesNewRoman(0)/b/n/12 Модель
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
-[]|\TU/TimesNewRoman(0)/b/n/12 Модули
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
-[]|\TU/TimesNewRoman(0)/b/n/12 Общее количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
-\TU/TimesNewRoman(0)/b/n/12 портов(с модулями
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
-[]|\TU/TimesNewRoman(0)/b/n/12 Используемые
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
-\TU/TimesNewRoman(0)/b/n/12 порты(названия,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
-[]|\TU/TimesNewRoman(0)/b/n/12 Свободные
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
-\TU/TimesNewRoman(0)/b/n/12 порты(названия,
  []
 
 [26
 
 ]
-Underfull \hbox (badness 2486) in paragraph at lines 1218--1219
-[]\TU/TimesNewRoman(0)/m/n/14.4 VLAN позволяет нескольким сетям работать практически как одна
- []
+File: ./images/topo_tp.png Graphic file (type bmp)
+<./images/topo_tp.png>
 
-
-Underfull \hbox (badness 1728) in paragraph at lines 1218--1219
-\TU/TimesNewRoman(0)/m/n/14.4 локальная сеть. Одним из наиболее полезных элементов VLAN является
- []
-
-
-Underfull \hbox (badness 1810) in paragraph at lines 1218--1219
-\TU/TimesNewRoman(0)/m/n/14.4 то, что он устраняет задержку в сети, что экономит сетевые ресурсы и
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 1218--1219
-\TU/TimesNewRoman(0)/m/n/14.4 сетью и масштабируемость. Трафик также можно легко контролировать с
- []
-
-
-Package caption Warning: \label without proper reference on input line 1226.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:mainDepVlan' on page 27 undefined on input line 1222.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1253
-[]|\TU/TimesNewRoman(0)/m/n/12 Управляющий VLAN для
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 1254--1255
-[]|\TU/TimesNewRoman(0)/m/n/12 Взаимосвязанные VLAN между
- []
-
-
-Underfull \hbox (badness 1701) in paragraph at lines 1222--1257
-[]\TU/TimesNewRoman(0)/m/n/14.4 В Таблице [][][][][] представлен результат планирования VLAN для сети
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1260--1291
-[]\TU/TimesNewRoman(0)/m/n/14.4 Описание конфигурации для последующей настройки VLAN на
+Underfull \hbox (badness 10000) in paragraph at lines 1208--1224
+[]\TU/TimesNewRoman(0)/m/n/14.4 Спецификация промежуточных устройств прототипа сети точки
  []
 
 [27
 
-] [28] [29]
-Underfull \hbox (badness 10000) in paragraph at lines 1372--1373
-[]|\TU/TimesNewRoman(0)/m/n/12 Управляющая VLAN для
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 1374--1375
-[]|\TU/TimesNewRoman(0)/m/n/12 Взаимосвязанные VLAN между
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1380--1382
-[]\TU/TimesNewRoman(0)/m/n/14.4 Описание конфигурации для последующей настройки VLAN на
- []
-
-[30]
-Overfull \hbox (0.83014pt too wide) in paragraph at lines 1388--1411
- [][] 
- []
-
-[31]
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-[]|\TU/TimesNewRoman(0)/m/n/12 Управляющая VLAN для
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-[]|\TU/TimesNewRoman(0)/m/n/12 Управляющая VLAN для
- []
-
-
-Underfull \hbox (badness 3668) in paragraph at lines 1497--1513
-[]\TU/TimesNewRoman(0)/m/n/14.4 Планирование виртуальных локальных сетей по портам на складе
- []
-
-[32]
-Underfull \hbox (badness 4995) in paragraph at lines 1515--1524
-[]\TU/TimesNewRoman(0)/m/n/14.4 При наличии резервных маршрутов в топологии сети канальноко
- []
-
-
-Underfull \hbox (badness 3803) in paragraph at lines 1515--1524
-\TU/TimesNewRoman(0)/m/n/14.4 уровня появляются петли, которые могут нарушить стабильную работы
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1515--1524
-\TU/TimesNewRoman(0)/m/n/14.4 сети, для предотвращения данной ситуации используются протоколы
- []
-
-
-Underfull \hbox (badness 3514) in paragraph at lines 1515--1524
-\TU/TimesNewRoman(0)/m/n/14.4 остовного дерева. В данном предприятии будет выбран протокол Rapiv
- []
-
-
-Underfull \hbox (badness 1748) in paragraph at lines 1515--1524
-\TU/TimesNewRoman(0)/m/n/14.4 в топологии, благодаря уменьшенному времени конвергенции. Во-вторых,
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 1515--1524
-\TU/TimesNewRoman(0)/m/n/14.4 он поддерживает создание отдельного spanning tree для каждого VLAN,
- []
-
-
-Underfull \hbox (badness 2582) in paragraph at lines 1515--1524
-\TU/TimesNewRoman(0)/m/n/14.4 Эти особенности делают Rapid PVST+ особенно подходящим для сетей
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1515--1524
-\TU/TimesNewRoman(0)/m/n/14.4 предприятий, где требуется высокая надежность, масштабируемость и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1515--1524
-\TU/TimesNewRoman(0)/m/n/14.4 SW_1_L3_GOSTEV должно быть root bridge для каждой виртуальной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1538--1538
-[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1541
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1541
-\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1541
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому отсносится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-\TU/TimesNewRoman(0)/m/n/12 коммерческий отдел предприятия, со
- []
-
-
-Underfull \hbox (badness 3058) in paragraph at lines 1542--1543
-\TU/TimesNewRoman(0)/m/n/12 шлюзом, расположенным на коммутаторе
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1545
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1545
-\TU/TimesNewRoman(0)/m/n/12 бухгалтерия предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1545
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\TU/TimesNewRoman(0)/m/n/12 отдел кадров предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 6380) in paragraph at lines 1548--1549
-\TU/TimesNewRoman(0)/m/n/12 отдел закупок предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-\TU/TimesNewRoman(0)/m/n/12 отдел продаж предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 2253) in paragraph at lines 1554--1555
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится ИТ-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-\TU/TimesNewRoman(0)/m/n/12 департамент предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 1931) in paragraph at lines 1560--1561
-\TU/TimesNewRoman(0)/m/n/12 уровня 2 со шлюзом, расположенным на
- []
-
-[33]
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1579
-[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1579
-[]|\TU/TimesNewRoman(0)/b/n/12 Режим
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1593--1594
-[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется коммутатором уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1595--1596
-[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1597--1598
-[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 1599--1600
-[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 1601--1602
-[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
- []
-
-[34]
-Underfull \hbox (badness 1286) in paragraph at lines 1606--1609
-\TU/TimesNewRoman(0)/m/n/14.4 простоты структуры каждого объекта и топологии сети передачи данных.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1618--1618
-[]|\TU/TimesNewRoman(0)/b/n/12 Исходящий
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1618--1618
-[]|\TU/TimesNewRoman(0)/b/n/12 Сеть
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1618--1618
-\TU/TimesNewRoman(0)/b/n/12 назначения/
- []
-
-[35] [36]
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
-[]|\TU/TimesNewRoman(0)/b/n/12 Дополнительный
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1654--1654
-[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 1654--1654
-\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1655--1655
-[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 1655--1655
-\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
-[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 1656--1656
-\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1657--1657
-[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 1657--1657
-\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1658--1658
-[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 1658--1658
-\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1659--1659
-[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 1659--1659
-\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1660--1660
-[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 1660--1660
-\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1661--1661
-[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 1661--1661
-\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1662--1662
-[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 1662--1662
-\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1686--1686
-[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1688--1689
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1688--1689
-\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1688--1689
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1690--1691
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1690--1691
-\TU/TimesNewRoman(0)/m/n/12 бухгалтерия предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1690--1691
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1692--1693
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1692--1693
-\TU/TimesNewRoman(0)/m/n/12 отдел кадров предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1692--1693
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1694--1695
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 6380) in paragraph at lines 1694--1695
-\TU/TimesNewRoman(0)/m/n/12 отдел закупок предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1694--1695
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1696--1697
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1696--1697
-\TU/TimesNewRoman(0)/m/n/12 отдел продаж предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1696--1697
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 2253) in paragraph at lines 1700--1701
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится ИТ-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1700--1701
-\TU/TimesNewRoman(0)/m/n/12 департамент предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1700--1701
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1702--1703
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1702--1703
-\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
- []
-
-
-Underfull \hbox (badness 1931) in paragraph at lines 1704--1705
-\TU/TimesNewRoman(0)/m/n/12 уровня 2 со шлюзом, расположенным на
- []
-
-[37]
-Underfull \hbox (badness 1331) in paragraph at lines 1713--1714
-[]\TU/TimesNewRoman(0)/m/n/14.4 План режима распределения IP адресов для филиала представлен в
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1722--1722
-[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1722--1722
-[]|\TU/TimesNewRoman(0)/b/n/12 Режим
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1735--1736
-[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется коммутатором уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1737--1738
-[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 1739--1740
-[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 1741--1742
-[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
- []
-
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 1746--1747
-[]\TU/TimesNewRoman(0)/m/n/14.4 Настройка статической маршрутизации для филиала аналогична
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1757--1757
-[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1759--1760
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1759--1760
-\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1759--1760
-\TU/TimesNewRoman(0)/m/n/12 расположенным на роутере уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1761--1762
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1761--1762
-\TU/TimesNewRoman(0)/m/n/12 отдел продаж предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1761--1762
-\TU/TimesNewRoman(0)/m/n/12 расположенным на роутере уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1763--1764
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1763--1764
-\TU/TimesNewRoman(0)/m/n/12 профильный отдел предприятия, со
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1763--1764
-\TU/TimesNewRoman(0)/m/n/12 шлюзом, расположенным на роутере
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1771
-[]\TU/TimesNewRoman(0)/m/n/14.4 План режима распределения IP адресов для точки присутствия
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1779--1779
-[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1779--1779
-[]|\TU/TimesNewRoman(0)/b/n/12 Режим
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1787--1788
-[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется маршрутизатором уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1789--1790
-[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
- []
-
-[39]
-Underfull \hbox (badness 10000) in paragraph at lines 1794--1795
-[]\TU/TimesNewRoman(0)/m/n/14.4 Настройка статической маршрутизации для точки присутствия
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1794--1795
-\TU/TimesNewRoman(0)/m/n/14.4 аналогична настройке главного здания, но с отстутствием резервных
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1806--1806
-[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1808--1809
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1808--1809
-\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1810--1811
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1810--1811
-\TU/TimesNewRoman(0)/m/n/12 бухгалтерия предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1812--1813
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1812--1813
-\TU/TimesNewRoman(0)/m/n/12 отдел кадров предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1814--1815
-[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
- []
-
-
-Underfull \hbox (badness 6380) in paragraph at lines 1814--1815
-\TU/TimesNewRoman(0)/m/n/12 отдел закупок предприятия, со шлюзом,
- []
-
-
-Underfull \hbox (badness 1931) in paragraph at lines 1816--1817
-\TU/TimesNewRoman(0)/m/n/12 уровня 2 со шлюзом, расположенным на
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1830--1830
-[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1830--1830
-[]|\TU/TimesNewRoman(0)/b/n/12 Режим
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1839--1840
-[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется маршрутизатором уровня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1841--1842
-[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
- []
-
-[40]
-Underfull \hbox (badness 1259) in paragraph at lines 1861--1863
-[]\TU/TimesNewRoman(0)/m/n/14.4 ACL — это универсальный и мощный механизм фильтрации. С их
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1868--1870
-[]\TU/TimesNewRoman(0)/m/n/14.4 Сеть управления может инициировать соединение с любым
- []
-
-
-Underfull \hbox (badness 1132) in paragraph at lines 1870--1875
-\TU/TimesNewRoman(0)/m/n/14.4 (TCP порт 80) для общего доступа, и одновременно настроить
- []
-
-
-Underfull \hbox (badness 1184) in paragraph at lines 1875--1876
-[]\TU/TimesNewRoman(0)/m/n/14.4 Файловый сервер. На него должны попадать только резиденты
- []
-
-
-LaTeX Warning: Reference `' on page 41 undefined on input line 1883.
-
-
-Underfull \hbox (badness 3068) in paragraph at lines 1880--1885
-[]\TU/TimesNewRoman(0)/m/n/14.4 Стоит отметить, что рекомендуется применять стандартные списки
- []
-
-
-Underfull \hbox (badness 3039) in paragraph at lines 1880--1885
-\TU/TimesNewRoman(0)/m/n/14.4 контроля доступа ближе к получателям трафика для обеспечения более
- []
-
-[41]
-Underfull \hbox (badness 10000) in paragraph at lines 1887--1887
-| \TU/TimesNewRoman(0)/b/n/16 1.7 Планирование политик обеспечения качества
- []
-
-
-Underfull \hbox (badness 2903) in paragraph at lines 1889--1893
-\TU/TimesNewRoman(0)/m/n/14.4 передачи данных для критически важных приложений. Он используется
- []
-
-
-Underfull \hbox (badness 2617) in paragraph at lines 1889--1893
-\TU/TimesNewRoman(0)/m/n/14.4 для обеспечения надежной и эффективной передачи данных в условиях
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1894--1900
-[]\TU/TimesNewRoman(0)/m/n/14.4 Определено четыре типа класса трафика: премиальный, золотой,
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 1894--1900
-\TU/TimesNewRoman(0)/m/n/14.4 премиальный. Трафик золотого класса будет состоять из трафика службы
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1894--1900
-\TU/TimesNewRoman(0)/m/n/14.4 управления пользователями и веб-службы. Серебряный класс трафика
- []
-
-
-Underfull \hbox (badness 1087) in paragraph at lines 1894--1900
-\TU/TimesNewRoman(0)/m/n/14.4 будет содержать трафик службы динамического конфигурирования хостов,
- []
-
-
-Underfull \hbox (badness 1303) in paragraph at lines 1894--1900
-\TU/TimesNewRoman(0)/m/n/14.4 а бронзовым будет трафик службы доменных имен. Все остальное будет
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 1894--1900
-\TU/TimesNewRoman(0)/m/n/14.4 рассматриваться и обрабатываться по модели Best-effort. На основе этого
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1908--1908
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1234
 []|\TU/TimesNewRoman(0)/b/n/12 Модель
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1912--1912
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1234
+[]|\TU/TimesNewRoman(0)/b/n/12 Модули
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1234
+[]|\TU/TimesNewRoman(0)/b/n/12 Общее количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1234
+\TU/TimesNewRoman(0)/b/n/12 портов(с модулями
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1234
+[]|\TU/TimesNewRoman(0)/b/n/12 Используемые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1234
+\TU/TimesNewRoman(0)/b/n/12 порты(названия,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1235
+[]|\TU/TimesNewRoman(0)/b/n/12 Свободные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1235
+\TU/TimesNewRoman(0)/b/n/12 порты(названия,
+ []
+
+[28
+
+]
+Underfull \hbox (badness 2486) in paragraph at lines 1258--1259
+[]\TU/TimesNewRoman(0)/m/n/14.4 VLAN позволяет нескольким сетям работать практически как одна
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 1258--1259
+\TU/TimesNewRoman(0)/m/n/14.4 локальная сеть. Одним из наиболее полезных элементов VLAN является
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 1258--1259
+\TU/TimesNewRoman(0)/m/n/14.4 то, что он устраняет задержку в сети, что экономит сетевые ресурсы и
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 1258--1259
+\TU/TimesNewRoman(0)/m/n/14.4 сетью и масштабируемость. Трафик также можно легко контролировать с
+ []
+
+
+Package caption Warning: \label without proper reference on input line 1266.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `table:mainDepVlan' on page 29 undefined on input line 1262.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1293
+[]|\TU/TimesNewRoman(0)/m/n/12 Управляющий VLAN для
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 1294--1295
+[]|\TU/TimesNewRoman(0)/m/n/12 Взаимосвязанные VLAN между
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 1262--1297
+[]\TU/TimesNewRoman(0)/m/n/14.4 В Таблице [][][][][] представлен результат планирования VLAN для сети
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1331
+[]\TU/TimesNewRoman(0)/m/n/14.4 Описание конфигурации для последующей настройки VLAN на
+ []
+
+[29
+
+] [30] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+[]|\TU/TimesNewRoman(0)/m/n/12 Управляющая VLAN для
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 1414--1415
+[]|\TU/TimesNewRoman(0)/m/n/12 Взаимосвязанные VLAN между
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1420--1422
+[]\TU/TimesNewRoman(0)/m/n/14.4 Описание конфигурации для последующей настройки VLAN на
+ []
+
+[32]
+Overfull \hbox (0.83014pt too wide) in paragraph at lines 1428--1451
+ [][] 
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+[]|\TU/TimesNewRoman(0)/m/n/12 Управляющая VLAN для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1531--1532
+[]|\TU/TimesNewRoman(0)/m/n/12 Управляющая VLAN для
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 1537--1553
+[]\TU/TimesNewRoman(0)/m/n/14.4 Планирование виртуальных локальных сетей по портам на складе
+ []
+
+[34]
+Underfull \hbox (badness 4967) in paragraph at lines 1555--1564
+\TU/TimesNewRoman(0)/m/n/14.4 ряд значительных преимуществ. Во-первых, Rapid PVST+ обеспечивает
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 1555--1564
+\TU/TimesNewRoman(0)/m/n/14.4 отдельного spanning tree для каждого VLAN, что повышает гибкость и
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 1555--1564
+\TU/TimesNewRoman(0)/m/n/14.4 эффективность управления сетевыми ресурсами. Эти особенности делают
+ []
+
+[35]
+Underfull \hbox (badness 4242) in paragraph at lines 1569--1589
+\TU/TimesNewRoman(0)/m/n/14.4 возможность выбора из нескольких классов адресов для использования
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 1569--1589
+\TU/TimesNewRoman(0)/m/n/14.4 имеют свои уникальные характеристики и диапазоны адресов. В случае
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 1569--1589
+\TU/TimesNewRoman(0)/m/n/14.4 частных сетей, где требуется управление и изоляция локального трафика
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1569--1589
+\TU/TimesNewRoman(0)/m/n/14.4 внутри организации, принято решение использовать диапазон адресов
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 1569--1589
+\TU/TimesNewRoman(0)/m/n/14.4 диапазона адресов класса С для частных сетей позволяет эффективно
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 1569--1589
+\TU/TimesNewRoman(0)/m/n/14.4 управлять адресным пространством, обеспечивать изоляцию трафика и
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1597--1597
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1599--1600
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1599--1600
+\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1599--1600
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1601--1602
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1601--1602
+\TU/TimesNewRoman(0)/m/n/12 коммерческий отдел предприятия, со
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 1601--1602
+\TU/TimesNewRoman(0)/m/n/12 шлюзом, расположенным на коммутаторе
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
+\TU/TimesNewRoman(0)/m/n/12 бухгалтерия предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
+\TU/TimesNewRoman(0)/m/n/12 отдел кадров предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 1607--1608
+\TU/TimesNewRoman(0)/m/n/12 отдел закупок предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
+\TU/TimesNewRoman(0)/m/n/12 отдел продаж предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 1613--1614
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится ИТ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
+\TU/TimesNewRoman(0)/m/n/12 департамент предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 1619--1620
+\TU/TimesNewRoman(0)/m/n/12 уровня 2 со шлюзом, расположенным на
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1638
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1638
+[]|\TU/TimesNewRoman(0)/b/n/12 Режим
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1652--1653
+[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется коммутатором уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1657
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1658--1659
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1660--1661
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+[]|\TU/TimesNewRoman(0)/b/n/12 Исходящий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+[]|\TU/TimesNewRoman(0)/b/n/12 Сеть
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\TU/TimesNewRoman(0)/b/n/12 назначения/
+ []
+
+[38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1712
+[]|\TU/TimesNewRoman(0)/b/n/12 Дополнительный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1713--1713
+[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1713--1713
+\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1714--1714
+[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1714--1714
+\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1715--1715
+[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1715--1715
+\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1716--1716
+[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1716--1716
+\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1717--1717
+[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1717--1717
+\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1718--1718
+[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1718--1718
+\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1719--1719
+[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1719--1719
+\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1720--1720
+[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1720--1720
+\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1721--1721
+[]|\TU/TimesNewRoman(0)/m/n/12 Автоматическое
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 1721--1721
+\TU/TimesNewRoman(0)/m/n/12 перехватывание роли,
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 1746--1746
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
+\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1750--1751
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1750--1751
+\TU/TimesNewRoman(0)/m/n/12 бухгалтерия предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1750--1751
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1752--1753
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1752--1753
+\TU/TimesNewRoman(0)/m/n/12 отдел кадров предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1752--1753
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1755
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 1754--1755
+\TU/TimesNewRoman(0)/m/n/12 отдел закупок предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1755
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1756--1757
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1756--1757
+\TU/TimesNewRoman(0)/m/n/12 отдел продаж предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1756--1757
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 1760--1761
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится ИТ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1760--1761
+\TU/TimesNewRoman(0)/m/n/12 департамент предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1760--1761
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1763
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1763
+\TU/TimesNewRoman(0)/m/n/12 расположенным на коммутаторе уровня
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 1764--1765
+\TU/TimesNewRoman(0)/m/n/12 уровня 2 со шлюзом, расположенным на
+ []
+
+[41]
+Underfull \hbox (badness 1331) in paragraph at lines 1774--1775
+[]\TU/TimesNewRoman(0)/m/n/14.4 План режима распределения IP адресов для филиала представлен в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1783--1783
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1783--1783
+[]|\TU/TimesNewRoman(0)/b/n/12 Режим
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1796--1797
+[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется коммутатором уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1798--1799
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1800--1801
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1802--1803
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные взаимосвязанные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1807--1808
+[]\TU/TimesNewRoman(0)/m/n/14.4 Настройка статической маршрутизации для филиала аналогична
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1819--1819
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1822
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1822
+\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1822
+\TU/TimesNewRoman(0)/m/n/12 расположенным на роутере уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1824
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1824
+\TU/TimesNewRoman(0)/m/n/12 отдел продаж предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1824
+\TU/TimesNewRoman(0)/m/n/12 расположенным на роутере уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1825--1826
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1825--1826
+\TU/TimesNewRoman(0)/m/n/12 профильный отдел предприятия, со
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1825--1826
+\TU/TimesNewRoman(0)/m/n/12 шлюзом, расположенным на роутере
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 1833--1834
+[]\TU/TimesNewRoman(0)/m/n/14.4 План режима распределения IP адресов для точки присутствия
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1842--1842
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1842--1842
+[]|\TU/TimesNewRoman(0)/b/n/12 Режим
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1850--1851
+[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется маршрутизатором уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1852--1853
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1857--1858
+[]\TU/TimesNewRoman(0)/m/n/14.4 Настройка статической маршрутизации для точки присутствия
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1869--1869
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/маска
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1871--1872
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1871--1872
+\TU/TimesNewRoman(0)/m/n/12 руководство предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1873--1874
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1873--1874
+\TU/TimesNewRoman(0)/m/n/12 бухгалтерия предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1875--1876
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1875--1876
+\TU/TimesNewRoman(0)/m/n/12 отдел кадров предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1877--1878
+[]|\TU/TimesNewRoman(0)/m/n/12 Сегмент сети, к которому относится
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 1877--1878
+\TU/TimesNewRoman(0)/m/n/12 отдел закупок предприятия, со шлюзом,
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 1879--1880
+\TU/TimesNewRoman(0)/m/n/12 уровня 2 со шлюзом, расположенным на
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1894
+[]|\TU/TimesNewRoman(0)/b/n/12 Сегмент/Интерфейс
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1894
+[]|\TU/TimesNewRoman(0)/b/n/12 Режим
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1903--1904
+[]|\TU/TimesNewRoman(0)/m/n/12 Распределяется маршрутизатором уровня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1905--1906
+[]|\TU/TimesNewRoman(0)/m/n/12 Статически настроенные IP-адреса
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 1925--1929
+[]\TU/TimesNewRoman(0)/m/n/14.4 ACL — это универсальный и мощный механизм фильтрации. С их
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 1931--1936
+[]\TU/TimesNewRoman(0)/m/n/14.4 Стоит отметить, что рекомендуется применять стандартные списки
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 1931--1936
+\TU/TimesNewRoman(0)/m/n/14.4 контроля доступа ближе к получателям трафика для обеспечения более
+ []
+
+
+Overfull \hbox (1.14369pt too wide) in paragraph at lines 1944--1944
+[]|\TU/TimesNewRoman(0)/b/n/12 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1945
+[]|\TU/TimesNewRoman(0)/m/n/12 Стандартный,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1949
+[]|\TU/TimesNewRoman(0)/m/n/12 Разрешить трафик, если источник
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1949
+\TU/TimesNewRoman(0)/m/n/12 – сервер, запретить трафик, если
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 1945--1949
+\TU/TimesNewRoman(0)/m/n/12 источник – 192.168.2.0/24, 192.168.3.0/24,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1949
+\TU/TimesNewRoman(0)/m/n/12 192.168.4.0/24, 192.168.5.0/24,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1949
+\TU/TimesNewRoman(0)/m/n/12 192.168.6.0/24, 192.168.7.0/24,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1949
+\TU/TimesNewRoman(0)/m/n/12 192.168.8.0/24, 192.168.9.0/24,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1949
+\TU/TimesNewRoman(0)/m/n/12 192.168.10.0/24, разрешить остальной
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 1961--1961
+[]|\TU/TimesNewRoman(0)/b/n/12 Список
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1953--1965
+[]\TU/TimesNewRoman(0)/m/n/14.4 Планирование размещения политик фильтрации на интерфейсах
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1969--1969
+| \TU/TimesNewRoman(0)/b/n/16 1.7 Планирование политик обеспечения качества
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 1971--1975
+\TU/TimesNewRoman(0)/m/n/14.4 передачи данных для критически важных приложений. Он используется
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 1971--1975
+\TU/TimesNewRoman(0)/m/n/14.4 для обеспечения надежной и эффективной передачи данных в условиях
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1982
+[]\TU/TimesNewRoman(0)/m/n/14.4 Определено четыре типа класса трафика: премиальный, золотой,
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 1976--1982
+\TU/TimesNewRoman(0)/m/n/14.4 премиальный. Трафик золотого класса будет состоять из трафика службы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1982
+\TU/TimesNewRoman(0)/m/n/14.4 содержать трафик службы динамического конфигурирования хостов, а
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 1976--1982
+\TU/TimesNewRoman(0)/m/n/14.4 рассматриваться и обрабатываться по модели Best-effort. На основе этого
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1990--1990
+[]|\TU/TimesNewRoman(0)/b/n/12 Модель
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1994--1994
 []|\TU/TimesNewRoman(0)/m/n/12 Служба
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1912--1912
+Underfull \hbox (badness 10000) in paragraph at lines 1994--1994
 \TU/TimesNewRoman(0)/m/n/12 управления
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1916--1916
+Underfull \hbox (badness 10000) in paragraph at lines 1998--1998
 []|\TU/TimesNewRoman(0)/m/n/12 Служба
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1916--1916
+Underfull \hbox (badness 10000) in paragraph at lines 1998--1998
 \TU/TimesNewRoman(0)/m/n/12 динамического
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1916--1916
+Underfull \hbox (badness 10000) in paragraph at lines 1998--1998
 \TU/TimesNewRoman(0)/m/n/12 конфигурирования
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 1918--1918
+Underfull \hbox (badness 4872) in paragraph at lines 2000--2000
 []|\TU/TimesNewRoman(0)/m/n/12 Служба доменных
  []
 
-[42]
+[45]
 
-Package caption Warning: \label without proper reference on input line 1936.
+Package caption Warning: \label without proper reference on input line 2018.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:dns_plan' on page 43 undefined on input line 1931.
+LaTeX Warning: Reference `table:dns_plan' on page 46 undefined on input line 2013.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1926--1932
+Underfull \hbox (badness 10000) in paragraph at lines 2008--2014
 \TU/TimesNewRoman(0)/m/n/14.4 современной сетевой инфраструктуры предприятия. DNS-сервер для
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 1926--1932
+Underfull \hbox (badness 1019) in paragraph at lines 2008--2014
 \TU/TimesNewRoman(0)/m/n/14.4 предприятия развернут в рамках программного обеспечения FreeIPA (Free
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1944--1945
+Underfull \hbox (badness 10000) in paragraph at lines 2026--2027
 []|\TU/TimesNewRoman(0)/m/n/12 Конфигурируется автоматически программным
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1948--1949
+Underfull \hbox (badness 10000) in paragraph at lines 2030--2031
 []|\TU/TimesNewRoman(0)/m/n/12 Конфигурируется автоматически программным
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1950--1950
+Underfull \hbox (badness 10000) in paragraph at lines 2032--2032
 []|\TU/TimesNewRoman(0)/m/n/12 Список серверов, на которые
  []
 
-[43]
-Underfull \hbox (badness 10000) in paragraph at lines 1967--1970
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 2049--2052
 []\TU/TimesNewRoman(0)/m/n/14.4 Интегрированное решение для управления информацией о
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 1967--1970
+Underfull \hbox (badness 4316) in paragraph at lines 2049--2052
 \TU/TimesNewRoman(0)/m/n/14.4 безопасности, сочетающее в себе сервер каталогов 389, MIT
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 1974--1981
+Underfull \hbox (badness 2277) in paragraph at lines 2056--2063
 []\TU/TimesNewRoman(0)/m/n/14.4 Далее будут кратко описаны основные особенности инсталляции и
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 1974--1981
+Underfull \hbox (badness 3861) in paragraph at lines 2056--2063
 \TU/TimesNewRoman(0)/m/n/14.4 работы с программным обеспечением FreeIPA. Платформа В настоящее
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 1974--1981
+Underfull \hbox (badness 3219) in paragraph at lines 2056--2063
 \TU/TimesNewRoman(0)/m/n/14.4 время платформа может быть развернута на базе следующих основных
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 1974--1981
+Underfull \hbox (badness 4096) in paragraph at lines 2056--2063
 \TU/TimesNewRoman(0)/m/n/14.4 документации упомянуто, что данное программное обеспечение требует
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 1974--1981
+Underfull \hbox (badness 1527) in paragraph at lines 2056--2063
 \TU/TimesNewRoman(0)/m/n/14.4 много дополнительных пакетов, поэтому для тестирования рекомендуется
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 1981--1984
+Underfull \hbox (badness 1694) in paragraph at lines 2063--2066
 []\TU/TimesNewRoman(0)/m/n/14.4 Объем оперативной памяти: минимальный объем оперативной
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 1981--1984
+Underfull \hbox (badness 1789) in paragraph at lines 2063--2066
 \TU/TimesNewRoman(0)/m/n/14.4 памяти для установки с центром сертификации 1,2 Гб, 2 ГБ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1984--1988
+Underfull \hbox (badness 10000) in paragraph at lines 2066--2070
 []\TU/TimesNewRoman(0)/m/n/14.4 Статическое имя хоста: аутентификация протокола Kerberos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1984--1988
+Underfull \hbox (badness 10000) in paragraph at lines 2066--2070
 \TU/TimesNewRoman(0)/m/n/14.4 аутентификация Kerberos может прерваться. Таким образом,
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 1984--1988
+Underfull \hbox (badness 7814) in paragraph at lines 2066--2070
 \TU/TimesNewRoman(0)/m/n/14.4 тестирующая машина не должна использовать динамически
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1988--1992
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 2070--2074
 []\TU/TimesNewRoman(0)/m/n/14.4 Правила для DNS: правильно настроенный DNS является
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1988--1992
+Underfull \hbox (badness 10000) in paragraph at lines 2070--2074
 \TU/TimesNewRoman(0)/m/n/14.4 краеугольным камнем работающей системы FreeIPA. Без
  []
 
 
-Underfull \hbox (badness 6944) in paragraph at lines 1988--1992
+Underfull \hbox (badness 6944) in paragraph at lines 2070--2074
 \TU/TimesNewRoman(0)/m/n/14.4 правильно работающей конфигурации DNS Kerberos и SSL
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 1988--1992
+Underfull \hbox (badness 5446) in paragraph at lines 2070--2074
 \TU/TimesNewRoman(0)/m/n/14.4 не будут работать должным образом или вообще не будут
  []
 
-[44]
 File: ./images/freeipa_server_version.png Graphic file (type bmp)
 <./images/freeipa_server_version.png>
 
-Underfull \hbox (badness 1325) in paragraph at lines 2000--2007
+Underfull \hbox (badness 1325) in paragraph at lines 2082--2089
 []\TU/TimesNewRoman(0)/m/n/14.4 Установка FreeIPA должна содержать стабильные версии пакетов из
  []
 
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 2014.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 2096.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `CourierNew' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2021--2026
+Underfull \hbox (badness 10000) in paragraph at lines 2103--2108
 \TU/TimesNewRoman(0)/m/n/14.4 диапазонов адресов и подсетей с конкретными автоматизированными
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 2021--2026
+Underfull \hbox (badness 1881) in paragraph at lines 2103--2108
 \TU/TimesNewRoman(0)/m/n/14.4 рабочими местами. DHCP развертывается в качестве сервиса на сервере.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2021--2026
+Underfull \hbox (badness 10000) in paragraph at lines 2103--2108
 \TU/TimesNewRoman(0)/m/n/14.4 конфигурация, рассылаемая сервером, содержит IP-адрес и шлюз по
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 2021--2026
+Underfull \hbox (badness 7468) in paragraph at lines 2103--2108
 \TU/TimesNewRoman(0)/m/n/14.4 умолчанию. Планирование выделения адресов представлено в Таблице
  []
 
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 2034--2034
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 2116--2116
 []|\TU/TimesNewRoman(0)/b/n/12 Шлюз по
  []
 
 
-Overfull \hbox (3.86812pt too wide) in paragraph at lines 2052--2052
+Overfull \hbox (3.86812pt too wide) in paragraph at lines 2134--2134
 []|\TU/TimesNewRoman(0)/m/n/12 192.168.10.254| 
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 2077--2083
+Underfull \hbox (badness 1205) in paragraph at lines 2159--2165
 \TU/TimesNewRoman(0)/m/n/14.4 сервере, требуется настройка DHCP-relay. Этот компонент перенаправляет
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2077--2083
+Underfull \hbox (badness 10000) in paragraph at lines 2159--2165
 \TU/TimesNewRoman(0)/m/n/14.4 запросы DHCP от клиентов через сетевые устройства, такие как
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 2077--2083
+Underfull \hbox (badness 1286) in paragraph at lines 2159--2165
 \TU/TimesNewRoman(0)/m/n/14.4 трафик между подсетями ограничен или невозможен из-за разграничений
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 2089--2092
+Underfull \hbox (badness 1521) in paragraph at lines 2171--2174
 \TU/TimesNewRoman(0)/m/n/14.4 планирование которых не вынесено в отдельный подраздел, в том числе
  []
 
-[46]
-Underfull \hbox (badness 4168) in paragraph at lines 2093--2096
+[49]
+Underfull \hbox (badness 4168) in paragraph at lines 2175--2178
 []\TU/TimesNewRoman(0)/m/n/14.4 Служба времени разворачивается как компонент пакета FreeIPA и
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 2093--2096
+Underfull \hbox (badness 4954) in paragraph at lines 2175--2178
 \TU/TimesNewRoman(0)/m/n/14.4 находится в домене ntp зоны gostev.test. Служба времени для сервера
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 2102--2110
+Underfull \hbox (badness 1077) in paragraph at lines 2184--2192
 \TU/TimesNewRoman(0)/m/n/14.4 смены, а также в расчете на секунду, если это необходимо). Необходимо
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2102--2110
+Underfull \hbox (badness 10000) in paragraph at lines 2184--2192
 \TU/TimesNewRoman(0)/m/n/14.4 и бесперебойной работы. Вычисления производятся с использованием
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 2111--2114
+Underfull \hbox (badness 1152) in paragraph at lines 2193--2196
 []\TU/TimesNewRoman(0)/m/n/14.4 Далее представлен расчет нагрузки для службы времени – NTP. На
  []
 
 File: ./images/ntp_wireshark_dump.png Graphic file (type bmp)
 <./images/ntp_wireshark_dump.png>
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 2132--2132
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2214
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2132--2132
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2214
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2132--2132
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2214
 \TU/TimesNewRoman(0)/b/n/12 обращений
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2132--2132
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2214
 \TU/TimesNewRoman(0)/b/n/12 (транзакций) за
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2132--2133
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2215
 []|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2132--2133
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2215
 \TU/TimesNewRoman(0)/b/n/12 за рабочий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2134--2134
+Underfull \hbox (badness 10000) in paragraph at lines 2216--2216
 []|\TU/TimesNewRoman(0)/m/n/12 Руководство
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2136--2136
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2218
 []|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2150--2150
+Underfull \hbox (badness 10000) in paragraph at lines 2232--2232
 []|\TU/TimesNewRoman(0)/m/n/12 Профильные
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 2157--2159
+Underfull \hbox (badness 3895) in paragraph at lines 2239--2241
 []\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 94080
  []
 
 File: ./images/dns_wireshark.png Graphic file (type bmp)
 <./images/dns_wireshark.png>
-[48]
-Underfull \hbox (badness 10000) in paragraph at lines 2181--2181
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 2263--2263
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2181--2181
+Underfull \hbox (badness 10000) in paragraph at lines 2263--2263
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2181--2181
+Underfull \hbox (badness 10000) in paragraph at lines 2263--2263
 \TU/TimesNewRoman(0)/b/n/12 обращений
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2181--2181
+Underfull \hbox (badness 10000) in paragraph at lines 2263--2263
 \TU/TimesNewRoman(0)/b/n/12 (транзакций) за
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2181--2182
+Underfull \hbox (badness 10000) in paragraph at lines 2263--2264
 []|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2181--2182
+Underfull \hbox (badness 10000) in paragraph at lines 2263--2264
 \TU/TimesNewRoman(0)/b/n/12 за рабочий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2183--2183
+Underfull \hbox (badness 10000) in paragraph at lines 2265--2265
 []|\TU/TimesNewRoman(0)/m/n/12 Руководство
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2185--2185
+Underfull \hbox (badness 10000) in paragraph at lines 2267--2267
 []|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2199--2199
+Underfull \hbox (badness 10000) in paragraph at lines 2281--2281
 []|\TU/TimesNewRoman(0)/m/n/12 Профильные
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 2206--2209
+Underfull \hbox (badness 2418) in paragraph at lines 2288--2291
 []\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 446400
  []
 
 File: ./images/web_wireshark.png Graphic file (type bmp)
 <./images/web_wireshark.png>
 
-Underfull \hbox (badness 2970) in paragraph at lines 2211--2219
+Underfull \hbox (badness 2970) in paragraph at lines 2293--2301
 \TU/TimesNewRoman(0)/m/n/14.4 видно, что максимальный пакет транзакции 46880 бит, всего пакетов в
  []
 
-[49]
-Underfull \hbox (badness 10000) in paragraph at lines 2232--2232
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 2314--2314
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2232--2232
+Underfull \hbox (badness 10000) in paragraph at lines 2314--2314
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2232--2232
+Underfull \hbox (badness 10000) in paragraph at lines 2314--2314
 \TU/TimesNewRoman(0)/b/n/12 обращений
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2232--2232
+Underfull \hbox (badness 10000) in paragraph at lines 2314--2314
 \TU/TimesNewRoman(0)/b/n/12 (транзакций) за
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2232--2233
+Underfull \hbox (badness 10000) in paragraph at lines 2314--2315
 []|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2232--2233
+Underfull \hbox (badness 10000) in paragraph at lines 2314--2315
 \TU/TimesNewRoman(0)/b/n/12 за рабочий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2234--2234
+Underfull \hbox (badness 10000) in paragraph at lines 2316--2316
 []|\TU/TimesNewRoman(0)/m/n/12 Руководство
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2236--2236
+Underfull \hbox (badness 10000) in paragraph at lines 2318--2318
 []|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2250--2250
+Underfull \hbox (badness 10000) in paragraph at lines 2332--2332
 []|\TU/TimesNewRoman(0)/m/n/12 Профильные
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 2257--2260
+Underfull \hbox (badness 2418) in paragraph at lines 2339--2342
 []\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 491700
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2262--2267
+Underfull \hbox (badness 10000) in paragraph at lines 2344--2349
 []\TU/TimesNewRoman(0)/m/n/14.4 Далее представлен расчет нагрузки для службы управления
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 2262--2267
-\TU/TimesNewRoman(0)/m/n/14.4 пользователями. На Рисунке [][]1.13[][] представлена транзакция, состоящия из
+Underfull \hbox (badness 1939) in paragraph at lines 2344--2349
+\TU/TimesNewRoman(0)/m/n/14.4 пользователями. На Рисунке [][]1.13[][] представлена транзакция, состоящая из
  []
 
 File: ./images/freeipa_wireshark.png Graphic file (type bmp)
 <./images/freeipa_wireshark.png>
 File: ./images/freeipa_wireshark_stats.png Graphic file (type bmp)
 <./images/freeipa_wireshark_stats.png>
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 2281--2282
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2364
 []\TU/TimesNewRoman(0)/m/n/14.4 Количество обращений к службе управления пользователями
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2290--2290
+Underfull \hbox (badness 10000) in paragraph at lines 2372--2372
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2290--2290
+Underfull \hbox (badness 10000) in paragraph at lines 2372--2372
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2290--2290
+Underfull \hbox (badness 10000) in paragraph at lines 2372--2372
 \TU/TimesNewRoman(0)/b/n/12 обращений
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2290--2290
+Underfull \hbox (badness 10000) in paragraph at lines 2372--2372
 \TU/TimesNewRoman(0)/b/n/12 (транзакций) за
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2290--2291
+Underfull \hbox (badness 10000) in paragraph at lines 2372--2373
 []|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2290--2291
+Underfull \hbox (badness 10000) in paragraph at lines 2372--2373
 \TU/TimesNewRoman(0)/b/n/12 за рабочий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2292--2292
+Underfull \hbox (badness 10000) in paragraph at lines 2374--2374
 []|\TU/TimesNewRoman(0)/m/n/12 Руководство
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2294--2294
+Underfull \hbox (badness 10000) in paragraph at lines 2376--2376
 []|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2308--2308
+Underfull \hbox (badness 10000) in paragraph at lines 2390--2390
 []|\TU/TimesNewRoman(0)/m/n/12 Профильные
  []
 
-[51]
-Underfull \hbox (badness 3895) in paragraph at lines 2315--2318
+[54]
+Underfull \hbox (badness 3895) in paragraph at lines 2397--2400
 []\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 66200
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 2319--2324
+Underfull \hbox (badness 3713) in paragraph at lines 2401--2406
 \TU/TimesNewRoman(0)/m/n/14.4 Рисунке [][]1.15[][] представлен общий вид транзакции: клиент манипулирует
  []
 
@@ -3823,162 +3955,487 @@ File: ./images/iscsi_wireshark.png Graphic file (type bmp)
 <./images/iscsi_wireshark.png>
 File: ./images/iscsi_stats_wireshark.png Graphic file (type bmp)
 <./images/iscsi_stats_wireshark.png>
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 2346--2346
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 2428--2428
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2346--2346
+Underfull \hbox (badness 10000) in paragraph at lines 2428--2428
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2346--2346
+Underfull \hbox (badness 10000) in paragraph at lines 2428--2428
 \TU/TimesNewRoman(0)/b/n/12 обращений
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2346--2346
+Underfull \hbox (badness 10000) in paragraph at lines 2428--2428
 \TU/TimesNewRoman(0)/b/n/12 (транзакций) за
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2346--2347
+Underfull \hbox (badness 10000) in paragraph at lines 2428--2429
 []|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2346--2347
+Underfull \hbox (badness 10000) in paragraph at lines 2428--2429
 \TU/TimesNewRoman(0)/b/n/12 за рабочий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2348--2348
+Underfull \hbox (badness 10000) in paragraph at lines 2430--2430
 []|\TU/TimesNewRoman(0)/m/n/12 Руководство
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2350--2350
+Underfull \hbox (badness 10000) in paragraph at lines 2432--2432
 []|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2364--2364
+Underfull \hbox (badness 10000) in paragraph at lines 2446--2446
 []|\TU/TimesNewRoman(0)/m/n/12 Профильные
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 2371--2374
+Underfull \hbox (badness 3895) in paragraph at lines 2453--2456
 []\TU/TimesNewRoman(0)/m/n/14.4 В итоге за 8-часовой рабочий день формируется примерно 61220
  []
 
 File: ./images/dhcp_wireshark.png Graphic file (type bmp)
 <./images/dhcp_wireshark.png>
 
-Underfull \hbox (badness 1953) in paragraph at lines 2385--2388
+Underfull \hbox (badness 1953) in paragraph at lines 2467--2470
 []\TU/TimesNewRoman(0)/m/n/14.4 DHCP-сервер сконфигурирован со следующими параметрами: время
  []
 
-[53]
-Underfull \hbox (badness 10000) in paragraph at lines 2398--2398
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 2480--2480
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2398--2398
+Underfull \hbox (badness 10000) in paragraph at lines 2480--2480
 []|\TU/TimesNewRoman(0)/b/n/12 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2398--2398
+Underfull \hbox (badness 10000) in paragraph at lines 2480--2480
 \TU/TimesNewRoman(0)/b/n/12 обращений
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2398--2398
+Underfull \hbox (badness 10000) in paragraph at lines 2480--2480
 \TU/TimesNewRoman(0)/b/n/12 (транзакций) за
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2398--2399
+Underfull \hbox (badness 10000) in paragraph at lines 2480--2481
 []|\TU/TimesNewRoman(0)/b/n/12 Всего пакетов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2398--2399
+Underfull \hbox (badness 10000) in paragraph at lines 2480--2481
 \TU/TimesNewRoman(0)/b/n/12 за рабочий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2400--2400
+Underfull \hbox (badness 10000) in paragraph at lines 2482--2482
 []|\TU/TimesNewRoman(0)/m/n/12 Руководство
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2402--2402
+Underfull \hbox (badness 10000) in paragraph at lines 2484--2484
 []|\TU/TimesNewRoman(0)/m/n/12 Коммерческий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2416--2416
+Underfull \hbox (badness 10000) in paragraph at lines 2498--2498
 []|\TU/TimesNewRoman(0)/m/n/12 Профильные
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 2432--2434
+Underfull \hbox (badness 2181) in paragraph at lines 2509--2512
+[]\TU/TimesNewRoman(0)/m/n/14.4 На основе полученных данных требуется с использованием теории
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 2509--2512
+\TU/TimesNewRoman(0)/m/n/14.4 очередей М/М/1 [[][]9[][]] оценить минимально необходимую скорость канала
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 2509--2512
+\TU/TimesNewRoman(0)/m/n/14.4 передачи данных. Медианное значение максимального размера файлового
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 2509--2512
+\TU/TimesNewRoman(0)/m/n/14.4 пакета равно 20448, сумма всех пакетов равна 2176. Таким образом
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 2509--2512
+\TU/TimesNewRoman(0)/m/n/14.4 минимальная скорость канала будет равна примерно 53 Мбит/с(Формула
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 2515--2517
 \TU/TimesNewRoman(0)/m/n/14.4 В итоге можно сделать вывод о том, что канала в 1 Гбит/с хватит для
  []
 
-[54]
 
-LaTeX Warning: Citation '' on page 55 undefined on input line 2446.
+LaTeX Warning: Reference `' on page 57 undefined on input line 2520.
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 2446--2450
-\TU/TimesNewRoman(0)/m/n/14.4 Fedora Server 39 [[]](https://fedoraproject.org/server/download),
+Underfull \hbox (badness 2359) in paragraph at lines 2519--2521
+[]\TU/TimesNewRoman(0)/m/n/14.4 Итоговое планирование совпало с предварительным планированием,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2446--2450
-\TU/TimesNewRoman(0)/m/n/14.4 используется Debian 12, имя локального пользователя для клиента –
+Underfull \hbox (badness 6559) in paragraph at lines 2519--2521
+\TU/TimesNewRoman(0)/m/n/14.4 поэтому дополнительные изменения в прототипировании не требуются.
  []
 
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+[]|\TU/TimesNewRoman(0)/b/n/12 Название
+ []
+
+
+Overfull \hbox (0.85521pt too wide) in paragraph at lines 2531--2531
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+\TU/TimesNewRoman(0)/b/n/12 устройств,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+[]|\TU/TimesNewRoman(0)/b/n/12 Стоимость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+\TU/TimesNewRoman(0)/b/n/12 одного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+\TU/TimesNewRoman(0)/b/n/12 устройства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+[]|\TU/TimesNewRoman(0)/b/n/12 Мощность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+\TU/TimesNewRoman(0)/b/n/12 одного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+\TU/TimesNewRoman(0)/b/n/12 устройства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+[]|\TU/TimesNewRoman(0)/b/n/12 Суммарная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
+\TU/TimesNewRoman(0)/b/n/12 стоимость,
+ []
+
+
+Overfull \hbox (2.80374pt too wide) in paragraph at lines 2531--2532
+[]|\TU/TimesNewRoman(0)/b/n/12 Суммарная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2532
+\TU/TimesNewRoman(0)/b/n/12 мощность,
+ []
+
+
+Overfull \hbox (1.91814pt too wide) in paragraph at lines 2533--2533
+[]|\TU/TimesNewRoman(0)/m/n/12 Маршрутизатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+[]|\TU/TimesNewRoman(0)/b/n/12 Название
+ []
+
+
+Overfull \hbox (0.85521pt too wide) in paragraph at lines 2548--2548
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+\TU/TimesNewRoman(0)/b/n/12 устройств,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+[]|\TU/TimesNewRoman(0)/b/n/12 Стоимость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+\TU/TimesNewRoman(0)/b/n/12 одного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+\TU/TimesNewRoman(0)/b/n/12 устройства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+[]|\TU/TimesNewRoman(0)/b/n/12 Мощность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+\TU/TimesNewRoman(0)/b/n/12 одного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+\TU/TimesNewRoman(0)/b/n/12 устройства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+[]|\TU/TimesNewRoman(0)/b/n/12 Суммарная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2548
+\TU/TimesNewRoman(0)/b/n/12 стоимость,
+ []
+
+
+Overfull \hbox (2.80374pt too wide) in paragraph at lines 2548--2549
+[]|\TU/TimesNewRoman(0)/b/n/12 Суммарная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2549
+\TU/TimesNewRoman(0)/b/n/12 мощность,
+ []
+
+
+Overfull \hbox (1.91814pt too wide) in paragraph at lines 2550--2550
+[]|\TU/TimesNewRoman(0)/m/n/12 Маршрутизатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+[]|\TU/TimesNewRoman(0)/b/n/12 Название
+ []
+
+
+Overfull \hbox (0.85521pt too wide) in paragraph at lines 2564--2564
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+\TU/TimesNewRoman(0)/b/n/12 устройств,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+[]|\TU/TimesNewRoman(0)/b/n/12 Стоимость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+\TU/TimesNewRoman(0)/b/n/12 одного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+\TU/TimesNewRoman(0)/b/n/12 устройства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+[]|\TU/TimesNewRoman(0)/b/n/12 Мощность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+\TU/TimesNewRoman(0)/b/n/12 одного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+\TU/TimesNewRoman(0)/b/n/12 устройства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+[]|\TU/TimesNewRoman(0)/b/n/12 Суммарная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+\TU/TimesNewRoman(0)/b/n/12 стоимость,
+ []
+
+
+Overfull \hbox (2.80374pt too wide) in paragraph at lines 2564--2565
+[]|\TU/TimesNewRoman(0)/b/n/12 Суммарная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2565
+\TU/TimesNewRoman(0)/b/n/12 мощность,
+ []
+
+
+Overfull \hbox (1.91814pt too wide) in paragraph at lines 2566--2566
+[]|\TU/TimesNewRoman(0)/m/n/12 Маршрутизатор
+ []
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+[]|\TU/TimesNewRoman(0)/b/n/12 Название
+ []
+
+
+Overfull \hbox (0.85521pt too wide) in paragraph at lines 2579--2579
+[]|\TU/TimesNewRoman(0)/b/n/12 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+\TU/TimesNewRoman(0)/b/n/12 устройств,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+[]|\TU/TimesNewRoman(0)/b/n/12 Стоимость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+\TU/TimesNewRoman(0)/b/n/12 одного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+\TU/TimesNewRoman(0)/b/n/12 устройства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+[]|\TU/TimesNewRoman(0)/b/n/12 Мощность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+\TU/TimesNewRoman(0)/b/n/12 одного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+\TU/TimesNewRoman(0)/b/n/12 устройства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+[]|\TU/TimesNewRoman(0)/b/n/12 Суммарная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2579
+\TU/TimesNewRoman(0)/b/n/12 стоимость,
+ []
+
+
+Overfull \hbox (2.80374pt too wide) in paragraph at lines 2579--2580
+[]|\TU/TimesNewRoman(0)/b/n/12 Суммарная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2580
+\TU/TimesNewRoman(0)/b/n/12 мощность,
+ []
+
+
+Overfull \hbox (1.91814pt too wide) in paragraph at lines 2581--2581
+[]|\TU/TimesNewRoman(0)/m/n/12 Маршрутизатор
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 2600--2605
+[]\TU/TimesNewRoman(0)/m/n/14.4 Таким образом, учитывая количество объектов всего предприятия,
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 2600--2605
+\TU/TimesNewRoman(0)/m/n/14.4 следует подсчитать суммарную необходимую мощность для корректной
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 2600--2605
+\TU/TimesNewRoman(0)/m/n/14.4 работы, а также стоимость всех промежуточных устройств в условных
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 2600--2605
+\TU/TimesNewRoman(0)/m/n/14.4 единицах. Итого, стоимость всех устройств составляет 45500 условных
+ []
+
+[59]
 File: ./images/vm_installation.png Graphic file (type bmp)
 <./images/vm_installation.png>
-[55]
+ [60]
 File: ./images/services/dns/dnszones.png Graphic file (type bmp)
 <./images/services/dns/dnszones.png>
 File: ./images/services/dns/dns_records.png Graphic file (type bmp)
 <./images/services/dns/dns_records.png>
 File: ./images/services/dns/client_dns_setup.png Graphic file (type bmp)
 <./images/services/dns/client_dns_setup.png>
- [56]
+ [61]
 File: ./images/services/dns/nslookup.png Graphic file (type bmp)
 <./images/services/dns/nslookup.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2495--2497
+Underfull \hbox (badness 10000) in paragraph at lines 2666--2668
 []\TU/TimesNewRoman(0)/m/n/14.4 Далее представлено развертывание службы динамического
  []
 
 File: ./images/services/dhcp/servercfg.png Graphic file (type bmp)
 <./images/services/dhcp/servercfg.png>
-[57]
+[62]
 File: ./images/services/dhcp/clientcfg.png Graphic file (type bmp)
 <./images/services/dhcp/clientcfg.png>
 File: ./images/services/dhcp/clientproofdhcp.png Graphic file (type bmp)
 <./images/services/dhcp/clientproofdhcp.png>
- [58]
+ [63]
 File: ./images/services/web/server_cfg.png Graphic file (type bmp)
 <./images/services/web/server_cfg.png>
 File: ./images/services/web/index.png Graphic file (type bmp)
 <./images/services/web/index.png>
- [59]
+ [64]
 File: ./images/services/ntp/client_status.png Graphic file (type bmp)
 <./images/services/ntp/client_status.png>
 File: ./images/services/ntp/client_time.png Graphic file (type bmp)
 <./images/services/ntp/client_time.png>
- [60]
+ [65]
 File: ./images/services/iscsi/server_cfg.png Graphic file (type bmp)
 <./images/services/iscsi/server_cfg.png>
 File: ./images/services/iscsi/server_file_content.png Graphic file (type bmp)
@@ -3987,22 +4444,115 @@ File: ./images/services/iscsi/connect.png Graphic file (type bmp)
 <./images/services/iscsi/connect.png>
 File: ./images/services/iscsi/write.png Graphic file (type bmp)
 <./images/services/iscsi/write.png>
- [61]
+ [66]
 File: ./images/services/iscsi/read.png Graphic file (type bmp)
 <./images/services/iscsi/read.png>
 File: ./images/services/freeipa/ipa_status.png Graphic file (type bmp)
 <./images/services/freeipa/ipa_status.png>
 
-Underfull \hbox (badness 1990) in paragraph at lines 2601--2608
+Underfull \hbox (badness 1990) in paragraph at lines 2772--2779
 []\TU/TimesNewRoman(0)/m/n/14.4 Также необходимо развернуть службу управления пользователями в
  []
 
-[62]
+[67]
 File: ./images/services/freeipa/users.png Graphic file (type bmp)
 <./images/services/freeipa/users.png>
 File: ./images/services/freeipa/client_logging.png Graphic file (type bmp)
 <./images/services/freeipa/client_logging.png>
- [63] [64] (e:\thesis5sem\out\thesis.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 2799--2804
+\TU/TimesNewRoman(0)/m/n/14.4 сети сосредоточен на самой большой площадке предприятия, которая
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 2799--2804
+\TU/TimesNewRoman(0)/m/n/14.4 данных представлены в Приложении А, конфигурации сетевых устройств
+ []
+
+[68] [69] [70]
+Underfull \hbox (badness 10000) in paragraph at lines 2819--2824
+\TU/TimesNewRoman(0)/m/n/14.4 проверок эхо-запросов представлены на Рисунках [][]A.1[][]-[][]A.3[][]. Топология,
+ []
+
+File: ./images/pt_server_ping.png Graphic file (type bmp)
+<./images/pt_server_ping.png>
+File: ./images/pt_acl_ping.png Graphic file (type bmp)
+<./images/pt_acl_ping.png>
+File: ./images/pt_out_campus_ping.png Graphic file (type bmp)
+<./images/pt_out_campus_ping.png>
+[71] [72]
+File: ./images/pt_topo.png Graphic file (type bmp)
+<./images/pt_topo.png>
+ [73
+
+] (configs/SW_1_L2_GOSTEV_startup-config.txt) [74
+
+] (configs/SW_1_L2_GOSTEV_startup-config.txt) [75] (configs/SW_2_L2_GOSTEV_startup-config.txt) [76] (configs/SW_2_L2_GOSTEV_startup-config.txt) [77] (configs/SW_3_L2_GOSTEV_startup-config.txt) [78] (configs/SW_3_L2_GOSTEV_startup-config.txt) [79] (configs/SW_4_L2_GOSTEV_startup-config.txt) [80] (configs/SW_4_L2_GOSTEV_startup-config.txt) [81] (configs/SW_5_L2_GOSTEV_startup-config.txt) [82] (configs/SW_5_L2_GOSTEV_startup-config.txt) [83] (configs/SW_6_L2_GOSTEV_startup-config.txt) [84] (configs/SW_6_L2_GOSTEV_startup-config.txt) [85] (configs/SW_7_L2_GOSTEV_startup-config.txt) [86] (configs/SW_7_L2_GOSTEV_startup-config.txt) [87] (configs/SW_8_L2_GOSTEV_startup-config.txt) [88] (configs/SW_8_L2_GOSTEV_startup-config.txt) [89] (configs/SW_9_L2_GOSTEV_startup-config.txt) [90] (configs/SW_9_L2_GOSTEV_startup-config.txt) [91] (configs/SW_10_L2_GOSTEV_startup-config.txt) [92] (configs/SW_10_L2_GOSTEV_startup-config.txt) [93] (configs/SW_11_L2_GOSTEV_startup-config.txt) [94] (configs/SW_11_L2_GOSTEV_startup-config.txt) [95] (configs/R_1_L3_GOSTEV_startup-config.txt) [96] (configs/R_1_L3_GOSTEV_startup-config.txt) [97]
+Underfull \hbox (badness 10000) in paragraph at lines 2923--2936
+[]\TU/TimesNewRoman(0)/m/n/14.4 В ходе выполнения данной курсовой работы было проведено
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2923--2936
+\TU/TimesNewRoman(0)/m/n/14.4 и сервисов для предприятия, осуществляющего розничную торговлю
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 2923--2936
+\TU/TimesNewRoman(0)/m/n/14.4 изделиями, применяемыми в медицинских целях, в специализированных
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 2923--2936
+\TU/TimesNewRoman(0)/m/n/14.4 магазинах. Целью исследования было создание эффективной и надежной
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 2923--2936
+\TU/TimesNewRoman(0)/m/n/14.4 безопасность и масштабируемость. На основе полученных данных были
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2937--2946
+[]\TU/TimesNewRoman(0)/m/n/14.4 В заключение, выполнение данной курсовой работы позволило
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 2937--2946
+\TU/TimesNewRoman(0)/m/n/14.4 разработать практически применимые рекомендации по проектированию
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 2937--2946
+\TU/TimesNewRoman(0)/m/n/14.4 и реализации сети передачи данных для предприятия. Созданная сетевая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2937--2946
+\TU/TimesNewRoman(0)/m/n/14.4 инфраструктура обеспечивает эффективный информационный обмен и
+ []
+
+[98]
+Overfull \hbox (59.69798pt too wide) in paragraph at lines 2946--2946
+[]\TU/TimesNewRoman(0)/m/n/14.4 Технология VLAN. — Режим доступа: https://moxa.ru/tehnologii/ethernet_network/rstp/
+ []
+
+
+Overfull \hbox (16.72304pt too wide) in paragraph at lines 2946--2946
+[]\TU/TimesNewRoman(0)/m/n/14.4 Rapid STP. — Режим доступа: https://habr.com/ru/companies/cbs/articles/330358/
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 2946--2946
+[]\TU/TimesNewRoman(0)/m/n/14.4 Qos. — Режим доступа: https://www.calltouch.ru/blog/glossary/qos/ (Дата
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 2946--2946
+[]\TU/TimesNewRoman(0)/m/n/14.4 Вальран, Парех. Коммуникационные сети: краткое введение. — ДМК
+ []
+
+[99] (e:\thesis5sem\out\thesis.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -4015,18 +4565,18 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 5D8254C2492E50941B5F2743DC693408;5459.
+(rerunfilecheck)             Checksum: 368BF6425FE1F5F2A528D7AA4800DAD5;7117.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35653 strings out of 409717
- 683758 string characters out of 5775939
- 2188313 words of memory out of 5000000
- 57150 multiletter control sequences out of 15000+600000
+ 35844 strings out of 409717
+ 690473 string characters out of 5775939
+ 2370075 words of memory out of 5000000
+ 57276 multiletter control sequences out of 15000+600000
  564733 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,17n,114p,1165b,5158s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,114p,1165b,5168s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on e:\thesis5sem\out\thesis.xdv (64 pages, 757188 bytes).
+Output written on e:\thesis5sem\out\thesis.xdv (99 pages, 1362768 bytes).

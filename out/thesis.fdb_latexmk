@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber out/thesis"] 1702465818 "out/thesis.bcf" "out/thesis.bbl" "out/thesis" 1703841787 0
-  "./thesis.bib" 1701971992 259 2eddb7b48205076f7aa4566cb6b67d06 ""
-  "out/thesis.bcf" 1703841778 154398 a6a4d61fbe73a289413bf55114d7d0da "xelatex"
+["biber out/thesis"] 1703862114 "out/thesis.bcf" "out/thesis.bbl" "out/thesis" 1703863208 0
+  "./thesis.bib" 1703862105 1627 a8893b5242776ec108f18769f5576793 ""
+  "out/thesis.bcf" 1703863200 154900 a55c02787fe29c765252500717014049 "xelatex"
   (generated)
   "out/thesis.bbl"
   "out/thesis.blg"
   (rewritten before read)
-["xdvipdfmx"] 1703841779 "out/thesis.xdv" "out/thesis.pdf" "out/thesis" 1703841787 0
-  "out/thesis.xdv" 1703841778 757188 ceff2a39cd9b9c6c5507733d884564d1 "xelatex"
+["xdvipdfmx"] 1703863201 "out/thesis.xdv" "out/thesis.pdf" "out/thesis" 1703863208 0
+  "out/thesis.xdv" 1703863200 1362768 2c244db06f85104421d1ccd7b6c36493 "xelatex"
   (generated)
   "out/thesis.pdf"
   (rewritten before read)
-["xelatex"] 1703841774 "e:/thesis5sem/thesis.tex" "out/thesis.xdv" "thesis" 1703841787 0
+["xelatex"] 1703863195 "e:/thesis5sem/thesis.tex" "out/thesis.xdv" "thesis" 1703863208 0
   "C:/Users/goste/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1701555509 37532208 ce16e5fbe975a6ece71afb813d73f359 ""
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136761454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -173,7 +173,19 @@
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/goste/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "e:/thesis5sem/thesis.tex" 1703841767 140588 9bb3d1b889ed8c2c4e447976a9551f20 ""
+  "configs/R_1_L3_GOSTEV_startup-config.txt" 1703856736 2035 ffc876f831ea4c250a9fc174c94af388 ""
+  "configs/SW_10_L2_GOSTEV_startup-config.txt" 1703856687 1562 6b5a5f5ef61b7e88316b539a228a1554 ""
+  "configs/SW_11_L2_GOSTEV_startup-config.txt" 1703856698 1562 ffac15f06eaca66e14961bb9764e6563 ""
+  "configs/SW_1_L2_GOSTEV_startup-config.txt" 1703856042 1602 0626f63960fad07d4734bb69c8a01933 ""
+  "configs/SW_2_L2_GOSTEV_startup-config.txt" 1703856620 1612 b73b8e56506775e83682794426a505e5 ""
+  "configs/SW_3_L2_GOSTEV_startup-config.txt" 1703856629 1560 9306a979a4e50e6ec3147e93b1d7c065 ""
+  "configs/SW_4_L2_GOSTEV_startup-config.txt" 1703856638 1560 9acec38239adec0b1b38e447273ad920 ""
+  "configs/SW_5_L2_GOSTEV_startup-config.txt" 1703856646 1560 4f340250885612a4407a88640806a093 ""
+  "configs/SW_6_L2_GOSTEV_startup-config.txt" 1703856654 1560 e7c079fd694b73d3ac32b845eb0c4ada ""
+  "configs/SW_7_L2_GOSTEV_startup-config.txt" 1703856663 1560 cfcdc8e992da9c4ab9431166b7390f67 ""
+  "configs/SW_8_L2_GOSTEV_startup-config.txt" 1703856672 1612 93cb5e899360c37a7be1b42729103b8c ""
+  "configs/SW_9_L2_GOSTEV_startup-config.txt" 1703856679 1560 e53e700864a0f8d30b94f11f970663f6 ""
+  "e:/thesis5sem/thesis.tex" 1703863188 164745 87b5b26d6d71d63b936797afc87101af ""
   "images/ARIS_filialStructure.png" 1701985323 95500 e4fcc1524541c049a3e590ff46399968 ""
   "images/ARIS_mainDepStructure.png" 1702043716 102677 251d5ea20b905fa3906b385e0106093b ""
   "images/ARIS_tpStructure.png" 1701986581 59252 edf52ed482ddfe72b5647ac54992cb4c ""
@@ -186,6 +198,10 @@
   "images/iscsi_stats_wireshark.png" 1703026344 51854 431dbedec4b97a76f0199e0da48909d8 ""
   "images/iscsi_wireshark.png" 1703026319 114018 2359cbea23ffd140bbaf2d79cb9bacb7 ""
   "images/ntp_wireshark_dump.png" 1702852828 49406 f2846589f24a28698788912ef154bf58 ""
+  "images/pt_acl_ping.png" 1703854652 25630 64d05c053dd942fdcdd08b5c5fa37c61 ""
+  "images/pt_out_campus_ping.png" 1703854610 26813 4bb83b03565ab497f65dd7d14380fef2 ""
+  "images/pt_server_ping.png" 1703854713 28429 821f564d5d00bd0b37af83c8c9474f70 ""
+  "images/pt_topo.png" 1703854549 130109 86bcc0b947a516adaed5bdc0bc3c7228 ""
   "images/services/dhcp/clientcfg.png" 1702755678 7978 393403fb04ebb22eeb3929451c7ed829 ""
   "images/services/dhcp/clientproofdhcp.png" 1702755486 42292 b8555b45b1307ae17b41a127cb0c9865 ""
   "images/services/dhcp/servercfg.png" 1702805766 26938 19b778d20d0e13235ffdfdef9513b830 ""
@@ -205,18 +221,18 @@
   "images/services/ntp/client_time.png" 1702756418 22974 c55acef72c823f644c8c0a41bda5bf31 ""
   "images/services/web/index.png" 1702836587 568798 d3467fee2a362f2d9d7be64214d4f203 ""
   "images/services/web/server_cfg.png" 1702837316 20136 e79d84980f3e5a306cd651a0e318c1f9 ""
-  "images/topo_filial.png" 1702478283 569314 42156fb70cee1573a72570c1d450fcf8 ""
-  "images/topo_mainDep.png" 1702140161 967329 1fa00281a98a49051b6711f44e8feaec ""
+  "images/topo_filial.png" 1703853865 519040 17c049adcfa49256d292b1c7a5390d70 ""
+  "images/topo_mainDep.png" 1703853921 971559 4bccfd16e0424498b0775ba17e8193b4 ""
   "images/topo_tp.png" 1702127169 147154 9403eff8ae81cc56a2751fe55f8e782b ""
   "images/topo_warehouse.png" 1702200548 173901 c5bbbc8636cbdffa6234c6c981caf49c ""
   "images/vm_installation.png" 1702761501 74601 e57152aee43329a7f469afb9193e2829 ""
   "images/web_wireshark.png" 1703008312 79392 6061ff9d683fb2d80abe6c79cd4a6bc5 ""
-  "out/thesis.aux" 1703841778 33236 14236b5907234e3e9e26074037dfbbfa "xelatex"
-  "out/thesis.bbl" 1702465822 1833 988dd545cdcdc698952c9cef41a67cab "biber out/thesis"
-  "out/thesis.out" 1703841778 5459 5d8254c2492e50941b5f2743dc693408 "xelatex"
-  "out/thesis.run.xml" 1703841778 2614 1f3d9a6408eb80ab03a13c8fe31e73bf "xelatex"
-  "out/thesis.toc" 1703841778 2162 7252136a069821557b6b6de30363b742 "xelatex"
-  "thesis.tex" 1703841767 140588 9bb3d1b889ed8c2c4e447976a9551f20 ""
+  "out/thesis.aux" 1703863200 42702 8ecac9f9006e6ea0ef61f31c7005d8b1 "xelatex"
+  "out/thesis.bbl" 1703862116 8136 1f2086fa3ffa2cec47476fb9e88eccfe "biber out/thesis"
+  "out/thesis.out" 1703863200 7117 368bf6425fe1f5f2a528d7aa4800dad5 "xelatex"
+  "out/thesis.run.xml" 1703863200 2614 1f3d9a6408eb80ab03a13c8fe31e73bf "xelatex"
+  "out/thesis.toc" 1703863200 2900 3c3555900a2f4ae89b007829da47f120 "xelatex"
+  "thesis.tex" 1703863188 164745 87b5b26d6d71d63b936797afc87101af ""
   (generated)
   "out/thesis.aux"
   "out/thesis.bcf"

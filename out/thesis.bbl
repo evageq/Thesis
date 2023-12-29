@@ -48,6 +48,177 @@
       \field{volume}{2}
       \range{volume}{1}
     \endentry
+    \entry{olifer}{misc}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=37f7df6dcd3093b31621f66319150884}{%
+           family={Олифер},
+           familyi={О\bibinitperiod},
+           given={Виктор},
+           giveni={В\bibinitperiod}}}%
+        {{hash=8be27124557b82dff363835898bd6f52}{%
+           family={Олифер},
+           familyi={О\bibinitperiod},
+           given={Наталия},
+           giveni={Н\bibinitperiod}}}%
+        {{hash=c8d36ea43b98607b5f29b65ec3f30470}{%
+           family={Олифер},
+           familyi={О\bibinitperiod},
+           given={В},
+           giveni={В\bibinitperiod}}}%
+        {{hash=95a90ad1a975057f41f631643a132ae3}{%
+           family={Олифер},
+           familyi={О\bibinitperiod},
+           given={Н},
+           giveni={Н\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Олифер В.}%
+      }
+      \strng{authorbibnamehash}{1e98c5bf2e097cba40fb698bc8e73f17}
+      \strng{authornamehash}{1e98c5bf2e097cba40fb698bc8e73f17}
+      \strng{authorfullhash}{26df7902163537d0e2d919ccd64555e2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Компьютерные сети}
+      \field{year}{2010}
+    \endentry
+    \entry{davis2007aris}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a8a5ff25c337cf646d760b7709b4ad09}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f3e130117bee02ee8265f855ac75c753}{%
+           family={Brabander},
+           familyi={B\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{5cfa52ae24a0286d22dc9e3ca37005b6}
+      \strng{fullhash}{5cfa52ae24a0286d22dc9e3ca37005b6}
+      \strng{bibnamehash}{5cfa52ae24a0286d22dc9e3ca37005b6}
+      \strng{authorbibnamehash}{5cfa52ae24a0286d22dc9e3ca37005b6}
+      \strng{authornamehash}{5cfa52ae24a0286d22dc9e3ca37005b6}
+      \strng{authorfullhash}{5cfa52ae24a0286d22dc9e3ca37005b6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ARIS design platform: getting started with BPM}
+      \field{year}{2007}
+    \endentry
+    \entry{vlan}{online}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{Технология VLAN}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://moxa.ru/tehnologii/ethernet_network/rstp/
+      \endverb
+      \verb{url}
+      \verb https://moxa.ru/tehnologii/ethernet_network/rstp/
+      \endverb
+    \endentry
+    \entry{habrp-rstp}{online}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Хабр}
+      \field{title}{Rapid STP}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://habr.com/ru/companies/cbs/articles/330358/
+      \endverb
+      \verb{url}
+      \verb https://habr.com/ru/companies/cbs/articles/330358/
+      \endverb
+    \endentry
+    \entry{qos}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{title}{Qos}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.calltouch.ru/blog/glossary/qos/
+      \endverb
+      \verb{url}
+      \verb https://www.calltouch.ru/blog/glossary/qos/
+      \endverb
+    \endentry
+    \entry{freeipa}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{title}{Документация к FreeIPA}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.freeipa.org/
+      \endverb
+      \verb{url}
+      \verb https://www.freeipa.org/
+      \endverb
+    \endentry
+    \entry{habrp-wireshark}{online}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Хабр}
+      \field{title}{Wireshark — подробное руководство по началу использования}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://habr.com/ru/articles/735866/
+      \endverb
+      \verb{url}
+      \verb https://habr.com/ru/articles/735866/
+      \endverb
+    \endentry
+    \entry{calc}{book}{}
+      \name{author}{2}{}{%
+        {{hash=29abb6756b7cde3d6d41e821e2f5ade5}{%
+           family={Вальран},
+           familyi={В\bibinitperiod}}}%
+        {{hash=c71575138a591b07efd20ab603ac0cc0}{%
+           family={Парех},
+           familyi={П\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ДМК Пресс}%
+      }
+      \strng{namehash}{8909d035d2ee013da89b1562afc18168}
+      \strng{fullhash}{8909d035d2ee013da89b1562afc18168}
+      \strng{bibnamehash}{8909d035d2ee013da89b1562afc18168}
+      \strng{authorbibnamehash}{8909d035d2ee013da89b1562afc18168}
+      \strng{authornamehash}{8909d035d2ee013da89b1562afc18168}
+      \strng{authorfullhash}{8909d035d2ee013da89b1562afc18168}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Коммуникационные сети: краткое введение}
+      \field{year}{2022}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
