@@ -21,5 +21,5 @@
 \contentsline {section}{ПРИЛОЖЕНИЯ}{70}{subsection.2.2}%
 \contentsline {section}{\numberline {A}Тестирование работоспособности сети}{71}{appendix.A}%
 \contentsline {section}{\numberline {B}Конфигурация сетевых устройств}{74}{appendix.B}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{98}{lstnumber.-12.57}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗУЕМЫХ ИСТОЧНИКОВ}{99}{lstnumber.-12.57}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{112}{lstnumber.-23.34}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗУЕМЫХ ИСТОЧНИКОВ}{113}{lstnumber.-23.34}%

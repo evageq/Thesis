@@ -35,6 +35,44 @@ no ip domain-lookup
 !
 spanning-tree mode rapid-pvst
 !
+class-map match-all gold
+ match ip dscp ef
+class-map match-all silver
+ match ip dscp af11
+ match ip dscp af12
+ match ip dscp af21
+class-map match-all bronze
+ match ip dscp af31
+class-map match-all EF
+ match access-group name iSCSI
+class-map match-all AF21
+ match access-group name DHCP
+class-map match-all AF11
+ match access-group name FreeIPA
+class-map match-all AF12
+ match access-group name Web
+class-map match-all AF31
+ match access-group name DNS
+!
+policy-map QOS
+ class gold
+  bandwidth percent 50
+ class silver
+  bandwidth percent 25
+ class bronze
+  bandwidth percent 15
+!
+policy-map SETDSCP
+ class EF
+  set ip dscp ef
+ class AF21
+  set ip dscp af21
+ class AF11
+  set ip dscp af11
+ class AF12
+  set ip dscp af12
+ class AF31
+  set ip dscp af31
 !
 !
 !
@@ -212,6 +250,19 @@ access-list 1 deny 192.168.8.0 0.0.0.255
 access-list 1 deny 192.168.9.0 0.0.0.255
 access-list 1 deny 192.168.10.0 0.0.0.255
 access-list 1 permit any
+ip access-list extended iSCSI
+ permit tcp any any eq 860
+ip access-list extended DHCP
+ permit udp any any eq bootps
+ permit udp any any eq bootpc
+ip access-list extended FreeIPA
+ permit tcp any any eq 389
+ permit tcp any any eq 636
+ip access-list extended Webservice
+ permit tcp any any eq www
+ permit tcp any any eq 443
+ip access-list extended DNS
+ permit tcp any any eq domain
 !
 banner motd # Unauthorized access is prohibited! #
 !
