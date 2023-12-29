@@ -446,6 +446,8 @@ INPUT .\images\iscsi_wireshark.png
 INPUT .\images\iscsi_wireshark.png
 INPUT .\images\iscsi_stats_wireshark.png
 INPUT .\images\iscsi_stats_wireshark.png
+INPUT .\images\dhcp_wireshark.png
+INPUT .\images\dhcp_wireshark.png
 INPUT .\images\vm_installation.png
 INPUT .\images\vm_installation.png
 INPUT .\images\services\dns\dnszones.png
